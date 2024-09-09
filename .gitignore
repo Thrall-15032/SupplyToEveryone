@@ -1,3 +1,5 @@
-converter/backup/*
-converter/lib/*
-converter/tmp/*
+/converter/backup/*
+/converter/lib/*
+/converter/tmp/*
+/converter/*.txt
+/converter/*.exe
