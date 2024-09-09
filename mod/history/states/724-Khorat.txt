@@ -1,0 +1,109 @@
+state={
+	id=724
+	name="STATE_724"
+	manpower = 2041700
+	
+	state_category = rural
+	
+	resources={
+		rubber=40 # was: 70
+	}
+
+
+	history={
+		owner = SIA
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			7236 1 
+		}
+		add_core_of = SIA
+		buildings={
+			infrastructure=5
+			10156={
+				supply_node=1
+				naval_base=10
+			}
+			10158={
+				supply_node=1
+				naval_base=10
+			}
+			12122={
+				supply_node=1
+				naval_base=10
+			}
+			12131={
+				supply_node=1
+				naval_base=10
+			}
+			12201={
+				supply_node=1
+				naval_base=10
+			}
+			12220={
+				supply_node=1
+				naval_base=10
+			}
+			12230={
+				supply_node=1
+				naval_base=10
+			}
+			12286={
+				supply_node=1
+				naval_base=10
+			}
+			1279={
+				supply_node=1
+				naval_base=10
+			}
+			1281={
+				supply_node=1
+				naval_base=10
+			}
+			1308={
+				supply_node=1
+				naval_base=10
+			}
+			1337={
+				supply_node=1
+				naval_base=10
+			}
+			1366={
+				supply_node=1
+				naval_base=10
+			}
+			1394={
+				supply_node=1
+			}
+			4297={
+				supply_node=1
+			}
+			4312={
+				supply_node=1
+				naval_base=10
+			}
+			4371={
+				supply_node=1
+				naval_base=10
+			}
+			4388={
+				supply_node=1
+				naval_base=10
+			}
+			4392={
+				supply_node=1
+			}
+			7236={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	
+	provinces={
+		1279 1281 1308 1337 1366 1394 4297 4312 4371 4388 4392 7236 10156 10158 12122 12131 12201 12220 12230 12286 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,72 @@
+
+state={
+	id=240
+	name="STATE_240" # Belgorod
+	manpower = 1364537
+	
+	state_category = town
+
+	history={
+		victory_points = {
+			9449 1
+		}
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		add_core_of = SOV
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+			}
+		}
+		buildings={
+			infrastructure=5
+			11439={
+				supply_node=1
+			}
+			11500={
+				supply_node=1
+			}
+			3492={
+				supply_node=1
+			}
+			473={
+				supply_node=1
+			}
+			534={
+				supply_node=1
+			}
+			6432={
+				supply_node=1
+			}
+			6481={
+				supply_node=1
+			}
+			6517={
+				supply_node=1
+			}
+			6577={
+				supply_node=1
+			}
+			9424={
+				supply_node=1
+			}
+			9449={
+				supply_node=1
+			}
+			9489={
+				supply_node=1
+			}
+			9518={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		473 534 3492 6432 6481 6517 6577 9424 9449 9489 9518 11439 11500 
+	}
+
+	local_supplies=0.0 
+}

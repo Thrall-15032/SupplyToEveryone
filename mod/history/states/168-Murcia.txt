@@ -1,0 +1,70 @@
+state={
+	id=168
+	name="STATE_168"
+
+	history={
+		owner = SPR
+		victory_points = {
+			10024 3
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			dockyard = 1
+			air_base = 2
+			10024 = {
+				naval_base = 8
+
+			}
+
+		}
+		add_core_of = SPR
+
+		buildings={
+			infrastructure=5
+			10024={
+				supply_node=1
+				naval_base=10
+			}
+			10109={
+				supply_node=1
+				naval_base=10
+			}
+			1093={
+				supply_node=1
+			}
+			11807={
+				supply_node=1
+			}
+			11812={
+				supply_node=1
+			}
+			11884={
+				supply_node=1
+			}
+			3835={
+				supply_node=1
+			}
+			4195={
+				supply_node=1
+			}
+			7111={
+				supply_node=1
+			}
+			832={
+				supply_node=1
+			}
+			9903={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		832 1093 3835 4195 7111 9903 10024 10109 11807 11812 11884 
+	}
+	manpower=1007605
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}

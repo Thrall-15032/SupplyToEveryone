@@ -1,0 +1,85 @@
+state={
+	id=622
+	name="STATE_622"
+	resources={
+		steel=3.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			8049 3 
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 3
+			industrial_complex = 3
+			10733 = {
+				bunker = 2
+
+			}
+			12156 = {
+				bunker = 2
+
+			}
+			5007 = {
+				bunker = 2
+
+			}
+
+		}
+
+		buildings={
+			infrastructure=5
+			10733={
+				supply_node=1
+			}
+			10880={
+				supply_node=1
+			}
+			12156={
+				supply_node=1
+			}
+			12356={
+				supply_node=1
+			}
+			1458={
+				supply_node=1
+			}
+			4939={
+				supply_node=1
+			}
+			5007={
+				supply_node=1
+			}
+			517={
+				supply_node=1
+			}
+			7208={
+				supply_node=1
+			}
+			7314={
+				supply_node=1
+			}
+			7659={
+				supply_node=1
+			}
+			8049={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		517 1458 4939 5007 7208 7314 7659 8049 10733 10880 12156 12356 
+	}
+	manpower=7006200
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=0.0 
+}

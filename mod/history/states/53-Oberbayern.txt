@@ -1,0 +1,58 @@
+
+state={
+	id=53
+	name="STATE_53"
+	manpower = 1453365
+	
+	state_category = city
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = GER
+		victory_points = {
+			9515 3
+		}
+		buildings={
+			infrastructure=5
+			11497={
+				supply_node=1
+			}
+			3299={
+				supply_node=1
+			}
+			3541={
+				supply_node=1
+			}
+			3571={
+				supply_node=1
+			}
+			532={
+				supply_node=1
+			}
+			571={
+				supply_node=1
+			}
+			586={
+				supply_node=1
+			}
+			6725={
+				supply_node=1
+			}
+			9515={
+				supply_node=1
+			}
+			9681={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		532 571 586 3299 3541 3571 6725 9515 9681 11497 
+	}
+
+	local_supplies=7.0 
+}

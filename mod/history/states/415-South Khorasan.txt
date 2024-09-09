@@ -1,0 +1,76 @@
+
+state={
+	id=415
+	name="STATE_415" # Herat
+	manpower = 1632860
+	
+	state_category = rural
+
+	history={
+		owner = AFG
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			4893 1 
+		}
+		victory_points = {
+			5064 1 
+		}
+		add_core_of = AFG
+		buildings={
+			infrastructure=5
+			10789={
+				supply_node=1
+			}
+			12788={
+				supply_node=1
+			}
+			12871={
+				supply_node=1
+			}
+			1948={
+				supply_node=1
+			}
+			1995={
+				supply_node=1
+			}
+			2017={
+				supply_node=1
+			}
+			2062={
+				supply_node=1
+			}
+			2078={
+				supply_node=1
+			}
+			2101={
+				supply_node=1
+			}
+			4893={
+				supply_node=1
+			}
+			4949={
+				supply_node=1
+			}
+			5020={
+				supply_node=1
+			}
+			5064={
+				supply_node=1
+			}
+			8053={
+				supply_node=1
+			}
+			8090={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1948 1995 2017 2062 2078 2101 4893 4949 5020 5064 8053 8090 10789 12788 12871 
+	}
+
+	local_supplies=0.0 
+}

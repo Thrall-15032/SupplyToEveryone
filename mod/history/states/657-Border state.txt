@@ -1,0 +1,88 @@
+
+state={
+	id = 657
+	name = "STATE_657" # Birobidzhan
+	manpower = 308380
+	resources = {
+		steel=18 # was: 24
+	}
+
+
+	state_category = pastoral
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+		add_core_of = SOV
+		add_core_of = FER
+		buildings={
+			infrastructure=5
+			10655={
+				supply_node=1
+			}
+			10722={
+				supply_node=1
+			}
+			12192={
+				supply_node=1
+			}
+			12261={
+				supply_node=1
+			}
+			12263={
+				supply_node=1
+			}
+			12654={
+				supply_node=1
+			}
+			12678={
+				supply_node=1
+			}
+			1802={
+				supply_node=1
+			}
+			4246={
+				supply_node=1
+			}
+			4701={
+				supply_node=1
+			}
+			4725={
+				supply_node=1
+			}
+			4779={
+				supply_node=1
+			}
+			4805={
+				supply_node=1
+			}
+			4829={
+				supply_node=1
+			}
+			675={
+				supply_node=1
+			}
+			7616={
+				supply_node=1
+			}
+			7672={
+				supply_node=1
+			}
+			7763={
+				supply_node=1
+			}
+			7801={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		675 1802 4246 4701 4725 4779 4805 4829 7616 7672 7763 7801 10655 10722 12192 12261 12263 12654 12678 
+	}
+
+	local_supplies = 0.0 
+}

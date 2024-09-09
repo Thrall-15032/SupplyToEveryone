@@ -1,0 +1,157 @@
+
+state = {
+	id = 666
+	name = "STATE_666"
+	manpower = 100222
+	state_category = rural
+	resources = {
+		tungsten = 44
+		steel = 50
+		chromium = 25
+	}
+
+	history={
+		owner = SWE
+		victory_points = {
+			9108 2 
+		}
+		victory_points = {
+			3095 1
+		}
+
+		victory_points = {
+			11155 1
+		}
+
+		victory_points = {
+			9147 1
+		}
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			9108 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = SWE
+		if = {
+			limit = {
+				has_dlc = "Arms Against Tyranny"
+			}
+			add_core_of = SMI
+		}
+
+		buildings={
+			infrastructure=5
+			101={
+				supply_node=1
+			}
+			11060={
+				supply_node=1
+			}
+			11073={
+				supply_node=1
+			}
+			11102={
+				supply_node=1
+			}
+			11155={
+				supply_node=1
+			}
+			11208={
+				supply_node=1
+			}
+			13119={
+				supply_node=1
+			}
+			148={
+				supply_node=1
+			}
+			151={
+				supply_node=1
+			}
+			190={
+				supply_node=1
+			}
+			201={
+				supply_node=1
+			}
+			3054={
+				supply_node=1
+			}
+			3095={
+				supply_node=1
+			}
+			3104={
+				supply_node=1
+			}
+			3179={
+				supply_node=1
+			}
+			58={
+				supply_node=1
+			}
+			6055={
+				supply_node=1
+			}
+			6074={
+				supply_node=1
+			}
+			61={
+				supply_node=1
+			}
+			6125={
+				supply_node=1
+				naval_base=10
+			}
+			6155={
+				supply_node=1
+			}
+			6165={
+				supply_node=1
+				naval_base=10
+			}
+			6168={
+				supply_node=1
+			}
+			6170={
+				supply_node=1
+			}
+			6206={
+				supply_node=1
+			}
+			6208={
+				supply_node=1
+			}
+			9083={
+				supply_node=1
+			}
+			9108={
+				supply_node=1
+				naval_base=10
+			}
+			9147={
+				supply_node=1
+				naval_base=10
+			}
+			9178={
+				supply_node=1
+			}
+			9186={
+				supply_node=1
+			}
+			9226={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		58 61 101 148 151 190 201 3054 3095 3104 3179 6055 6074 6125 6155 6165 6168 6170 6206 6208 9083 9108 9147 9178 9186 9226 11060 11073 11102 11155 11208 13119 
+	}
+	
+	local_supplies=0.000
+}

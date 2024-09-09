@@ -1,0 +1,78 @@
+state={
+	id=868
+	name="STATE_868"
+	provinces={
+		1357 1535 1548 4511 4582 7516 7601 10384 10425 10438 12195 12264 12360 12373 12388 12402 12417 12431 
+	}
+	history = {
+		owner = SIA
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			10438 1 
+		}
+		add_core_of = SIA
+		buildings={
+			infrastructure=5
+			10384={
+				supply_node=1
+			}
+			10425={
+				supply_node=1
+			}
+			10438={
+				supply_node=1
+			}
+			12195={
+				supply_node=1
+			}
+			12264={
+				supply_node=1
+			}
+			12360={
+				supply_node=1
+			}
+			12373={
+				supply_node=1
+			}
+			12388={
+				supply_node=1
+			}
+			12402={
+				supply_node=1
+			}
+			12417={
+				supply_node=1
+			}
+			12431={
+				supply_node=1
+			}
+			1357={
+				supply_node=1
+			}
+			1535={
+				supply_node=1
+			}
+			1548={
+				supply_node=1
+			}
+			4511={
+				supply_node=1
+			}
+			4582={
+				supply_node=1
+			}
+			7516={
+				supply_node=1
+			}
+			7601={
+				supply_node=1
+			}
+		}
+	}
+	manpower=2000000
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

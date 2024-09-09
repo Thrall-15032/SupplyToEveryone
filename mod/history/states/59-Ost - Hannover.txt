@@ -1,0 +1,108 @@
+
+state={
+	id=59
+	name="STATE_59"
+	manpower = 2438286
+	resources={
+		oil=2 # was: 4
+	}
+	
+	state_category = large_city
+
+	history={
+		owner = GER
+		victory_points = {
+			3326 5 
+		}
+		victory_points = {
+			6377 10 
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 2
+			6325 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = GER
+
+		1939.1.1 = {
+			buildings = {
+				air_base = 6
+				arms_factory = 4
+				industrial_complex = 3
+				dockyard = 3
+			}
+		}
+		buildings={
+			infrastructure=5
+			11402={
+				supply_node=1
+			}
+			11468={
+				supply_node=1
+			}
+			11493={
+				supply_node=1
+			}
+			3271={
+				supply_node=1
+			}
+			3326={
+				supply_node=1
+				naval_base=10
+			}
+			3395={
+				supply_node=1
+			}
+			374={
+				supply_node=1
+				naval_base=10
+			}
+			526={
+				supply_node=1
+			}
+			6218={
+				supply_node=1
+			}
+			6263={
+				supply_node=1
+			}
+			6298={
+				supply_node=1
+			}
+			6325={
+				supply_node=1
+				naval_base=10
+			}
+			6349={
+				supply_node=1
+				naval_base=10
+			}
+			6377={
+				supply_node=1
+			}
+			6513={
+				supply_node=1
+			}
+			9238={
+				supply_node=1
+			}
+			9264={
+				supply_node=1
+			}
+			9375={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		374 526 3271 3326 3395 6218 6263 6298 6325 6349 6377 6513 9238 9264 9375 11402 11468 11493 
+	}
+
+	local_supplies=0.0 
+}

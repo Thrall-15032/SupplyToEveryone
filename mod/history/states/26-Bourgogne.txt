@@ -1,0 +1,64 @@
+
+state={
+	id=26
+	name="STATE_26" # Auveregne
+	manpower = 877800
+	
+	state_category = town
+
+	history={
+		owner = FRA
+		victory_points = {
+			3594 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = OCC
+		add_core_of = FRA
+		buildings={
+			infrastructure=5
+			11576={
+				supply_node=1
+			}
+			3594={
+				supply_node=1
+			}
+			3754={
+				supply_node=1
+			}
+			590={
+				supply_node=1
+			}
+			6644={
+				supply_node=1
+			}
+			6773={
+				supply_node=1
+			}
+			6789={
+				supply_node=1
+			}
+			769={
+				supply_node=1
+			}
+			9593={
+				supply_node=1
+			}
+			9607={
+				supply_node=1
+			}
+			9748={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		590 769 3594 3754 6644 6773 6789 9593 9607 9748 11576 
+	}
+
+	local_supplies=6.0 
+}

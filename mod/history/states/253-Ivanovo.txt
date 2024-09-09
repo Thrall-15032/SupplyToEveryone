@@ -1,0 +1,121 @@
+
+state={
+	id=253
+	name="STATE_253"
+	manpower = 2585987
+	
+	state_category = town
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		add_core_of = SOV
+		victory_points = {
+			6269 3
+		}
+		buildings={
+			infrastructure=5
+			11134={
+				supply_node=1
+			}
+			11239={
+				supply_node=1
+			}
+			11252={
+				supply_node=1
+			}
+			11295={
+				supply_node=1
+			}
+			11338={
+				supply_node=1
+			}
+			11362={
+				supply_node=1
+			}
+			214={
+				supply_node=1
+			}
+			280={
+				supply_node=1
+			}
+			3202={
+				supply_node=1
+			}
+			3240={
+				supply_node=1
+			}
+			3268={
+				supply_node=1
+			}
+			3339={
+				supply_node=1
+			}
+			3347={
+				supply_node=1
+			}
+			3370={
+				supply_node=1
+			}
+			346={
+				supply_node=1
+			}
+			357={
+				supply_node=1
+			}
+			378={
+				supply_node=1
+			}
+			6135={
+				supply_node=1
+			}
+			6215={
+				supply_node=1
+			}
+			6247={
+				supply_node=1
+			}
+			6269={
+				supply_node=1
+			}
+			6316={
+				supply_node=1
+			}
+			6358={
+				supply_node=1
+			}
+			6362={
+				supply_node=1
+			}
+			9033={
+				supply_node=1
+			}
+			9159={
+				supply_node=1
+			}
+			9257={
+				supply_node=1
+			}
+			9267={
+				supply_node=1
+			}
+			9278={
+				supply_node=1
+			}
+			9311={
+				supply_node=1
+			}
+			9356={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		214 280 346 357 378 3202 3240 3268 3339 3347 3370 6135 6215 6247 6269 6316 6358 6362 9033 9159 9257 9267 9278 9311 9356 11134 11239 11252 11295 11338 11362 
+	}
+
+	local_supplies=0.0 
+}

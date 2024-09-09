@@ -1,0 +1,97 @@
+
+state={
+	id=653
+	name="STATE_653" # Sverdlovsk
+	manpower = 2161650
+	
+	state_category = city
+
+	history={
+		owner = SOV
+		victory_points = {
+			1821 5
+		}
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		add_core_of = SOV
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 3
+			}
+		}
+		buildings={
+			infrastructure=5
+			10133={
+				supply_node=1
+			}
+			10189={
+				supply_node=1
+			}
+			10648={
+				supply_node=1
+			}
+			10716={
+				supply_node=1
+			}
+			10720={
+				supply_node=1
+			}
+			12102={
+				supply_node=1
+			}
+			12567={
+				supply_node=1
+			}
+			12696={
+				supply_node=1
+			}
+			1543={
+				supply_node=1
+			}
+			1704={
+				supply_node=1
+			}
+			1750={
+				supply_node=1
+			}
+			1771={
+				supply_node=1
+			}
+			1808={
+				supply_node=1
+			}
+			1821={
+				supply_node=1
+			}
+			1841={
+				supply_node=1
+			}
+			307={
+				supply_node=1
+			}
+			4813={
+				supply_node=1
+			}
+			7228={
+				supply_node=1
+			}
+			7778={
+				supply_node=1
+			}
+			9553={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		307 1543 1704 1750 1771 1808 1821 1841 4813 7228 7778 9553 10133 10189 10648 10716 10720 12102 12567 12696 
+	}
+
+	local_supplies=0.0 
+}

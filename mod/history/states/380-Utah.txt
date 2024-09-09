@@ -1,0 +1,73 @@
+state= {
+	id=380
+	name="STATE_380"
+	manpower = 507846
+	
+	state_category = rural
+	
+	resources={
+		tungsten=76 # was: 106
+	}
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = USA
+		victory_points = {
+			4865 1 
+		}
+		buildings={
+			infrastructure=5
+			10582={
+				supply_node=1
+			}
+			10651={
+				supply_node=1
+			}
+			10662={
+				supply_node=1
+			}
+			12573={
+				supply_node=1
+			}
+			12699={
+				supply_node=1
+			}
+			13153={
+				supply_node=1
+			}
+			1663={
+				supply_node=1
+			}
+			1740={
+				supply_node=1
+			}
+			1756={
+				supply_node=1
+			}
+			4668={
+				supply_node=1
+			}
+			4742={
+				supply_node=1
+			}
+			4865={
+				supply_node=1
+			}
+			7764={
+				supply_node=1
+			}
+			7818={
+				supply_node=1
+			}
+		}
+	}
+	provinces={
+		1663 1740 1756 4668 4742 4865 7764 7818 10582 10651 10662 12573 12699 13153
+	}
+
+	local_supplies=0.0 
+}

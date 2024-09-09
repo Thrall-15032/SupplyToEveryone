@@ -1,0 +1,117 @@
+state = {
+	id = 929
+	name = "STATE_929" #OULU
+	
+	manpower = 318000
+	
+	state_category = rural
+	
+	resources={
+		
+	}
+	history={
+		owner = FIN
+		add_core_of = FIN
+
+		victory_points = { #Oulu
+			158 2
+		}
+
+		victory_points = { #Suomussalmi
+			3073 1
+		}
+		
+		buildings = {
+			infrastructure = 1 #TODO_Manu: Was 2
+		
+		}
+		
+		buildings={
+			infrastructure=5
+			11024={
+				supply_node=1
+			}
+			11041={
+				supply_node=1
+			}
+			11079={
+				supply_node=1
+			}
+			11081={
+				supply_node=1
+				naval_base=10
+			}
+			11121={
+				supply_node=1
+				naval_base=10
+			}
+			11132={
+				supply_node=1
+			}
+			120={
+				supply_node=1
+			}
+			132={
+				supply_node=1
+			}
+			158={
+				supply_node=1
+				naval_base=10
+			}
+			195={
+				supply_node=1
+				naval_base=10
+			}
+			3026={
+				supply_node=1
+			}
+			3073={
+				supply_node=1
+			}
+			3115={
+				supply_node=1
+			}
+			3149={
+				supply_node=1
+			}
+			3153={
+				supply_node=1
+			}
+			3156={
+				supply_node=1
+			}
+			6045={
+				supply_node=1
+			}
+			6081={
+				supply_node=1
+			}
+			6134={
+				supply_node=1
+			}
+			6179={
+				supply_node=1
+			}
+			6212={
+				supply_node=1
+			}
+			7={
+				supply_node=1
+			}
+			82={
+				supply_node=1
+			}
+			9233={
+				supply_node=1
+			}
+		}
+	}
+
+
+	provinces={
+		7 82 120 132 158 195 3026 3073 3115 3149 3153 3156 6045 6081 6134 6179 6212 9233 11024 11041 11079 11081 11121 11132 
+	}
+	
+	local_supplies = 0.0
+
+}

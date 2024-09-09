@@ -1,0 +1,74 @@
+
+state={
+	id=273
+	name="STATE_273" # Libyan Desert
+	manpower = 42633
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = LBA
+		buildings={
+			infrastructure=5
+			10104={
+				supply_node=1
+			}
+			1057={
+				supply_node=1
+			}
+			1060={
+				supply_node=1
+			}
+			10754={
+				supply_node=1
+			}
+			10785={
+				supply_node=1
+			}
+			10884={
+				supply_node=1
+			}
+			1140={
+				supply_node=1
+			}
+			11951={
+				supply_node=1
+			}
+			12022={
+				supply_node=1
+			}
+			12082={
+				supply_node=1
+			}
+			12866={
+				supply_node=1
+			}
+			1994={
+				supply_node=1
+			}
+			4191={
+				supply_node=1
+			}
+			4962={
+				supply_node=1
+			}
+			5004={
+				supply_node=1
+			}
+			7985={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1057 1060 1140 1994 4191 4962 5004 7985 10104 10754 10785 10884 11951 12022 12082 12866 
+	}
+
+	local_supplies=0.0 
+}

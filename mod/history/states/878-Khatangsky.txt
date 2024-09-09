@@ -1,0 +1,44 @@
+
+state = {
+	id = 878
+	name = "STATE_878" # Khatangsky
+	manpower = 15974
+	
+	state_category = pastoral
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+		add_core_of = TAY
+		buildings={
+			infrastructure=5
+			11122={
+				supply_node=1
+			}
+			12687={
+				supply_node=1
+			}
+			13065={
+				supply_node=1
+			}
+			2900={
+				supply_node=1
+			}
+			4812={
+				supply_node=1
+			}
+			9224={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		2900 4812 9224 11122 12687 13065
+	}
+
+	local_supplies = 0.0 
+}

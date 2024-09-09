@@ -1,0 +1,96 @@
+state={
+	id=463
+	name="STATE_463"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			13091 = {
+				naval_base = 1
+
+			}
+
+		}
+		#add_core_of = USA
+		victory_points = {
+			13090 1 
+		}
+		victory_points = {
+			13091 3 
+		}
+
+		buildings={
+			infrastructure=5
+			10679={
+				supply_node=1
+				naval_base=10
+			}
+			10694={
+				supply_node=1
+				naval_base=10
+			}
+			10707={
+				supply_node=1
+				naval_base=10
+			}
+			1135={
+				supply_node=1
+				naval_base=10
+			}
+			12661={
+				supply_node=1
+				naval_base=10
+			}
+			13069={
+				supply_node=1
+			}
+			13090={
+				supply_node=1
+				naval_base=10
+			}
+			13091={
+				supply_node=1
+				naval_base=10
+			}
+			13202={
+				supply_node=1
+				naval_base=10
+			}
+			13203={
+				supply_node=1
+				naval_base=10
+			}
+			1830={
+				supply_node=1
+				naval_base=10
+			}
+			4833={
+				supply_node=1
+				naval_base=10
+			}
+			4848={
+				supply_node=1
+				naval_base=10
+			}
+			7855={
+				supply_node=1
+				naval_base=10
+			}
+			7884={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1135 1830 4833 4848 7855 7884 10679 10694 10707 12661 13069 13090 13091 13202 13203 
+	}
+	manpower=67500
+	buildings_max_level_factor=1
+	state_category="rural"
+
+	local_supplies=0.0 
+}

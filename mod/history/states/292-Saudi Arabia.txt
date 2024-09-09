@@ -1,0 +1,54 @@
+state={
+	id=292
+	name="STATE_292"
+	
+
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			12727 5 
+		}
+		add_core_of = SAU
+
+		buildings={
+			infrastructure=5
+			12727={
+				supply_node=1
+			}
+			12813={
+				supply_node=1
+			}
+			12870={
+				supply_node=1
+			}
+			5024={
+				supply_node=1
+			}
+			5093={
+				supply_node=1
+			}
+			7995={
+				supply_node=1
+			}
+			8004={
+				supply_node=1
+			}
+			8060={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		5024 5093 7995 8004 8060 12727 12813 12870 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

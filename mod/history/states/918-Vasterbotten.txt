@@ -1,0 +1,149 @@
+state = { 
+	id = 918
+	name = "STATE_918" # Västerbotten
+	manpower = 315105
+	state_category = rural
+	resources = {
+		tungsten = 35
+		steel = 39
+		chromium = 15
+	}
+
+	history = {
+		victory_points = {
+			6132 2
+		}
+		victory_points = {
+			109 1
+		}
+		owner = SWE
+		add_core_of = SWE
+		if = {
+			limit = {
+				has_dlc = "Arms Against Tyranny"
+			}
+			add_core_of = SMI
+		}
+		buildings = {
+			infrastructure = 2
+			#industrial_complex = 1 was 1
+		}
+		buildings={
+			infrastructure=5
+			109={
+				supply_node=1
+			}
+			11={
+				supply_node=1
+			}
+			11026={
+				supply_node=1
+			}
+			11058={
+				supply_node=1
+			}
+			11067={
+				supply_node=1
+			}
+			11069={
+				supply_node=1
+			}
+			11112={
+				supply_node=1
+			}
+			11152={
+				supply_node=1
+			}
+			11190={
+				supply_node=1
+			}
+			11201={
+				supply_node=1
+				naval_base=10
+			}
+			118={
+				supply_node=1
+			}
+			145={
+				supply_node=1
+			}
+			182={
+				supply_node=1
+				naval_base=10
+			}
+			184={
+				supply_node=1
+			}
+			3003={
+				supply_node=1
+			}
+			3044={
+				supply_node=1
+			}
+			3062={
+				supply_node=1
+			}
+			3100={
+				supply_node=1
+			}
+			3113={
+				supply_node=1
+				naval_base=10
+			}
+			3138={
+				supply_node=1
+			}
+			3173={
+				supply_node=1
+			}
+			6024={
+				supply_node=1
+			}
+			6083={
+				supply_node=1
+				naval_base=10
+			}
+			6132={
+				supply_node=1
+				naval_base=10
+			}
+			6152={
+				supply_node=1
+			}
+			6161={
+				supply_node=1
+			}
+			6200={
+				supply_node=1
+			}
+			9093={
+				supply_node=1
+			}
+			9095={
+				supply_node=1
+			}
+			9134={
+				supply_node=1
+			}
+			9143={
+				supply_node=1
+				naval_base=10
+			}
+			9175={
+				supply_node=1
+			}
+			9211={
+				supply_node=1
+			}
+			9220={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		11 109 118 145 182 184 3003 3044 3062 3100 3113 3138 3173 6024 6083 6132 6152 6161 6200 9093 9095 9134 9143 9175 9211 9220 11026 11058 11067 11069 11112 11152 11190 11201 
+	}
+
+	local_supplies=0.000
+}

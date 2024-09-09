@@ -1,0 +1,90 @@
+
+state = {
+	id = 880
+	name = "STATE_880" # Kotlas
+	manpower = 262721
+	
+	state_category = rural
+
+	history = {
+		owner = SOV
+		victory_points = {
+			11061 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+			}
+		}
+		buildings={
+			infrastructure=5
+			11042={
+				supply_node=1
+			}
+			11061={
+				supply_node=1
+			}
+			11074={
+				supply_node=1
+			}
+			11089={
+				supply_node=1
+			}
+			183={
+				supply_node=1
+			}
+			3064={
+				supply_node=1
+			}
+			3065={
+				supply_node=1
+			}
+			3081={
+				supply_node=1
+			}
+			3166={
+				supply_node=1
+			}
+			6088={
+				supply_node=1
+			}
+			6100={
+				supply_node=1
+			}
+			6166={
+				supply_node=1
+			}
+			6193={
+				supply_node=1
+			}
+			6199={
+				supply_node=1
+			}
+			87={
+				supply_node=1
+			}
+			9101={
+				supply_node=1
+			}
+			9124={
+				supply_node=1
+			}
+			9130={
+				supply_node=1
+			}
+			9213={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		87 183 3064 3065 3081 3166 6088 6100 6166 6193 6199 9101 9124 9130 9213 11042 11061 11074 11089
+	}
+
+	local_supplies = 0.0 
+}

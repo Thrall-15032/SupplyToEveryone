@@ -1,0 +1,92 @@
+
+state={
+	id=438
+	name="STATE_438"
+	manpower = 33491000
+	
+	state_category = rural
+
+	history={
+		owner = RAJ
+		victory_points = {
+			12137 1
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+		}
+
+		buildings={
+			infrastructure=5
+			10332={
+				supply_node=1
+			}
+			10794={
+				supply_node=1
+			}
+			12137={
+				supply_node=1
+			}
+			12777={
+				supply_node=1
+			}
+			12786={
+				supply_node=1
+			}
+			1377={
+				supply_node=1
+			}
+			1983={
+				supply_node=1
+			}
+			2005={
+				supply_node=1
+			}
+			4045={
+				supply_node=1
+			}
+			4299={
+				supply_node=1
+			}
+			4410={
+				supply_node=1
+			}
+			5040={
+				supply_node=1
+			}
+			5055={
+				supply_node=1
+			}
+			5086={
+				supply_node=1
+			}
+			5096={
+				supply_node=1
+			}
+			7064={
+				supply_node=1
+			}
+			7938={
+				supply_node=1
+			}
+			8082={
+				supply_node=1
+			}
+			8114={
+				supply_node=1
+			}
+			9951={
+				supply_node=1
+			}
+			9973={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1377 1983 2005 4045 4299 4410 5040 5055 5086 5096 7064 7938 8082 8114 9951 9973 10332 10794 12137 12777 12786 
+	}
+
+	local_supplies=0.0 
+}

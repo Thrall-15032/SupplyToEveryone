@@ -1,0 +1,86 @@
+
+state={
+	id=185
+	name="STATE_185"
+	manpower = 760900
+	
+	state_category = rural
+	
+	resources={
+		chromium=14 # was: 20
+		steel = 14 # was: 20
+	}
+
+	history={
+		victory_points = {
+			10203 1
+		}
+		victory_points = {
+			3914 3
+		}
+		victory_points = {
+			1205 1
+		}
+		owner = GRE
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+			9805 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = GRE
+		buildings={
+			infrastructure=5
+			10203={
+				supply_node=1
+				naval_base=10
+			}
+			1106={
+				supply_node=1
+				naval_base=10
+			}
+			11786={
+				supply_node=1
+			}
+			11895={
+				supply_node=1
+			}
+			12001={
+				supply_node=1
+				naval_base=10
+			}
+			1205={
+				supply_node=1
+				naval_base=10
+			}
+			3914={
+				supply_node=1
+			}
+			3980={
+				supply_node=1
+			}
+			841={
+				supply_node=1
+			}
+			9805={
+				supply_node=1
+				naval_base=10
+			}
+			9837={
+				supply_node=1
+			}
+			9916={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		841 1106 1205 3914 3980 9805 9837 9916 10203 11786 11895 12001 
+	}
+
+	local_supplies=9.0 
+}

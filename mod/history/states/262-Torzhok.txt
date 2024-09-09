@@ -1,0 +1,58 @@
+
+state = {
+	id = 262
+	name = "STATE_262" # Pechora
+	manpower = 21795
+	
+	state_category = rural
+	
+	resources = {
+		oil = 7 # was: 8
+	}
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = KOM
+		buildings={
+			infrastructure=5
+			10723={
+				supply_node=1
+			}
+			11182={
+				supply_node=1
+			}
+			154={
+				supply_node=1
+			}
+			6016={
+				supply_node=1
+			}
+			6177={
+				supply_node=1
+			}
+			6538={
+				supply_node=1
+			}
+			9099={
+				supply_node=1
+			}
+			9121={
+				supply_node=1
+			}
+			9230={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		 154 6016 6177 6538 9099 9121 9230 10723 11182 
+	}
+
+	local_supplies = 0.0 
+}

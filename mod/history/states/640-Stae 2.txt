@@ -1,0 +1,137 @@
+
+state={
+	id=640
+	name="STATE_640" # Mandalay
+	manpower = 3944600
+	
+	state_category = town
+	resources={
+		tungsten = 120 
+	}
+	history={
+		add_core_of = BRM
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+		victory_points = {
+			1492 1 
+		}
+		victory_points = {
+			4425 1 
+		}
+
+		buildings={
+			infrastructure=5
+			10386={
+				supply_node=1
+			}
+			10486={
+				supply_node=1
+			}
+			1082={
+				supply_node=1
+			}
+			10920={
+				supply_node=1
+			}
+			1170={
+				supply_node=1
+			}
+			1197={
+				supply_node=1
+			}
+			12317={
+				supply_node=1
+			}
+			12335={
+				supply_node=1
+			}
+			12363={
+				supply_node=1
+			}
+			12404={
+				supply_node=1
+			}
+			12464={
+				supply_node=1
+			}
+			12492={
+				supply_node=1
+			}
+			1492={
+				supply_node=1
+			}
+			1566={
+				supply_node=1
+			}
+			1607={
+				supply_node=1
+			}
+			1934={
+				supply_node=1
+			}
+			2061={
+				supply_node=1
+			}
+			4087={
+				supply_node=1
+			}
+			4175={
+				supply_node=1
+			}
+			4210={
+				supply_node=1
+			}
+			4318={
+				supply_node=1
+			}
+			4425={
+				supply_node=1
+			}
+			4585={
+				supply_node=1
+			}
+			4588={
+				supply_node=1
+			}
+			4654={
+				supply_node=1
+			}
+			4996={
+				supply_node=1
+			}
+			7400={
+				supply_node=1
+			}
+			7469={
+				supply_node=1
+			}
+			7562={
+				supply_node=1
+			}
+			7603={
+				supply_node=1
+			}
+			7647={
+				supply_node=1
+			}
+			7909={
+				supply_node=1
+			}
+			7974={
+				supply_node=1
+			}
+			8063={
+				supply_node=1
+			}
+		}
+	}
+	
+	provinces={
+		1082 1170 1197 1492 1566 1607 1934 2061 4087 4175 4210 4318 4425 4585 4588 4654 4996 7400 7469 7562 7603 7647 7909 7974 8063 10386 10486 10920 12317 12335 12363 12404 12464 12492 
+	}
+
+	local_supplies=0.0 
+}

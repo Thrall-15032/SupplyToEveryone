@@ -1,0 +1,132 @@
+state={
+	id=669
+	name="STATE_669"
+	manpower = 314300
+
+	state_category = pastoral
+
+	history= {
+		owner = INS
+		add_core_of = INS
+		victory_points = {
+			12371 1 
+		}
+		buildings = {
+			infrastructure = 1
+			12371 = {
+				naval_base = 2
+			}
+		}
+		buildings={
+			infrastructure=5
+			10369={
+				supply_node=1
+				naval_base=10
+			}
+			10396={
+				supply_node=1
+			}
+			10436={
+				supply_node=1
+			}
+			10505={
+				supply_node=1
+				naval_base=10
+			}
+			10990={
+				supply_node=1
+			}
+			12315={
+				supply_node=1
+				naval_base=10
+			}
+			12371={
+				supply_node=1
+				naval_base=10
+			}
+			12386={
+				supply_node=1
+				naval_base=10
+			}
+			12457={
+				supply_node=1
+				naval_base=10
+			}
+			1546={
+				supply_node=1
+				naval_base=10
+			}
+			1602={
+				supply_node=1
+			}
+			1617={
+				supply_node=1
+			}
+			1629={
+				supply_node=1
+				naval_base=10
+			}
+			4468={
+				supply_node=1
+				naval_base=10
+			}
+			4509={
+				supply_node=1
+				naval_base=10
+			}
+			4524={
+				supply_node=1
+				naval_base=10
+			}
+			4552={
+				supply_node=1
+			}
+			4593={
+				supply_node=1
+				naval_base=10
+			}
+			7269={
+				supply_node=1
+				naval_base=10
+			}
+			7487={
+				supply_node=1
+				naval_base=10
+			}
+			7512={
+				supply_node=1
+				naval_base=10
+			}
+			7529={
+				supply_node=1
+				naval_base=10
+			}
+			7542={
+				supply_node=1
+				naval_base=10
+			}
+			7570={
+				supply_node=1
+			}
+			7585={
+				supply_node=1
+				naval_base=10
+			}
+			7627={
+				supply_node=1
+				naval_base=10
+			}
+			8235={
+				supply_node=1
+			}
+			8250={
+				supply_node=1
+			}
+		}
+	}
+	provinces={
+		1546 1602 1617 1629 4468 4509 4524 4552 4593 7269 7487 7512 7529 7542 7570 7585 7627 8235 8250 10369 10396 10436 10505 10990 12315 12371 12386 12457 
+	}
+
+	local_supplies=1.0 
+}

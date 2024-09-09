@@ -1,0 +1,146 @@
+
+state={
+	id=252
+	name="STATE_252"
+	manpower = 3378176
+	
+	state_category = city
+
+	history={
+		owner = SOV
+		victory_points = {
+			11375 10
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			arms_factory = 2
+			air_base = 1
+		}
+		add_core_of = SOV
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 3
+			}
+		}
+		buildings={
+			infrastructure=5
+			11275={
+				supply_node=1
+			}
+			11277={
+				supply_node=1
+			}
+			11324={
+				supply_node=1
+			}
+			11340={
+				supply_node=1
+			}
+			11344={
+				supply_node=1
+			}
+			11375={
+				supply_node=1
+			}
+			11394={
+				supply_node=1
+			}
+			12={
+				supply_node=1
+			}
+			256={
+				supply_node=1
+			}
+			270={
+				supply_node=1
+			}
+			297={
+				supply_node=1
+			}
+			3224={
+				supply_node=1
+			}
+			3245={
+				supply_node=1
+			}
+			3261={
+				supply_node=1
+			}
+			3285={
+				supply_node=1
+			}
+			3303={
+				supply_node=1
+			}
+			3349={
+				supply_node=1
+			}
+			3352={
+				supply_node=1
+			}
+			3383={
+				supply_node=1
+			}
+			368={
+				supply_node=1
+			}
+			6149={
+				supply_node=1
+			}
+			6231={
+				supply_node=1
+			}
+			6295={
+				supply_node=1
+			}
+			6299={
+				supply_node=1
+			}
+			6327={
+				supply_node=1
+			}
+			6370={
+				supply_node=1
+			}
+			6374={
+				supply_node=1
+			}
+			6392={
+				supply_node=1
+			}
+			6410={
+				supply_node=1
+			}
+			9291={
+				supply_node=1
+			}
+			9298={
+				supply_node=1
+			}
+			9325={
+				supply_node=1
+			}
+			9358={
+				supply_node=1
+			}
+			9360={
+				supply_node=1
+			}
+			9368={
+				supply_node=1
+			}
+			9389={
+				supply_node=1
+			}
+			9407={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		12 256 270 297 368 3224 3245 3261 3285 3303 3349 3352 3383 6149 6231 6295 6299 6327 6370 6374 6392 6410 9291 9298 9325 9358 9360 9368 9389 9407 11275 11277 11324 11340 11344 11375 11394 
+	}
+
+	local_supplies=0.0 
+}

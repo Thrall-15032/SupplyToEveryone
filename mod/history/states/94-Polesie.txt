@@ -1,0 +1,80 @@
+state={
+	id=94
+	name="STATE_94"
+
+	history={
+		owner = POL
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			3392 1
+		}
+		victory_points = {
+			560 1
+		}
+		add_core_of = POL
+		add_core_of = BLR
+		buildings={
+			infrastructure=5
+			11285={
+				supply_node=1
+			}
+			11503={
+				supply_node=1
+			}
+			11528={
+				supply_node=1
+			}
+			3256={
+				supply_node=1
+			}
+			3309={
+				supply_node=1
+			}
+			3392={
+				supply_node=1
+			}
+			3496={
+				supply_node=1
+			}
+			3556={
+				supply_node=1
+			}
+			535={
+				supply_node=1
+			}
+			560={
+				supply_node=1
+			}
+			6280={
+				supply_node=1
+			}
+			6306={
+				supply_node=1
+			}
+			6415={
+				supply_node=1
+			}
+			6546={
+				supply_node=1
+			}
+			6579={
+				supply_node=1
+			}
+			9520={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		535 560 3256 3309 3392 3496 3556 6280 6306 6415 6546 6579 9520 11285 11503 11528 
+	}
+	manpower=1232200
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=0.0 
+}

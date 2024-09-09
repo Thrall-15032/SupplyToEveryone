@@ -1,0 +1,93 @@
+
+state={
+	id=461
+	name="STATE_461"
+	resources={
+		chromium=12.000 #added due to portugal setup
+	}
+
+	manpower = 3197719
+	
+	state_category = rural
+	
+	history={
+		owner = FRA
+		add_core_of = MOR
+		victory_points = {
+			7069 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 4
+			7069 = {
+				naval_base = 4
+			}
+		}
+		buildings={
+			infrastructure=5
+			10013={
+				supply_node=1
+			}
+			10023={
+				supply_node=1
+			}
+			10070={
+				supply_node=1
+				naval_base=10
+			}
+			1079={
+				supply_node=1
+			}
+			1111={
+				supply_node=1
+			}
+			1194={
+				supply_node=1
+				naval_base=10
+			}
+			11943={
+				supply_node=1
+				naval_base=10
+			}
+			11987={
+				supply_node=1
+			}
+			12042={
+				supply_node=1
+			}
+			4084={
+				supply_node=1
+			}
+			4097={
+				supply_node=1
+			}
+			4139={
+				supply_node=1
+			}
+			7069={
+				supply_node=1
+				naval_base=10
+			}
+			7100={
+				supply_node=1
+			}
+			7116={
+				supply_node=1
+			}
+			7173={
+				supply_node=1
+			}
+			989={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		989 1079 1111 1194 4084 4097 4139 7069 7100 7116 7173 10013 10023 10070 11943 11987 12042 
+	}
+
+	local_supplies=0.0 
+}

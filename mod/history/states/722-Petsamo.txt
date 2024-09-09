@@ -1,0 +1,51 @@
+state={
+	id=722
+	name="STATE_722" #PETSAMO
+	manpower = 2371
+
+	state_category = enclave
+
+	history={
+		owner = FIN
+
+		victory_points = { #Petsamo
+			9140 1
+		}
+
+		buildings = {
+			infrastructure = 1 #TODO_Manu: Was 2
+			9140 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = FIN
+		if = {
+			limit = {
+				has_dlc = "Arms Against Tyranny"
+			}
+			add_core_of = SMI
+		}
+		buildings={
+			infrastructure=5
+			11142={
+				supply_node=1
+			}
+			6012={
+				supply_node=1
+			}
+			6183={
+				supply_node=1
+			}
+			9140={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	
+	provinces={
+		6012 6183 9140 11142 
+	}
+
+	local_supplies=0.0 
+}

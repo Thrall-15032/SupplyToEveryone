@@ -1,0 +1,91 @@
+state = {
+	id = 466
+	name = "STATE_466"
+	manpower = 8860
+	resources = {
+		aluminium = 4.000
+	}
+
+	history = {
+
+		owner = CAN
+		add_core_of = CAN
+		add_core_of = QUE
+
+		buildings = {
+			infrastructure = 1
+			3691 = {
+				naval_base = 1
+			}
+		}
+
+		buildings={
+			infrastructure=5
+			10176={
+				supply_node=1
+			}
+			12147={
+				supply_node=1
+				naval_base=10
+			}
+			13162={
+				supply_node=1
+			}
+			13166={
+				supply_node=1
+			}
+			13181={
+				supply_node=1
+			}
+			13184={
+				supply_node=1
+			}
+			13186={
+				supply_node=1
+			}
+			13196={
+				supply_node=1
+				naval_base=10
+			}
+			13314={
+				supply_node=1
+				naval_base=10
+			}
+			1712={
+				supply_node=1
+				naval_base=10
+			}
+			3208={
+				supply_node=1
+				naval_base=10
+			}
+			3691={
+				supply_node=1
+				naval_base=10
+			}
+			490={
+				supply_node=1
+				naval_base=10
+			}
+			6740={
+				supply_node=1
+			}
+			7364={
+				supply_node=1
+				naval_base=10
+			}
+			7813={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		490 1712 3208 3691 6740 7364 7813 10176 12147 13162 13166 13181 13184 13186 13196 13314
+	}
+	
+	buildings_max_level_factor = 1.000
+	state_category = pastoral
+	local_supplies = 0.000
+}

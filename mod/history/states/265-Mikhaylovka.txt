@@ -1,0 +1,88 @@
+
+state={
+	id=265
+	name="STATE_265"
+	manpower = 468781
+	
+	state_category = rural
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		add_core_of = SOV
+		victory_points = {
+			487 1
+		}
+		buildings={
+			infrastructure=5
+			11423={
+				supply_node=1
+			}
+			11451={
+				supply_node=1
+			}
+			11485={
+				supply_node=1
+			}
+			11512={
+				supply_node=1
+			}
+			11527={
+				supply_node=1
+			}
+			11555={
+				supply_node=1
+			}
+			3431={
+				supply_node=1
+			}
+			3539={
+				supply_node=1
+			}
+			3582={
+				supply_node=1
+			}
+			487={
+				supply_node=1
+			}
+			518={
+				supply_node=1
+			}
+			544={
+				supply_node=1
+			}
+			579={
+				supply_node=1
+			}
+			6454={
+				supply_node=1
+			}
+			6528={
+				supply_node=1
+			}
+			6563={
+				supply_node=1
+			}
+			6602={
+				supply_node=1
+			}
+			9436={
+				supply_node=1
+			}
+			9464={
+				supply_node=1
+			}
+			9502={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		487 518 544 579 3431 3539 3582 6454 6528 6563 6602 9436 9464 9502 11423 11451 11485 11512 11527 11555 
+	}
+
+	local_supplies=0.0 
+}

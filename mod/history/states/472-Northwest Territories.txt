@@ -1,0 +1,67 @@
+state={
+	id=472
+	name="STATE_472"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = CAN
+
+		buildings={
+			infrastructure=5
+			10527={
+				supply_node=1
+			}
+			10703={
+				supply_node=1
+			}
+			13075={
+				supply_node=1
+			}
+			13167={
+				supply_node=1
+			}
+			13189={
+				supply_node=1
+			}
+			13192={
+				supply_node=1
+			}
+			2407={
+				supply_node=1
+			}
+			2976={
+				supply_node=1
+			}
+			4272={
+				supply_node=1
+			}
+			7696={
+				supply_node=1
+			}
+			7830={
+				supply_node=1
+			}
+			7858={
+				supply_node=1
+			}
+			7901={
+				supply_node=1
+			}
+			8653={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		2407 2976 4272 7696 7830 7858 7901 8653 10527 10703 13075 13167 13189 13192 
+	}
+	manpower=27681
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

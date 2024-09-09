@@ -1,0 +1,131 @@
+state={
+	id=717
+	name="STATE_717"
+	
+	state_category = pastoral
+
+	history={
+		owner = MAN
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+
+		}
+
+		buildings={
+			infrastructure=5
+			10215={
+				supply_node=1
+			}
+			10376={
+				supply_node=1
+			}
+			10463={
+				supply_node=1
+			}
+			10503={
+				supply_node=1
+			}
+			10519={
+				supply_node=1
+			}
+			10521={
+				supply_node=1
+			}
+			11893={
+				supply_node=1
+			}
+			11906={
+				supply_node=1
+			}
+			12342={
+				supply_node=1
+			}
+			12355={
+				supply_node=1
+			}
+			12443={
+				supply_node=1
+			}
+			12482={
+				supply_node=1
+			}
+			12500={
+				supply_node=1
+			}
+			1571={
+				supply_node=1
+			}
+			3791={
+				supply_node=1
+			}
+			3815={
+				supply_node=1
+			}
+			3843={
+				supply_node=1
+			}
+			3944={
+				supply_node=1
+			}
+			4551={
+				supply_node=1
+			}
+			5427={
+				supply_node=1
+			}
+			6806={
+				supply_node=1
+			}
+			6811={
+				supply_node=1
+			}
+			6863={
+				supply_node=1
+			}
+			6964={
+				supply_node=1
+			}
+			7569={
+				supply_node=1
+			}
+			7670={
+				supply_node=1
+			}
+			783={
+				supply_node=1
+			}
+			810={
+				supply_node=1
+			}
+			944={
+				supply_node=1
+			}
+			9623={
+				supply_node=1
+			}
+			973={
+				supply_node=1
+			}
+			9766={
+				supply_node=1
+			}
+			9798={
+				supply_node=1
+			}
+			9897={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		783 810 944 973 1571 3791 3815 3843 3944 4551 5427 6806 6811 6863 6964 7569 7670 9623 9766 9798 9897 10215 10376 10463 10503 10519 10521 11893 11906 12342 12355 12443 12482 12500 
+	}
+	manpower=5224174
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

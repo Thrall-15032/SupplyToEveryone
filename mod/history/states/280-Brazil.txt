@@ -1,0 +1,53 @@
+
+state={
+	id=280
+	name="STATE_280"
+
+	history={
+		owner = BRA
+		add_core_of = BRA
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			2111 2 
+		}
+
+		buildings={
+			infrastructure=5
+			10959={
+				supply_node=1
+			}
+			11010={
+				supply_node=1
+			}
+			2111={
+				supply_node=1
+			}
+			2142={
+				supply_node=1
+			}
+			2181={
+				supply_node=1
+			}
+			2204={
+				supply_node=1
+			}
+			8175={
+				supply_node=1
+			}
+			8189={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		2111 2142 2181 2204 8175 8189 10959 11010 
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

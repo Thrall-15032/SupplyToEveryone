@@ -1,0 +1,112 @@
+state={
+	id=714
+	name="STATE_714"
+
+	history={
+		owner = MAN
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+
+		}
+
+		buildings={
+			infrastructure=5
+			10368={
+				supply_node=1
+			}
+			10379={
+				supply_node=1
+			}
+			10675={
+				supply_node=1
+			}
+			10698={
+				supply_node=1
+			}
+			12485={
+				supply_node=1
+			}
+			12548={
+				supply_node=1
+			}
+			12618={
+				supply_node=1
+			}
+			1502={
+				supply_node=1
+			}
+			1545={
+				supply_node=1
+			}
+			1588={
+				supply_node=1
+			}
+			1645={
+				supply_node=1
+			}
+			1693={
+				supply_node=1
+			}
+			1732={
+				supply_node=1
+			}
+			1847={
+				supply_node=1
+			}
+			4506={
+				supply_node=1
+			}
+			4592={
+				supply_node=1
+			}
+			4649={
+				supply_node=1
+			}
+			4809={
+				supply_node=1
+			}
+			4876={
+				supply_node=1
+			}
+			7526={
+				supply_node=1
+			}
+			7582={
+				supply_node=1
+			}
+			7613={
+				supply_node=1
+			}
+			7767={
+				supply_node=1
+			}
+			7832={
+				supply_node=1
+			}
+			7848={
+				supply_node=1
+			}
+			7873={
+				supply_node=1
+			}
+			7894={
+				supply_node=1
+			}
+			7897={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1502 1545 1588 1645 1693 1732 1847 4506 4592 4649 4809 4876 7526 7582 7613 7767 7832 7848 7873 7894 7897 10368 10379 10675 10698 12485 12548 12618 
+	}
+	manpower=3694191
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=0.0 
+}

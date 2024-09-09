@@ -1,0 +1,133 @@
+
+state={
+	id=284
+	name="STATE_284" # North Island
+	manpower = 899836
+	
+	state_category = city
+	
+	history={
+		owner = NZL
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+			industrial_complex = 4
+			air_base = 3
+			4543 = {
+				naval_base = 3
+			}
+			1814 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			1814 10
+		}
+		victory_points = {
+			4543 5 
+		}
+		add_core_of = NZL
+		buildings={
+			infrastructure=5
+			10334={
+				supply_node=1
+				naval_base=10
+			}
+			10373={
+				supply_node=1
+				naval_base=10
+			}
+			10609={
+				supply_node=1
+				naval_base=10
+			}
+			10710={
+				supply_node=1
+				naval_base=10
+			}
+			12362={
+				supply_node=1
+				naval_base=10
+			}
+			12604={
+				supply_node=1
+				naval_base=10
+			}
+			12617={
+				supply_node=1
+				naval_base=10
+			}
+			12664={
+				supply_node=1
+				naval_base=10
+			}
+			1565={
+				supply_node=1
+				naval_base=10
+			}
+			1713={
+				supply_node=1
+				naval_base=10
+			}
+			1746={
+				supply_node=1
+			}
+			1786={
+				supply_node=1
+			}
+			1801={
+				supply_node=1
+				naval_base=10
+			}
+			1814={
+				supply_node=1
+				naval_base=10
+			}
+			4543={
+				supply_node=1
+				naval_base=10
+			}
+			4615={
+				supply_node=1
+				naval_base=10
+			}
+			4718={
+				supply_node=1
+				naval_base=10
+			}
+			4748={
+				supply_node=1
+				naval_base=10
+			}
+			4804={
+				supply_node=1
+				naval_base=10
+			}
+			7692={
+				supply_node=1
+			}
+			7742={
+				supply_node=1
+				naval_base=10
+			}
+			7783={
+				supply_node=1
+				naval_base=10
+			}
+			7826={
+				supply_node=1
+				naval_base=10
+			}
+			7887={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1565 1713 1746 1786 1801 1814 4543 4615 4718 4748 4804 7692 7742 7783 7826 7887 10334 10373 10609 10710 12362 12604 12617 12664 
+	}
+
+	local_supplies=0.0 
+}

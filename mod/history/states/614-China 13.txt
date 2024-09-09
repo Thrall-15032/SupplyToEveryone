@@ -1,0 +1,85 @@
+
+state={
+	id=614
+	name="STATE_614" # Hebei
+	manpower = 18434900
+	
+	state_category = town
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+		}
+
+		1938.10.25 = {
+			controller = JAP
+		}
+		buildings={
+			infrastructure=5
+			10003={
+				supply_node=1
+			}
+			10022={
+				supply_node=1
+			}
+			10053={
+				supply_node=1
+			}
+			10119={
+				supply_node=1
+			}
+			1169={
+				supply_node=1
+			}
+			1188={
+				supply_node=1
+			}
+			11944={
+				supply_node=1
+				naval_base=10
+			}
+			11980={
+				supply_node=1
+			}
+			11996={
+				supply_node=1
+			}
+			12062={
+				supply_node=1
+			}
+			4032={
+				supply_node=1
+			}
+			4058={
+				supply_node=1
+			}
+			4093={
+				supply_node=1
+			}
+			4190={
+				supply_node=1
+			}
+			4208={
+				supply_node=1
+			}
+			7000={
+				supply_node=1
+			}
+			7092={
+				supply_node=1
+			}
+			7109={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1169 1188 4032 4058 4093 4190 4208 7000 7092 7109 10003 10022 10053 10119 11944 11980 11996 12062 
+	}
+
+	local_supplies=0.0 
+}

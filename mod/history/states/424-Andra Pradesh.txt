@@ -1,0 +1,77 @@
+
+state={
+	id=424
+	name="STATE_424" # Madras
+	manpower = 15791700
+	state_category = rural
+	
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+
+		buildings={
+			infrastructure=5
+			10152={
+				supply_node=1
+				naval_base=10
+			}
+			10296={
+				supply_node=1
+			}
+			10756={
+				supply_node=1
+			}
+			10897={
+				supply_node=1
+			}
+			12180={
+				supply_node=1
+				naval_base=10
+			}
+			1228={
+				supply_node=1
+			}
+			12779={
+				supply_node=1
+			}
+			1344={
+				supply_node=1
+			}
+			1430={
+				supply_node=1
+				naval_base=10
+			}
+			4321={
+				supply_node=1
+				naval_base=10
+			}
+			4365={
+				supply_node=1
+			}
+			4414={
+				supply_node=1
+			}
+			7297={
+				supply_node=1
+				naval_base=10
+			}
+			7310={
+				supply_node=1
+			}
+			7340={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1228 1344 1430 4321 4365 4414 7297 7310 7340 10152 10296 10756 10897 12180 12779 
+	}
+
+	local_supplies=0.0 
+}

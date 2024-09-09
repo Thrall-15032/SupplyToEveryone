@@ -1,0 +1,39 @@
+
+state = {
+	id = 655
+	name = "STATE_655"
+	manpower = 94759
+	
+	state_category = pastoral
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = FER
+		add_claim_by = JAP
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+		buildings={
+			infrastructure=5
+			1742={
+				supply_node=1
+				naval_base=10
+			}
+			1755={
+				supply_node=1
+				naval_base=10
+			}
+			855={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		855 1742 1755 
+	}
+
+	local_supplies = 0.0 
+}

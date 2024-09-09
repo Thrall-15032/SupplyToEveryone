@@ -1,0 +1,88 @@
+
+state={
+	id=433
+	name="STATE_433" # Rajasthan
+	manpower = 11786000
+	
+	state_category = town
+	
+	
+	resources={
+		# tungsten=32 # was: 42
+	}
+
+	history={
+		victory_points = {
+			2054 1
+		}
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+
+		buildings={
+			infrastructure=5
+			10847={
+				supply_node=1
+			}
+			10866={
+				supply_node=1
+			}
+			1199={
+				supply_node=1
+			}
+			12041={
+				supply_node=1
+			}
+			12718={
+				supply_node=1
+			}
+			12743={
+				supply_node=1
+			}
+			12829={
+				supply_node=1
+			}
+			12844={
+				supply_node=1
+			}
+			12876={
+				supply_node=1
+			}
+			12886={
+				supply_node=1
+			}
+			1908={
+				supply_node=1
+			}
+			2054={
+				supply_node=1
+			}
+			4149={
+				supply_node=1
+			}
+			4915={
+				supply_node=1
+			}
+			4971={
+				supply_node=1
+			}
+			4984={
+				supply_node=1
+			}
+			7905={
+				supply_node=1
+			}
+			7998={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1199 1908 2054 4149 4915 4971 4984 7905 7998 10847 10866 12041 12718 12743 12829 12844 12876 12886 
+	}
+
+	local_supplies=9.0 
+}

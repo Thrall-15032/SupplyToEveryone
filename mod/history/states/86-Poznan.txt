@@ -1,0 +1,71 @@
+state={
+	id=86
+	name="STATE_86"
+	manpower = 2106500
+	
+	
+	state_category = city
+	history={
+		owner = POL
+		victory_points = {
+			6558 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			11232 = {
+				bunker = 1
+
+			}
+			9532 = {
+				bunker = 1
+
+			}
+			3381 = {
+				bunker = 1
+
+			}
+			air_base = 3
+		}
+		add_core_of = POL
+		1938.3.12 = {
+			add_claim_by = GER
+		}
+		buildings={
+			infrastructure=5
+			11232={
+				supply_node=1
+			}
+			11558={
+				supply_node=1
+			}
+			17={
+				supply_node=1
+			}
+			3381={
+				supply_node=1
+			}
+			3460={
+				supply_node=1
+			}
+			3532={
+				supply_node=1
+			}
+			388={
+				supply_node=1
+			}
+			6558={
+				supply_node=1
+			}
+			9532={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		17 388 3381 3460 3532 6558 9532 11232 11558
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,68 @@
+
+state={
+	id=135
+	name="STATE_135"
+	manpower = 941400
+
+	state_category = town
+
+	history={
+		owner = IRE
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 3
+		}
+		victory_points = {
+			7394 5 #Cork
+		}
+		victory_points = {
+			6313 1 #Limerick
+		}
+		add_core_of = IRE
+		buildings={
+			infrastructure=5
+			11237={
+				supply_node=1
+				naval_base=10
+			}
+			11267={
+				supply_node=1
+			}
+			11334={
+				supply_node=1
+				naval_base=10
+			}
+			6289={
+				supply_node=1
+				naval_base=10
+			}
+			6313={
+				supply_node=1
+			}
+			6405={
+				supply_node=1
+				naval_base=10
+			}
+			7394={
+				supply_node=1
+				naval_base=10
+			}
+			9284={
+				supply_node=1
+			}
+			9310={
+				supply_node=1
+			}
+			9405={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		6289 6313 6405 7394 9284 9310 9405 11237 11267 11334 
+	}
+
+	local_supplies=0.0 
+}

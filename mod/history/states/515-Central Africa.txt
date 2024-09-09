@@ -1,0 +1,51 @@
+state={
+	id=515
+	name="STATE_515"
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = FRA
+		add_core_of = NGR
+
+		buildings={
+			infrastructure=5
+			10758={
+				supply_node=1
+			}
+			10780={
+				supply_node=1
+			}
+			10805={
+				supply_node=1
+			}
+			10917={
+				supply_node=1
+			}
+			1956={
+				supply_node=1
+			}
+			4913={
+				supply_node=1
+			}
+			7939={
+				supply_node=1
+			}
+			8028={
+				supply_node=1
+			}
+			8128={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1956 4913 7939 8028 8128 10758 10780 10805 10917
+	}
+	manpower=1456356
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

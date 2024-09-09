@@ -1,0 +1,47 @@
+state = {
+	id = 877
+	name = "STATE_877" # Verkhoyansk
+
+	history = {
+		owner = SOV
+		victory_points = {
+			12549 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+		add_core_of = YAK
+
+		buildings={
+			infrastructure=5
+			12549={
+				supply_node=1
+			}
+			12634={
+				supply_node=1
+			}
+			1745={
+				supply_node=1
+			}
+			2877={
+				supply_node=1
+			}
+			4878={
+				supply_node=1
+			}
+			6211={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1745 2877 4878 6211 12549 12634
+	}
+	manpower = 13055
+	buildings_max_level_factor = 1
+	state_category = "wasteland"
+
+	local_supplies = 0.0 
+}

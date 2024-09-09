@@ -1,0 +1,97 @@
+
+state = {
+	id=651
+	name = "STATE_651" # Ufa
+	manpower = 2552075
+
+	state_category = city
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			1278 5
+		}
+		victory_points = {
+			4354 1 
+		}
+		add_core_of = SOV
+		add_core_of = BSK
+		buildings={
+			infrastructure=5
+			10142={
+				supply_node=1
+			}
+			10226={
+				supply_node=1
+			}
+			12117={
+				supply_node=1
+			}
+			12130={
+				supply_node=1
+			}
+			12172={
+				supply_node=1
+			}
+			1258={
+				supply_node=1
+			}
+			1278={
+				supply_node=1
+			}
+			1305={
+				supply_node=1
+			}
+			273={
+				supply_node=1
+			}
+			291={
+				supply_node=1
+			}
+			3289={
+				supply_node=1
+			}
+			4283={
+				supply_node=1
+			}
+			4354={
+				supply_node=1
+			}
+			6246={
+				supply_node=1
+			}
+			6285={
+				supply_node=1
+			}
+			7237={
+				supply_node=1
+			}
+			7300={
+				supply_node=1
+			}
+			7416={
+				supply_node=1
+			}
+			7431={
+				supply_node=1
+			}
+			7444={
+				supply_node=1
+			}
+			9349={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		273 291 1258 1278 1305 3289 4283 4354 6246 6285 7237 7300 7416 7431 7444 9349 10226 10142 12117 12130 12172 
+	}
+
+	local_supplies = 0.0 
+}

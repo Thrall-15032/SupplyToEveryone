@@ -1,0 +1,55 @@
+
+state={
+	id=416
+	name="STATE_416"
+	manpower = 1059739
+	state_category = rural
+
+	history={
+		owner = PER
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		victory_points = {
+			5029 1 
+		}
+		add_core_of = PER
+		buildings={
+			infrastructure=5
+			10351={
+				supply_node=1
+			}
+			10806={
+				supply_node=1
+			}
+			1521={
+				supply_node=1
+			}
+			1888={
+				supply_node=1
+			}
+			1957={
+				supply_node=1
+			}
+			2000={
+				supply_node=1
+			}
+			5029={
+				supply_node=1
+			}
+			5073={
+				supply_node=1
+			}
+			7573={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1521 1888 1957 2000 5029 5073 7573 10351 10806 
+	}
+
+	local_supplies=5.0 
+}

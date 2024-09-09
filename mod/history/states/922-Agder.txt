@@ -1,0 +1,69 @@
+state = {
+	id = 922
+	name = "STATE_922"
+	manpower = 396425
+	state_category = town
+	resources = {
+		aluminium = 5
+	}
+	
+
+	history = {
+		victory_points = {
+			9296 3 
+		}
+		
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			9296 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+		buildings={
+			infrastructure=5
+			11101={
+				supply_node=1
+			}
+			11176={
+				supply_node=1
+				naval_base=10
+			}
+			11367={
+				supply_node=1
+				naval_base=10
+			}
+			3049={
+				supply_node=1
+			}
+			3129={
+				supply_node=1
+			}
+			6072={
+				supply_node=1
+			}
+			9096={
+				supply_node=1
+				naval_base=10
+			}
+			9196={
+				supply_node=1
+			}
+			9296={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		3049 3129 6072 9096 9196 9296 11176 11367 11101
+	}
+
+	local_supplies = 0.000
+}

@@ -1,0 +1,108 @@
+
+state = {
+	id = 149
+	name = "STATE_149" # VAASA
+	manpower = 594860
+	
+	state_category = town
+
+	
+	
+	history = {
+		owner = FIN
+		add_core_of = FIN
+		
+		victory_points = { #Vaasa
+			3122 2
+		}
+
+		victory_points = { #Kokkola
+			66 1
+		}
+
+		victory_points = { #Seinäjoki
+			6013 1
+		}
+
+		victory_points = { #Jyväskylä
+			6141 1
+		}
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			3122 = {
+				naval_base = 1
+			}
+		}
+		
+		buildings={
+			infrastructure=5
+			11033={
+				supply_node=1
+			}
+			11065={
+				supply_node=1
+				naval_base=10
+			}
+			11126={
+				supply_node=1
+				naval_base=10
+			}
+			11144={
+				supply_node=1
+			}
+			13113={
+				supply_node=1
+			}
+			3119={
+				supply_node=1
+			}
+			3122={
+				supply_node=1
+				naval_base=10
+			}
+			3172={
+				supply_node=1
+				naval_base=10
+			}
+			6013={
+				supply_node=1
+			}
+			6138={
+				supply_node=1
+			}
+			6141={
+				supply_node=1
+			}
+			6198={
+				supply_node=1
+			}
+			63={
+				supply_node=1
+			}
+			66={
+				supply_node=1
+				naval_base=10
+			}
+			9038={
+				supply_node=1
+			}
+			9156={
+				supply_node=1
+			}
+			9166={
+				supply_node=1
+			}
+			9219={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		63 66 3119 3122 3172 6013 6138 6141 6198 9038 9156 9166 9219 11033 11065 11126 11144 13113
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,53 @@
+state = {
+	id = 679
+	name = "STATE_679"
+	manpower = 511000
+
+	history = {
+
+		owner = SAU
+		add_core_of = SAU
+
+		victory_points = {
+			12758 2 
+		}
+		
+		buildings = {
+			infrastructure = 2
+		}
+
+		buildings={
+			infrastructure=5
+			10748={
+				supply_node=1
+			}
+			10835={
+				supply_node=1
+			}
+			12758={
+				supply_node=1
+			}
+			2033={
+				supply_node=1
+				naval_base=10
+			}
+			4981={
+				supply_node=1
+			}
+			5099={
+				supply_node=1
+			}
+			7934={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		2033 4981 5099 7934 10748 10835 12758 
+	}
+	
+	buildings_max_level_factor = 1.000
+	state_category = pastoral
+	local_supplies = 0.000
+}

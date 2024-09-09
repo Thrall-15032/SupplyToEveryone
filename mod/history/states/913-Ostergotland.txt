@@ -1,0 +1,72 @@
+state = {
+	id = 913
+	name = "STATE_913"
+	manpower = 505226
+	state_category = town
+	resources = {
+		steel = 3
+	}
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			11380 1 
+		}
+		victory_points = {
+			9393 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 2
+			11380 = {
+				naval_base = 1
+			}
+		}
+		buildings={
+			infrastructure=5
+			11289={
+				supply_node=1
+			}
+			11311={
+				supply_node=1
+			}
+			11380={
+				supply_node=1
+				naval_base=10
+			}
+			11390={
+				supply_node=1
+				naval_base=10
+			}
+			13095={
+				supply_node=1
+			}
+			13264={
+				supply_node=1
+			}
+			13265={
+				supply_node=1
+			}
+			6311={
+				supply_node=1
+			}
+			6397={
+				supply_node=1
+			}
+			9308={
+				supply_node=1
+			}
+			9393={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		6311 6397 9308 9393 11289 11311 11380 11390 13095 13264 13265
+	}
+	
+	local_supplies = 11
+}

@@ -1,0 +1,64 @@
+
+state={
+	id=489
+	name="STATE_489" # Zulia
+	manpower = 1576373
+	
+	state_category = town
+	
+	resources={
+		oil=35 # was: 126
+	}
+
+	history={
+		owner = VEN
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			1944 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = VEN
+		victory_points = {
+			1944 1 
+		}
+
+		buildings={
+			infrastructure=5
+			10855={
+				supply_node=1
+				naval_base=10
+			}
+			12772={
+				supply_node=1
+				naval_base=10
+			}
+			1944={
+				supply_node=1
+				naval_base=10
+			}
+			1997={
+				supply_node=1
+				naval_base=10
+			}
+			2052={
+				supply_node=1
+			}
+			4526={
+				supply_node=1
+				naval_base=10
+			}
+			5088={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1944 1997 2052 4526 5088 10855 12772 
+	}
+
+	local_supplies=6.0 
+}

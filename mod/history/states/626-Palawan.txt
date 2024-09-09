@@ -1,0 +1,40 @@
+state=
+{
+	id=626
+	name="STATE_626"
+	manpower = 83041
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = PHI
+		buildings = {
+			infrastructure = 2
+			4429 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = PHI
+		buildings={
+			infrastructure=5
+			10145={
+				supply_node=1
+				naval_base=10
+			}
+			4429={
+				supply_node=1
+				naval_base=10
+			}
+			7419={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	provinces={
+		4429 7419 10145 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,155 @@
+
+state={
+	id=671
+	name="STATE_671"
+	manpower = 11528000
+	
+	state_category = town
+	
+	resources={
+		chromium=6 # was: 8
+		tungsten=27 # was: 38
+	}
+
+
+	history={
+		add_core_of = VIN
+		owner = FRA
+		victory_points = {
+			4075 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+			1185 = {
+				naval_base = 1
+
+			}
+
+		}
+
+		buildings={
+			infrastructure=5
+			10016={
+				supply_node=1
+				naval_base=10
+			}
+			10075={
+				supply_node=1
+			}
+			10103={
+				supply_node=1
+			}
+			10129={
+				supply_node=1
+			}
+			10137={
+				supply_node=1
+				naval_base=10
+			}
+			10180={
+				supply_node=1
+			}
+			10309={
+				supply_node=1
+				naval_base=10
+			}
+			1073={
+				supply_node=1
+			}
+			1157={
+				supply_node=1
+				naval_base=10
+			}
+			1185={
+				supply_node=1
+				naval_base=10
+			}
+			11909={
+				supply_node=1
+			}
+			11936={
+				supply_node=1
+				naval_base=10
+			}
+			12008={
+				supply_node=1
+			}
+			12048={
+				supply_node=1
+			}
+			12065={
+				supply_node=1
+			}
+			12075={
+				supply_node=1
+			}
+			12297={
+				supply_node=1
+				naval_base=10
+			}
+			12319={
+				supply_node=1
+			}
+			1248={
+				supply_node=1
+			}
+			1302={
+				supply_node=1
+				naval_base=10
+			}
+			4075={
+				supply_node=1
+			}
+			4119={
+				supply_node=1
+				naval_base=10
+			}
+			4255={
+				supply_node=1
+				naval_base=10
+			}
+			4379={
+				supply_node=1
+				naval_base=10
+			}
+			4397={
+				supply_node=1
+				naval_base=10
+			}
+			4529={
+				supply_node=1
+			}
+			7015={
+				supply_node=1
+			}
+			7093={
+				supply_node=1
+				naval_base=10
+			}
+			7229={
+				supply_node=1
+			}
+			7280={
+				supply_node=1
+				naval_base=10
+			}
+			7518={
+				supply_node=1
+			}
+			9948={
+				supply_node=1
+			}
+			9988={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1073 1157 1185 1248 1302 4075 4119 4255 4379 4397 4529 7015 7093 7229 7280 7518 9948 9988 10016 10075 10103 10129 10137 10180 10309 11909 11936 12008 12048 12065 12075 12297 12319 
+	}
+
+	local_supplies=0.0 
+}

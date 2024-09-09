@@ -1,0 +1,70 @@
+
+state={
+	id=329
+	name="STATE_329"
+	manpower = 85000
+	resources={
+		chromium=2 # was: 2
+	}
+	
+	state_category = rural
+
+	history={
+		owner = TAN
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			10627 3
+		}
+		add_core_of = TAN
+		add_core_of = SOV
+		buildings={
+			infrastructure=5
+			10597={
+				supply_node=1
+			}
+			10627={
+				supply_node=1
+			}
+			10646={
+				supply_node=1
+			}
+			12610={
+				supply_node=1
+			}
+			12625={
+				supply_node=1
+			}
+			1676={
+				supply_node=1
+			}
+			1877={
+				supply_node=1
+			}
+			4680={
+				supply_node=1
+			}
+			7703={
+				supply_node=1
+			}
+			7731={
+				supply_node=1
+			}
+			7804={
+				supply_node=1
+			}
+			7819={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1676 1877 4680 7703 7731 7804 7819 10597 10627 10646 12610 12625 
+	}
+
+	local_supplies=0.0 
+}

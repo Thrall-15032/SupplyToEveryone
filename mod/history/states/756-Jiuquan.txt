@@ -1,0 +1,78 @@
+state={
+	id=756
+	name="STATE_756"
+	provinces={
+		1778 2028 4783 5076 7727 7803 7971 8102 10770 10899 12596 12820 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	history={
+		owner = XSM
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 1
+
+		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger" 
+					}
+
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+
+			}
+
+		}
+
+		buildings={
+			infrastructure=5
+			10770={
+				supply_node=1
+			}
+			10899={
+				supply_node=1
+			}
+			12596={
+				supply_node=1
+			}
+			12820={
+				supply_node=1
+			}
+			1778={
+				supply_node=1
+			}
+			2028={
+				supply_node=1
+			}
+			4783={
+				supply_node=1
+			}
+			5076={
+				supply_node=1
+			}
+			7727={
+				supply_node=1
+			}
+			7803={
+				supply_node=1
+			}
+			7971={
+				supply_node=1
+			}
+			8102={
+				supply_node=1
+			}
+		}
+	}
+
+	local_supplies=0.0 
+}

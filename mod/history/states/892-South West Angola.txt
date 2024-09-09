@@ -1,0 +1,48 @@
+state={
+	id=892
+	name="STATE_892"
+	manpower = 960000
+	state_category = pastoral
+
+	history={
+		owner = POR
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			10966 1 
+		}
+		add_core_of = ANG
+
+		buildings={
+			infrastructure=5
+			10966={
+				supply_node=1
+			}
+			12391={
+				supply_node=1
+			}
+			12958={
+				supply_node=1
+				naval_base=10
+			}
+			12985={
+				supply_node=1
+				naval_base=10
+			}
+			8138={
+				supply_node=1
+			}
+			8202={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		8138 8202 10966 12391 12958 12985 
+	}
+
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

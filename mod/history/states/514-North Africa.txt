@@ -1,0 +1,77 @@
+
+state={
+	id=514
+	name="STATE_514" # Algerian Desert
+	manpower = 207733
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = FRA
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 0
+		}
+		buildings={
+			infrastructure=5
+			1043={
+				supply_node=1
+			}
+			10731={
+				supply_node=1
+			}
+			10749={
+				supply_node=1
+			}
+			1095={
+				supply_node=1
+			}
+			12711={
+				supply_node=1
+			}
+			12842={
+				supply_node=1
+			}
+			12849={
+				supply_node=1
+			}
+			1901={
+				supply_node=1
+			}
+			1958={
+				supply_node=1
+			}
+			2049={
+				supply_node=1
+			}
+			4903={
+				supply_node=1
+			}
+			5035={
+				supply_node=1
+			}
+			5095={
+				supply_node=1
+			}
+			7041={
+				supply_node=1
+			}
+			8061={
+				supply_node=1
+			}
+			8077={
+				supply_node=1
+			}
+			8088={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1043 1095 1901 1958 2049 4903 5035 5095 7041 8061 8077 8088 10731 10749 12711 12842 12849 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,90 @@
+
+state = {
+	id = 138
+	name = "STATE_138"
+	manpower = 1047701
+	
+	state_category = city
+
+	history = {
+		owner = SWE
+
+		victory_points = {
+			9279 5 # Malmö
+		}
+		victory_points = {
+			11215 1 # Karlskrona
+		}
+		victory_points = {
+			6345 1 # Helsingborg
+		}
+
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			dockyard = 1
+			11215 = {
+				naval_base = 5
+				coastal_bunker = 3
+			}
+			9279 = {
+				naval_base = 5
+				coastal_bunker = 1
+			}
+		}
+
+		add_core_of = SWE
+		buildings={
+			infrastructure=5
+			11160={
+				supply_node=1
+				naval_base=10
+			}
+			11215={
+				supply_node=1
+				naval_base=10
+			}
+			11327={
+				supply_node=1
+				naval_base=10
+			}
+			11376={
+				supply_node=1
+				naval_base=10
+			}
+			3307={
+				supply_node=1
+				naval_base=10
+			}
+			6120={
+				supply_node=1
+				naval_base=10
+			}
+			6345={
+				supply_node=1
+				naval_base=10
+			}
+			6412={
+				supply_node=1
+				naval_base=10
+			}
+			9279={
+				supply_node=1
+				naval_base=10
+			}
+			9300={
+				supply_node=1
+			}
+			9362={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		3307 6120 6345 6412 9279 9300 9362 11160 11215 11327 11376 
+	}
+
+	local_supplies = 0.0 
+}

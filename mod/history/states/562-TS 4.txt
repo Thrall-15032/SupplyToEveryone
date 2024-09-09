@@ -1,0 +1,62 @@
+
+state = {
+	id = 562
+	name = "STATE_562" # Okhotsk
+	manpower = 63480
+	state_category = pastoral
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+		add_core_of = FER
+		buildings={
+			infrastructure=5
+			10572={
+				supply_node=1
+			}
+			10598={
+				supply_node=1
+				naval_base=10
+			}
+			11607={
+				supply_node=1
+			}
+			12518={
+				supply_node=1
+				naval_base=10
+			}
+			12551={
+				supply_node=1
+				naval_base=10
+			}
+			12650={
+				supply_node=1
+			}
+			1714={
+				supply_node=1
+			}
+			1805={
+				supply_node=1
+			}
+			4810={
+				supply_node=1
+				naval_base=10
+			}
+			4881={
+				supply_node=1
+			}
+			7772={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1714 1805 4810 4881 7772 10572 10598 11607 12518 12551 12650  
+	}
+
+	local_supplies = 0.0 
+}

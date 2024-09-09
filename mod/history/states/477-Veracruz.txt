@@ -1,0 +1,55 @@
+
+state={
+	id=477
+	name="STATE_477"
+	manpower = 1951460
+	
+	state_category = town
+	
+	resources={
+		oil=9
+	}
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			12810 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = MEX
+		victory_points = {
+			12810 5
+		}
+		victory_points = {
+			8089 10
+		}
+		buildings={
+			infrastructure=5
+			10732={
+				supply_node=1
+				naval_base=10
+			}
+			12810={
+				supply_node=1
+				naval_base=10
+			}
+			8079={
+				supply_node=1
+				naval_base=10
+			}
+			8089={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		8079 8089 10732 12810 
+	}
+	
+
+	local_supplies=0.0 
+}

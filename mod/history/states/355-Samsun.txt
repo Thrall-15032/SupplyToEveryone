@@ -1,0 +1,60 @@
+
+state={
+	id=355
+	name="STATE_355"
+	manpower = 1151863
+	state_category = rural
+
+	history={
+		owner = TUR
+		victory_points = {
+			11881 10
+		}
+		buildings = {
+			infrastructure = 2
+			11881 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = TUR
+		buildings={
+			infrastructure=5
+			11881={
+				supply_node=1
+				naval_base=10
+			}
+			11894={
+				supply_node=1
+				naval_base=10
+			}
+			3935={
+				supply_node=1
+			}
+			3965={
+				supply_node=1
+			}
+			933={
+				supply_node=1
+			}
+			960={
+				supply_node=1
+			}
+			975={
+				supply_node=1
+				naval_base=10
+			}
+			9900={
+				supply_node=1
+			}
+			9915={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		933 960 975 3935 3965 9900 9915 11881 11894 
+	}
+
+	local_supplies=0.0 
+}

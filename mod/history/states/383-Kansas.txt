@@ -1,0 +1,87 @@
+
+state={
+	id=383
+	name="STATE_383"
+	manpower = 1880998
+	resources={
+		oil=30 # was: 42
+	}
+	
+	state_category = city
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = USA
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+			}
+		}
+		victory_points = {
+			4740 3
+		}
+		victory_points = {
+			7834 1
+		}
+		buildings={
+			infrastructure=5
+			10340={
+				supply_node=1
+			}
+			10532={
+				supply_node=1
+			}
+			12024={
+				supply_node=1
+			}
+			12513={
+				supply_node=1
+			}
+			1352={
+				supply_node=1
+			}
+			1753={
+				supply_node=1
+			}
+			4586={
+				supply_node=1
+			}
+			4740={
+				supply_node=1
+			}
+			4757={
+				supply_node=1
+			}
+			4811={
+				supply_node=1
+			}
+			4814={
+				supply_node=1
+			}
+			4871={
+				supply_node=1
+			}
+			7834={
+				supply_node=1
+			}
+			7892={
+				supply_node=1
+			}
+			9802={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1352 1753 4586 4740 4757 4811 4814 4871 7834 7892 9802 10340 10532 12024 12513 
+	}
+	
+
+	local_supplies=0.0 
+}

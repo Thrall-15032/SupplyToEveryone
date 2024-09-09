@@ -1,0 +1,77 @@
+
+state = {
+	id = 825
+	name = "STATE_825" # Nenets
+	manpower = 21795
+	
+	state_category = rural
+	
+	resources = {
+		oil = 7 # was: 8
+	}
+
+	history = {
+		victory_points = {
+			105 1 
+		}
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+			12530 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = SOV
+		add_core_of = NEN
+		buildings={
+			infrastructure=5
+			10207={
+				supply_node=1
+				naval_base=10
+			}
+			105={
+				supply_node=1
+				naval_base=10
+			}
+			11047={
+				supply_node=1
+				naval_base=10
+			}
+			11119={
+				supply_node=1
+				naval_base=10
+			}
+			12530={
+				supply_node=1
+				naval_base=10
+			}
+			198={
+				supply_node=1
+				naval_base=10
+			}
+			3147={
+				supply_node=1
+				naval_base=10
+			}
+			6040={
+				supply_node=1
+				naval_base=10
+			}
+			6192={
+				supply_node=1
+				naval_base=10
+			}
+			9205={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		105 198 3147 6040 6192 9205 10207 11047 11119 12530
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,63 @@
+
+state={
+	id=207
+	name="STATE_207"
+	manpower =  1217854
+	
+	state_category = town
+
+	history={
+		owner = SOV
+		victory_points = {
+			11241 5
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			air_base = 5
+		}
+		add_core_of = SOV
+		add_core_of = BLR
+		buildings={
+			infrastructure=5
+			11220={
+				supply_node=1
+			}
+			11241={
+				supply_node=1
+			}
+			3219={
+				supply_node=1
+			}
+			323={
+				supply_node=1
+			}
+			3331={
+				supply_node=1
+			}
+			6220={
+				supply_node=1
+			}
+			6249={
+				supply_node=1
+			}
+			6326={
+				supply_node=1
+			}
+			6371={
+				supply_node=1
+			}
+			9241={
+				supply_node=1
+			}
+			9323={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		323 3219 3331 6220 6249 6326 6371 9241 9323 11220 11241 
+	}
+
+	local_supplies=5.0 
+}

@@ -1,0 +1,45 @@
+state={
+	id=692
+	name="STATE_692"
+	manpower=76485
+	state_category = small_island
+
+	history={
+		add_core_of = BAS
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+			11350 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			11350 1
+		}
+		buildings={
+			infrastructure=5
+			11106={
+				supply_node=1
+				naval_base=10
+			}
+			11350={
+				supply_node=1
+				naval_base=10
+			}
+			13009={
+				supply_node=1
+				naval_base=10
+			}
+			379={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	
+	provinces={
+		379 11106 11350 13009 
+	}
+
+	local_supplies=4.0 
+}

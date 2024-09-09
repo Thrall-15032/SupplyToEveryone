@@ -1,0 +1,62 @@
+
+state = {
+	id = 494
+	name = "STATE_494"
+	manpower = 735826
+	
+	state_category = rural
+	
+
+	history = {
+
+		owner = PRU
+		add_core_of = PRU
+
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			8191 1
+		}
+
+		victory_points = {
+			5166 3
+		}
+
+		victory_points = {
+			2226 2
+		}
+		
+		buildings={
+			infrastructure=5
+			10940={
+				supply_node=1
+			}
+			13316={
+				supply_node=1
+			}
+			2212={
+				supply_node=1
+			}
+			2226={
+				supply_node=1
+			}
+			5166={
+				supply_node=1
+			}
+			8160={
+				supply_node=1
+			}
+			8191={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		2212 2226 5166 8160 8191 10940 13316
+	}
+
+	local_supplies = 0.0 
+}

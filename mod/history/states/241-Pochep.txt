@@ -1,0 +1,69 @@
+
+state={
+	id=241
+	name="STATE_241" # Gomel
+	manpower = 943422
+	
+	state_category = rural
+
+	history={
+		owner = SOV
+		victory_points = {
+			9288 10 
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			air_base = 3
+		}
+		add_core_of = SOV
+		add_core_of = BLR
+		buildings={
+			infrastructure=5
+			11230={
+				supply_node=1
+			}
+			11271={
+				supply_node=1
+			}
+			11355={
+				supply_node=1
+			}
+			11383={
+				supply_node=1
+			}
+			289={
+				supply_node=1
+			}
+			6233={
+				supply_node=1
+			}
+			6344={
+				supply_node=1
+			}
+			6354={
+				supply_node=1
+			}
+			9247={
+				supply_node=1
+			}
+			9288={
+				supply_node=1
+			}
+			9342={
+				supply_node=1
+			}
+			9371={
+				supply_node=1
+			}
+			9396={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		289 6233 6344 6354 9247 9288 9342 9371 9396 11230 11271 11355 11383 
+	}
+
+	local_supplies=0.0 
+}

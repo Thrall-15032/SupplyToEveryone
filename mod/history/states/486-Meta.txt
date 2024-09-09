@@ -1,0 +1,46 @@
+
+state={
+	id=486
+	name="STATE_486"
+	manpower = 213160
+	
+	state_category = pastoral
+
+	history={
+		owner = COL
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = COL
+		buildings={
+			infrastructure=5
+			10792={
+				supply_node=1
+			}
+			12729={
+				supply_node=1
+			}
+			12770={
+				supply_node=1
+			}
+			12825={
+				supply_node=1
+			}
+			1887={
+				supply_node=1
+			}
+			2007={
+				supply_node=1
+			}
+			5026={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1887 2007 5026 10792 12729 12770 12825 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,107 @@
+state={
+	id=522
+	name="STATE_522"
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+			1652 = {
+				naval_base = 1
+				coastal_bunker = 1
+
+			}
+
+		}
+		victory_points = {
+			1652 10 
+		}
+		add_core_of = AST
+
+		buildings={
+			infrastructure=5
+			10950={
+				supply_node=1
+			}
+			10971={
+				supply_node=1
+				naval_base=10
+			}
+			10983={
+				supply_node=1
+			}
+			12323={
+				supply_node=1
+				naval_base=10
+			}
+			1498={
+				supply_node=1
+			}
+			1511={
+				supply_node=1
+				naval_base=10
+			}
+			1540={
+				supply_node=1
+				naval_base=10
+			}
+			1652={
+				supply_node=1
+				naval_base=10
+			}
+			2157={
+				supply_node=1
+			}
+			4630={
+				supply_node=1
+				naval_base=10
+			}
+			4645={
+				supply_node=1
+				naval_base=10
+			}
+			5125={
+				supply_node=1
+				naval_base=10
+			}
+			5170={
+				supply_node=1
+			}
+			5175={
+				supply_node=1
+			}
+			7453={
+				supply_node=1
+				naval_base=10
+			}
+			7579={
+				supply_node=1
+			}
+			7608={
+				supply_node=1
+			}
+			8130={
+				supply_node=1
+				naval_base=10
+			}
+			8228={
+				supply_node=1
+				naval_base=10
+			}
+			8243={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1498 1511 1540 1652 2157 4630 4645 5125 5170 5175 7453 7579 7608 8130 8228 8243 10950 10971 10983 12323 
+	}
+	manpower=317200
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

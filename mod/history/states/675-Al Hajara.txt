@@ -1,0 +1,42 @@
+state={
+	id=675
+	name="STATE_675"
+	manpower = 122093
+	
+	state_category = wasteland
+
+	history={
+		owner = IRQ
+		victory_points = {
+			12413 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = IRQ
+		buildings={
+			infrastructure=5
+			10744={
+				supply_node=1
+			}
+			12413={
+				supply_node=1
+			}
+			12879={
+				supply_node=1
+			}
+			1631={
+				supply_node=1
+			}
+			4951={
+				supply_node=1
+			}
+		}
+	}
+	
+	provinces={
+		1631 4951 10744 12413 12879 
+	}
+
+	local_supplies=0.0 
+}

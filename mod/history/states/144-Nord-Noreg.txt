@@ -1,0 +1,79 @@
+
+state = {
+	id = 144
+	name = "STATE_144" # Nordland
+	manpower = 142100 # 355251
+	
+	state_category = rural
+	
+	resources = {
+		steel = 6
+	}
+
+	history = {
+		victory_points = {
+			192 5
+		}
+		victory_points = {
+			9126 1
+		}
+		
+		owner = NOR
+		add_core_of = NOR
+		if = {
+			limit = {
+				has_dlc = "Arms Against Tyranny"
+			}
+			add_core_of = SMI
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			192 = {
+				naval_base = 3
+			}
+			
+		}
+		buildings={
+			infrastructure=5
+			11157={
+				supply_node=1
+				naval_base=10
+			}
+			192={
+				supply_node=1
+				naval_base=10
+			}
+			3034={
+				supply_node=1
+				naval_base=10
+			}
+			3132={
+				supply_node=1
+				naval_base=10
+			}
+			3145={
+				supply_node=1
+				naval_base=10
+			}
+			38={
+				supply_node=1
+				naval_base=10
+			}
+			6214={
+				supply_node=1
+				naval_base=10
+			}
+			9126={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		38 192 3034 3132 3145 9126 11157 6214
+	}
+
+	local_supplies = 0.0 
+}

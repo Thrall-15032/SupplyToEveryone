@@ -1,0 +1,127 @@
+
+state={
+	id=520
+	name="STATE_520"
+	resources={
+		steel=22.000
+	}
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			7669 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			7669 5 
+		}
+		add_core_of = AST
+
+		buildings={
+			infrastructure=5
+			10276={
+				supply_node=1
+				naval_base=10
+			}
+			10288={
+				supply_node=1
+				naval_base=10
+			}
+			10316={
+				supply_node=1
+			}
+			10518={
+				supply_node=1
+			}
+			12104={
+				supply_node=1
+			}
+			1217={
+				supply_node=1
+			}
+			12246={
+				supply_node=1
+				naval_base=10
+			}
+			12290={
+				supply_node=1
+				naval_base=10
+			}
+			12311={
+				supply_node=1
+			}
+			12326={
+				supply_node=1
+				naval_base=10
+			}
+			12339={
+				supply_node=1
+			}
+			12499={
+				supply_node=1
+				naval_base=10
+			}
+			1410={
+				supply_node=1
+				naval_base=10
+			}
+			1422={
+				supply_node=1
+				naval_base=10
+			}
+			1431={
+				supply_node=1
+				naval_base=10
+			}
+			1454={
+				supply_node=1
+			}
+			1478={
+				supply_node=1
+			}
+			2139={
+				supply_node=1
+			}
+			4415={
+				supply_node=1
+				naval_base=10
+			}
+			4441={
+				supply_node=1
+			}
+			4462={
+				supply_node=1
+				naval_base=10
+			}
+			4487={
+				supply_node=1
+			}
+			7457={
+				supply_node=1
+				naval_base=10
+			}
+			7481={
+				supply_node=1
+				naval_base=10
+			}
+			7669={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1217 1410 1422 1431 1454 1478 2139 4415 4441 4462 4487 7457 7481 7669 10276 10288 10316 10518 12104 12246 12290 12311 12326 12339 12499 
+	}
+	manpower=13000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=0.0 
+}

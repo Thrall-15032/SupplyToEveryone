@@ -1,0 +1,54 @@
+
+state={
+	id=488
+	name="STATE_488"
+	manpower = 245642
+	
+	state_category = pastoral
+
+	history={
+		owner = VEN
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = VEN
+		victory_points = {
+			10879 1
+		}
+		buildings={
+			infrastructure=5
+			10736={
+				supply_node=1
+			}
+			10849={
+				supply_node=1
+			}
+			10879={
+				supply_node=1
+			}
+			13362={
+				supply_node=1
+			}
+			1981={
+				supply_node=1
+				naval_base=10
+			}
+			5317={
+				supply_node=1
+			}
+			7915={
+				supply_node=1
+			}
+			8050={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1981 5317 7915 8050 10736 10849 10879 13362
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,58 @@
+
+state={
+	id=549
+	name="STATE_549" #Kurdufan / was "Sudan"
+	
+	manpower = 1802132
+
+	history = {
+		victory_points = {
+			2096 1 
+		}
+		owner = ENG
+		add_core_of = SUD
+		buildings = {
+			infrastructure = 2
+
+		}
+
+		buildings={
+			infrastructure=5
+			10739={
+				supply_node=1
+			}
+			10795={
+				supply_node=1
+			}
+			10827={
+				supply_node=1
+			}
+			10851={
+				supply_node=1
+			}
+			12744={
+				supply_node=1
+			}
+			2016={
+				supply_node=1
+			}
+			4033={
+				supply_node=1
+			}
+			8052={
+				supply_node=1
+			}
+			8084={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		2016 4033 8052 8084 10739 10795 10827 10851 12744 
+	}
+
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

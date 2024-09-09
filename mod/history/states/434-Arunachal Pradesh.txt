@@ -1,0 +1,43 @@
+
+state={
+	id=434
+	name="STATE_434"
+	manpower = 200000
+	
+	state_category = wasteland
+	resources={
+		# tungsten=49 # was: 54
+	}
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 1
+		}
+
+		buildings={
+			infrastructure=5
+			10810={
+				supply_node=1
+			}
+			1116={
+				supply_node=1
+			}
+			12322={
+				supply_node=1
+			}
+			12730={
+				supply_node=1
+			}
+			1996={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1116 1996 10810 12322 12730 
+	}
+
+	local_supplies=3.0 
+}

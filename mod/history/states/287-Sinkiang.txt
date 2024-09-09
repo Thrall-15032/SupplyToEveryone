@@ -1,0 +1,49 @@
+state={
+	id=287
+	name="STATE_287"
+
+	history={
+		owner = SIK
+		add_core_of = SIK
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			4973 1
+		}
+		buildings={
+			infrastructure=5
+			10885={
+				supply_node=1
+			}
+			10911={
+				supply_node=1
+			}
+			12864={
+				supply_node=1
+			}
+			4973={
+				supply_node=1
+			}
+			8042={
+				supply_node=1
+			}
+			8086={
+				supply_node=1
+			}
+		}
+	}
+
+
+	provinces={
+		4973 8042 8086 10885 10911 12864 
+	}
+	manpower=408000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=4.0 
+}

@@ -1,0 +1,69 @@
+state=
+{
+	id=628
+	name="STATE_628"
+	manpower = 3525715
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = PHI
+		buildings = {
+			infrastructure = 2
+			12118 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = {
+			12118 1 
+		}
+		add_core_of = PHI
+		buildings={
+			infrastructure=5
+			10186={
+				supply_node=1
+				naval_base=10
+			}
+			10302={
+				supply_node=1
+				naval_base=10
+			}
+			12112={
+				supply_node=1
+				naval_base=10
+			}
+			12118={
+				supply_node=1
+				naval_base=10
+			}
+			12153={
+				supply_node=1
+				naval_base=10
+			}
+			1261={
+				supply_node=1
+				naval_base=10
+			}
+			1368={
+				supply_node=1
+				naval_base=10
+			}
+			7385={
+				supply_node=1
+				naval_base=10
+			}
+			7423={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1261 1368 7385 7423 10186 10302 12112 12118 12153 
+	}
+
+	local_supplies=6.0 
+}

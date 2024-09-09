@@ -1,0 +1,136 @@
+
+state = {
+	id = 398
+	name = "STATE_398"
+	manpower = 2135879
+	state_category = rural
+	resources = {
+		aluminium = 6 # was: 10
+	}
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+
+		}
+		victory_points = {
+			7375 1 
+		}
+		add_core_of = SOV
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+			}
+		}
+		buildings={
+			infrastructure=5
+			10216={
+				supply_node=1
+			}
+			10286={
+				supply_node=1
+			}
+			10314={
+				supply_node=1
+			}
+			11111={
+				supply_node=1
+			}
+			11195={
+				supply_node=1
+			}
+			11228={
+				supply_node=1
+			}
+			11352={
+				supply_node=1
+			}
+			12175={
+				supply_node=1
+			}
+			12187={
+				supply_node=1
+			}
+			12216={
+				supply_node=1
+			}
+			123={
+				supply_node=1
+			}
+			12527={
+				supply_node=1
+			}
+			12587={
+				supply_node=1
+			}
+			12626={
+				supply_node=1
+			}
+			12659={
+				supply_node=1
+			}
+			1336={
+				supply_node=1
+			}
+			1365={
+				supply_node=1
+			}
+			1380={
+				supply_node=1
+			}
+			1754={
+				supply_node=1
+			}
+			189={
+				supply_node=1
+			}
+			206={
+				supply_node=1
+			}
+			3127={
+				supply_node=1
+			}
+			390={
+				supply_node=1
+			}
+			4314={
+				supply_node=1
+			}
+			4326={
+				supply_node=1
+			}
+			4372={
+				supply_node=1
+			}
+			4802={
+				supply_node=1
+			}
+			4874={
+				supply_node=1
+			}
+			6025={
+				supply_node=1
+			}
+			7346={
+				supply_node=1
+			}
+			7375={
+				supply_node=1
+			}
+			7824={
+				supply_node=1
+			}
+			9283={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		123 189 206 390 1336 1365 1380 1754 3127 4314 4326 4372 4802 4874 6025 7346 7375 7824 9283 10216 10286 10314 11111 11195 11228 11352 12175 12187 12216 12527 12587 12626 12659 
+	}
+
+	local_supplies = 0.0 
+}

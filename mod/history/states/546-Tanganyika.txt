@@ -1,0 +1,99 @@
+state={
+	id=546
+	name="STATE_546"
+	
+	state_category = rural
+	resources={
+		rubber=2 # was: 2
+	}
+	history={
+		owner = ENG
+		victory_points = {
+			2196 1
+		}
+		buildings = {
+			infrastructure = 2
+			2196 = {
+				naval_base = 2
+
+			}
+
+		}
+			add_core_of = TZN
+		buildings={
+			infrastructure=5
+			10845={
+				supply_node=1
+			}
+			10932={
+				supply_node=1
+			}
+			10988={
+				supply_node=1
+			}
+			11017={
+				supply_node=1
+			}
+			12911={
+				supply_node=1
+			}
+			12944={
+				supply_node=1
+				naval_base=10
+			}
+			12967={
+				supply_node=1
+			}
+			2176={
+				supply_node=1
+			}
+			2196={
+				supply_node=1
+				naval_base=10
+			}
+			2206={
+				supply_node=1
+			}
+			2281={
+				supply_node=1
+			}
+			2308={
+				supply_node=1
+			}
+			4171={
+				supply_node=1
+			}
+			5180={
+				supply_node=1
+			}
+			5224={
+				supply_node=1
+			}
+			8144={
+				supply_node=1
+			}
+			8182={
+				supply_node=1
+				naval_base=10
+			}
+			8183={
+				supply_node=1
+				naval_base=10
+			}
+			8201={
+				supply_node=1
+			}
+			8205={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		2176 2196 2206 2281 2308 4171 5180 5224 8144 8182 8183 8201 8205 10845 10932 10988 11017 12911 12944 12967 
+	}
+	manpower=5299000
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

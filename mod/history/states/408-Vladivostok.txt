@@ -1,0 +1,149 @@
+
+state = {
+	id = 408
+	name = "STATE_408"
+	manpower = 841465
+	resources = {
+		chromium=20 # was: 28
+	}
+	
+	state_category = town
+
+	history={
+		owner = SOV
+		victory_points = {
+			957 15
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			air_base = 5
+			957 = {
+				naval_base = 8
+				coastal_bunker = 3
+			}
+		}
+		add_core_of = SOV
+		add_core_of = FER
+		add_core_of = VLA
+		buildings={
+			infrastructure=5
+			11624={
+				supply_node=1
+			}
+			11626={
+				supply_node=1
+				naval_base=10
+			}
+			11629={
+				supply_node=1
+			}
+			11643={
+				supply_node=1
+			}
+			11745={
+				supply_node=1
+				naval_base=10
+			}
+			11750={
+				supply_node=1
+			}
+			11765={
+				supply_node=1
+			}
+			11777={
+				supply_node=1
+			}
+			11879={
+				supply_node=1
+				naval_base=10
+			}
+			11904={
+				supply_node=1
+				naval_base=10
+			}
+			3695={
+				supply_node=1
+			}
+			3723={
+				supply_node=1
+			}
+			3739={
+				supply_node=1
+				naval_base=10
+			}
+			3753={
+				supply_node=1
+				naval_base=10
+			}
+			3787={
+				supply_node=1
+			}
+			3811={
+				supply_node=1
+			}
+			3977={
+				supply_node=1
+			}
+			664={
+				supply_node=1
+			}
+			6684={
+				supply_node=1
+			}
+			6686={
+				supply_node=1
+			}
+			6715={
+				supply_node=1
+				naval_base=10
+			}
+			681={
+				supply_node=1
+			}
+			6833={
+				supply_node=1
+				naval_base=10
+			}
+			6838={
+				supply_node=1
+			}
+			6961={
+				supply_node=1
+				naval_base=10
+			}
+			6989={
+				supply_node=1
+			}
+			837={
+				supply_node=1
+			}
+			957={
+				supply_node=1
+				naval_base=10
+			}
+			9639={
+				supply_node=1
+			}
+			9641={
+				supply_node=1
+			}
+			9762={
+				supply_node=1
+			}
+			9895={
+				supply_node=1
+				naval_base=10
+			}
+			9926={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		664 681 837 957 3695 3723 3739 3753 3787 3811 3977 6684 6686 6715 6833 6838 6961 6989 9639 9641 9762 9895 9926 11624 11626 11629 11643 11745 11750 11765 11777 11879 11904 
+	}
+
+	local_supplies = 0.0 
+}

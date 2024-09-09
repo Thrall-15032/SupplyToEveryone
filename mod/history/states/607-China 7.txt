@@ -1,0 +1,144 @@
+
+state={
+	id=607
+	name="STATE_607"
+	manpower=34289800
+	
+	state_category = town
+	
+	buildings_max_level_factor=1.000
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 2
+		}
+		victory_points = {
+			9958 1 
+		}
+
+		1938.10.25 = {		
+			buildings = {
+				industrial_complex = 4
+				infrastructure = 4 #was: 8
+				air_base = 2
+				arms_factory = 2
+			}
+			JAP = {
+				set_province_controller = 1004
+				set_province_controller = 1139
+				set_province_controller = 4010
+				set_province_controller = 4114
+				set_province_controller = 4144
+				set_province_controller = 4606
+				set_province_controller = 6932
+				set_province_controller = 7074
+				set_province_controller = 7085
+				set_province_controller = 7129
+				set_province_controller = 9958
+				set_province_controller = 9995
+				set_province_controller = 10098
+				set_province_controller = 11931
+			} 			
+		}
+		buildings={
+			infrastructure=5
+			1004={
+				supply_node=1
+			}
+			10098={
+				supply_node=1
+			}
+			10364={
+				supply_node=1
+			}
+			10434={
+				supply_node=1
+			}
+			10446={
+				supply_node=1
+			}
+			1139={
+				supply_node=1
+			}
+			11931={
+				supply_node=1
+			}
+			12012={
+				supply_node=1
+			}
+			12426={
+				supply_node=1
+			}
+			1603={
+				supply_node=1
+			}
+			4010={
+				supply_node=1
+			}
+			4066={
+				supply_node=1
+			}
+			4114={
+				supply_node=1
+			}
+			4144={
+				supply_node=1
+			}
+			4519={
+				supply_node=1
+			}
+			4547={
+				supply_node=1
+			}
+			4606={
+				supply_node=1
+			}
+			6932={
+				supply_node=1
+			}
+			7074={
+				supply_node=1
+			}
+			7085={
+				supply_node=1
+			}
+			7126={
+				supply_node=1
+			}
+			7129={
+				supply_node=1
+			}
+			7459={
+				supply_node=1
+			}
+			7508={
+				supply_node=1
+			}
+			7540={
+				supply_node=1
+			}
+			7568={
+				supply_node=1
+			}
+			7656={
+				supply_node=1
+			}
+			9958={
+				supply_node=1
+			}
+			9995={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1004 1139 1603 4010 4066 4114 4144 4519 4547 4606 6932 7074 7085 7126 7129 7459 7508 7540 7568 7656 9958 9995 10098 10364 10434 10446 11931 12012 12426 
+	}
+
+	local_supplies=3.0 
+}

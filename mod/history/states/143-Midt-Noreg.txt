@@ -1,0 +1,99 @@
+
+state = {
+	id = 143
+	name = "STATE_143"
+	manpower = 280271
+	
+	state_category = rural
+
+	history = {
+		victory_points = {
+			3022 5
+		}
+		owner = NOR
+		add_core_of = NOR
+		if = {
+			limit = {
+				has_dlc = "Arms Against Tyranny"
+			}
+			add_core_of = SMI
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 0
+			industrial_complex = 1
+			3022 = {
+				naval_base = 3
+				coastal_bunker = 2
+			}
+		}
+		buildings={
+			infrastructure=5
+			107={
+				supply_node=1
+				naval_base=10
+			}
+			11118={
+				supply_node=1
+			}
+			11173={
+				supply_node=1
+			}
+			115={
+				supply_node=1
+			}
+			21={
+				supply_node=1
+				naval_base=10
+			}
+			3018={
+				supply_node=1
+				naval_base=10
+			}
+			3022={
+				supply_node=1
+				naval_base=10
+			}
+			3098={
+				supply_node=1
+			}
+			3183={
+				supply_node=1
+			}
+			6038={
+				supply_node=1
+				naval_base=10
+			}
+			6041={
+				supply_node=1
+				naval_base=10
+			}
+			6116={
+				supply_node=1
+				naval_base=10
+			}
+			6118={
+				supply_node=1
+			}
+			6173={
+				supply_node=1
+			}
+			9069={
+				supply_node=1
+			}
+			9132={
+				supply_node=1
+				naval_base=10
+			}
+			9139={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		21 107 115 3018 3022 3098 3183 6038 6041 6116 6118 6173 9069 9132 9139 11118 11173 
+	}
+
+	local_supplies = 0.0 
+}

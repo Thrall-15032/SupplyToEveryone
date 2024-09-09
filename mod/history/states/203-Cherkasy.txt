@@ -1,0 +1,72 @@
+
+state={
+	id=203
+	name="STATE_203"
+	manpower = 2405190
+	
+	state_category = large_town
+
+	history={
+		victory_points = {
+			488 5
+		}
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+		}
+		add_core_of = SOV
+		add_core_of = UKR
+		buildings={
+			infrastructure=5
+			11409={
+				supply_node=1
+			}
+			11424={
+				supply_node=1
+			}
+			11438={
+				supply_node=1
+			}
+			11454={
+				supply_node=1
+			}
+			11530={
+				supply_node=1
+			}
+			3452={
+				supply_node=1
+			}
+			3468={
+				supply_node=1
+			}
+			434={
+				supply_node=1
+			}
+			458={
+				supply_node=1
+			}
+			488={
+				supply_node=1
+			}
+			6451={
+				supply_node=1
+			}
+			6478={
+				supply_node=1
+			}
+			9451={
+				supply_node=1
+			}
+			9491={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		434 458 488 3452 3468 6451 6478 9451 9491 11409 11424 11438 11454 11530 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,84 @@
+
+state = {
+	id = 401
+	name = "STATE_401" #Balakovo
+	manpower = 309530
+	
+	state_category = rural
+	
+	resources = {
+		steel = 10 # was: 40, then 24 but split
+		tungsten = 10 # was: 34, then 16 but split
+	}
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SOV
+		victory_points = {
+			6502 1
+		}
+		buildings={
+			infrastructure=5
+			11321={
+				supply_node=1
+			}
+			11421={
+				supply_node=1
+			}
+			11458={
+				supply_node=1
+			}
+			3490={
+				supply_node=1
+			}
+			3551={
+				supply_node=1
+			}
+			410={
+				supply_node=1
+			}
+			452={
+				supply_node=1
+			}
+			499={
+				supply_node=1
+			}
+			6339={
+				supply_node=1
+			}
+			6430={
+				supply_node=1
+			}
+			6473={
+				supply_node=1
+			}
+			6502={
+				supply_node=1
+			}
+			6574={
+				supply_node=1
+			}
+			9337={
+				supply_node=1
+			}
+			9447={
+				supply_node=1
+			}
+			9473={
+				supply_node=1
+			}
+			9577={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		410 452 499 3490 3551 6339 6430 6473 6502 6574 9337 9447 9473 9577 11321 11421 11458 
+	}
+
+	local_supplies = 7.0 
+}

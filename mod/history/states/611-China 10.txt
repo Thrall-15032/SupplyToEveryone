@@ -1,0 +1,70 @@
+
+state={
+	id=611
+	name="STATE_611" # South Chahar
+	manpower = 1470000
+	
+	state_category = pastoral
+
+	history={
+		owner = MEN
+		add_core_of = MEN
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			11752 4
+		}
+		buildings={
+			infrastructure=5
+			10397={
+				supply_node=1
+			}
+			1137={
+				supply_node=1
+			}
+			11752={
+				supply_node=1
+			}
+			1489={
+				supply_node=1
+			}
+			1590={
+				supply_node=1
+			}
+			4495={
+				supply_node=1
+			}
+			4612={
+				supply_node=1
+			}
+			6904={
+				supply_node=1
+			}
+			7545={
+				supply_node=1
+			}
+			7674={
+				supply_node=1
+			}
+			828={
+				supply_node=1
+			}
+			952={
+				supply_node=1
+			}
+			9776={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		828 952 1137 1489 1590 4495 4612 6904 7545 7674 9776 10397 11752 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,43 @@
+state = {
+	id=931
+	name="STATE_931"
+	manpower = 745101
+	state_category = town
+	resources = {
+		steel = 20 
+		aluminium = 5
+	}
+
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		victory_points = {
+			11332 3 #Carlisle
+		}
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+		buildings={
+			infrastructure=5
+			11332={
+				supply_node=1
+				naval_base=10
+			}
+			219={
+				supply_node=1
+			}
+			6399={
+				supply_node=1
+				naval_base=10
+			}
+			9285={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		219 6399 9285 11332 
+	}
+	local_supplies = 0.000
+}

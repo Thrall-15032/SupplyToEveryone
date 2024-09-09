@@ -1,0 +1,80 @@
+state = {
+	id = 926
+	name = "STATE_926" #TURKU AND PORI
+
+	manpower = 529300
+	
+	state_category = town
+	
+	history = {
+		owner = FIN
+		add_core_of = FIN
+		
+		victory_points = { #Turku
+			3083 3
+		}
+
+		victory_points = { #Pori
+			3117 2 
+		}
+
+		victory_points = { #Rauma
+			169 1 
+		}
+		
+		buildings = {
+			infrastructure = 2 #TODO_Manu: Was 3
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 2
+			
+			3083 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+		
+		buildings={
+			infrastructure=5
+			13101={
+				supply_node=1
+			}
+			169={
+				supply_node=1
+				naval_base=10
+			}
+			3009={
+				supply_node=1
+			}
+			3083={
+				supply_node=1
+				naval_base=10
+			}
+			3117={
+				supply_node=1
+				naval_base=10
+			}
+			32={
+				supply_node=1
+			}
+			6066={
+				supply_node=1
+				naval_base=10
+			}
+			9094={
+				supply_node=1
+			}
+			9194={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		32 169 3009 3083 3117 6066 9094 9194 13101 
+	}
+	
+	local_supplies = 0.0
+}

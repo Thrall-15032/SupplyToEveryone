@@ -1,0 +1,49 @@
+
+state={
+	id=199
+	name="STATE_199"
+	manpower = 1424022
+	
+	state_category = town
+
+	history={
+		victory_points = {
+			3457 3
+		}
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = SOV
+		add_core_of = UKR
+		buildings={
+			infrastructure=5
+			3430={
+				supply_node=1
+			}
+			3457={
+				supply_node=1
+			}
+			3511={
+				supply_node=1
+			}
+			462={
+				supply_node=1
+			}
+			6429={
+				supply_node=1
+			}
+			6509={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		462 3430 3457 3511 6429 6509 
+	}
+
+	local_supplies=4.0 
+}

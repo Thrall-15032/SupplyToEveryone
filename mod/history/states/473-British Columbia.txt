@@ -1,0 +1,111 @@
+
+state={
+	id=473
+	name="STATE_473"
+	manpower = 638165
+	resources={
+		oil=1 # was: 2
+	}
+	
+	state_category = town
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 3 #was: 5
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 3
+			1408 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = CAN
+		victory_points = {
+			1408 15 
+		}
+		buildings={
+			infrastructure=5
+			10228={
+				supply_node=1
+				naval_base=10
+			}
+			10258={
+				supply_node=1
+				naval_base=10
+			}
+			10273={
+				supply_node=1
+			}
+			10644={
+				supply_node=1
+			}
+			12231={
+				supply_node=1
+				naval_base=10
+			}
+			12578={
+				supply_node=1
+			}
+			1323={
+				supply_node=1
+			}
+			1393={
+				supply_node=1
+				naval_base=10
+			}
+			1408={
+				supply_node=1
+				naval_base=10
+			}
+			1737={
+				supply_node=1
+			}
+			1858={
+				supply_node=1
+			}
+			4343={
+				supply_node=1
+			}
+			4385={
+				supply_node=1
+				naval_base=10
+			}
+			4413={
+				supply_node=1
+			}
+			4428={
+				supply_node=1
+				naval_base=10
+			}
+			4870={
+				supply_node=1
+			}
+			4877={
+				supply_node=1
+			}
+			7677={
+				supply_node=1
+			}
+			7753={
+				supply_node=1
+			}
+			7761={
+				supply_node=1
+			}
+			7820={
+				supply_node=1
+			}
+			7853={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1323 1393 1408 1737 1858 4343 4385 4413 4428 4870 4877 7677 7753 7761 7820 7853 10228 10258 10273 10644 12231 12578 
+	}
+
+	local_supplies=4.0 
+}

@@ -1,0 +1,112 @@
+state={
+	id=817
+	name="STATE_817"
+	provinces={
+		1723 1781 1787 1853 1855 4655 4729 4786 4856 4858 7749 7752 7806 7864 10558 10560 10575 10632 10634 10689 10695 10704 12539 12541 12544 12612 12614 12669 12686 
+	}
+
+	history={
+		owner = MON
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			12612 1 #Sainshand
+		}
+		add_core_of = MON
+		buildings={
+			infrastructure=5
+			10558={
+				supply_node=1
+			}
+			10560={
+				supply_node=1
+			}
+			10575={
+				supply_node=1
+			}
+			10632={
+				supply_node=1
+			}
+			10634={
+				supply_node=1
+			}
+			10689={
+				supply_node=1
+			}
+			10695={
+				supply_node=1
+			}
+			10704={
+				supply_node=1
+			}
+			12539={
+				supply_node=1
+			}
+			12541={
+				supply_node=1
+			}
+			12544={
+				supply_node=1
+			}
+			12612={
+				supply_node=1
+			}
+			12614={
+				supply_node=1
+			}
+			12669={
+				supply_node=1
+			}
+			12686={
+				supply_node=1
+			}
+			1723={
+				supply_node=1
+			}
+			1781={
+				supply_node=1
+			}
+			1787={
+				supply_node=1
+			}
+			1853={
+				supply_node=1
+			}
+			1855={
+				supply_node=1
+			}
+			4655={
+				supply_node=1
+			}
+			4729={
+				supply_node=1
+			}
+			4786={
+				supply_node=1
+			}
+			4856={
+				supply_node=1
+			}
+			4858={
+				supply_node=1
+			}
+			7749={
+				supply_node=1
+			}
+			7752={
+				supply_node=1
+			}
+			7806={
+				supply_node=1
+			}
+			7864={
+				supply_node=1
+			}
+		}
+	}
+	manpower=11000
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	local_supplies=0.000
+}

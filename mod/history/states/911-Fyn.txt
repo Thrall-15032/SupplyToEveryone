@@ -1,0 +1,42 @@
+state = {
+	id = 911
+	name = "STATE_911"
+	manpower = 497073
+	state_category = town
+
+	history = {
+		owner = DEN
+		add_core_of = DEN
+		victory_points = {
+			3325 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			3325 = {
+				naval_base = 3
+			}
+		}
+		buildings={
+			infrastructure=5
+			13260={
+				supply_node=1
+				naval_base=10
+			}
+			3325={
+				supply_node=1
+				naval_base=10
+			}
+			3374={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	provinces = {
+		3325 3374 13260
+	}
+	
+	local_supplies = 0.000
+}

@@ -1,0 +1,131 @@
+
+state = {
+	id = 150
+	name = "STATE_150" # KUOPIO
+	manpower = 392400
+	
+	state_category = rural
+	
+	resources={
+		steel=3 # was: 4
+	}
+	history={
+		owner = FIN
+		add_core_of = FIN
+
+		victory_points = { #Kuopio
+			11141 2
+		}
+
+		victory_points = { #Varkaus
+			136 1
+		}
+
+		victory_points = { #Joensuu
+			9061 1
+		}
+
+		victory_points = { #Kajaani
+			3125 1
+		}
+
+		buildings = {
+			infrastructure = 1 #TODO_Manu: Was 2
+			industrial_complex = 1
+		}
+		
+		buildings={
+			infrastructure=5
+			11076={
+				supply_node=1
+			}
+			11141={
+				supply_node=1
+			}
+			11199={
+				supply_node=1
+			}
+			11210={
+				supply_node=1
+			}
+			13109={
+				supply_node=1
+			}
+			13110={
+				supply_node=1
+			}
+			13111={
+				supply_node=1
+			}
+			13112={
+				supply_node=1
+			}
+			13114={
+				supply_node=1
+			}
+			13115={
+				supply_node=1
+			}
+			13118={
+				supply_node=1
+			}
+			136={
+				supply_node=1
+			}
+			141={
+				supply_node=1
+			}
+			193={
+				supply_node=1
+			}
+			3030={
+				supply_node=1
+			}
+			3068={
+				supply_node=1
+			}
+			3125={
+				supply_node=1
+			}
+			3185={
+				supply_node=1
+			}
+			6033={
+				supply_node=1
+			}
+			6078={
+				supply_node=1
+			}
+			6146={
+				supply_node=1
+			}
+			6156={
+				supply_node=1
+			}
+			6210={
+				supply_node=1
+			}
+			9061={
+				supply_node=1
+			}
+			9104={
+				supply_node=1
+			}
+			9106={
+				supply_node=1
+			}
+			9169={
+				supply_node=1
+			}
+			9181={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		136 141 193 3030 3068 3125 3185 6033 6078 6146 6156 6210 9061 9104 9106 9169 9181 11076 11141 11199 11210 13109 13110 13111 13112 13114 13115 13118  
+	}
+
+	local_supplies = 0.0 
+}

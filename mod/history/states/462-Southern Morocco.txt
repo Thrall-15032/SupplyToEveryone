@@ -1,0 +1,73 @@
+
+state={
+	id=462
+	name="STATE_462"
+	manpower = 1865552
+	
+	state_category = wasteland
+
+	history={
+		owner = FRA
+		add_core_of = MOR
+		victory_points = {
+			4108 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		buildings={
+			infrastructure=5
+			10107={
+				supply_node=1
+			}
+			1102={
+				supply_node=1
+				naval_base=10
+			}
+			1152={
+				supply_node=1
+			}
+			1207={
+				supply_node=1
+			}
+			1989={
+				supply_node=1
+			}
+			4022={
+				supply_node=1
+			}
+			4108={
+				supply_node=1
+			}
+			4154={
+				supply_node=1
+			}
+			4933={
+				supply_node=1
+			}
+			5046={
+				supply_node=1
+				naval_base=10
+			}
+			7203={
+				supply_node=1
+				naval_base=10
+			}
+			7908={
+				supply_node=1
+			}
+			7958={
+				supply_node=1
+			}
+			8046={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1102 1152 1207 1989 4022 4108 4154 4933 5046 7203 7908 7958 8046 10107 
+	}
+
+	local_supplies=0.0 
+}

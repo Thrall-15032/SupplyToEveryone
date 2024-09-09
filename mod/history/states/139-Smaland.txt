@@ -1,0 +1,81 @@
+
+state = {
+	id = 139
+	name = "STATE_139"
+	manpower = 390366
+	state_category = rural
+	resources = {
+		steel = 4
+	}
+
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			9329 1
+		}
+		victory_points = {
+			299 2
+		}
+		victory_points = {
+			211 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1	
+		}	
+
+		buildings={
+			infrastructure=5
+			11231={
+				supply_node=1
+			}
+			11280={
+				supply_node=1
+			}
+			211={
+				supply_node=1
+				naval_base=10
+			}
+			242={
+				supply_node=1
+			}
+			299={
+				supply_node=1
+				naval_base=10
+			}
+			3229={
+				supply_node=1
+				naval_base=10
+			}
+			329={
+				supply_node=1
+				naval_base=10
+			}
+			363={
+				supply_node=1
+			}
+			6148={
+				supply_node=1
+			}
+			9251={
+				supply_node=1
+			}
+			9329={
+				supply_node=1
+			}
+			9406={
+				supply_node=1
+			}
+			9410={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		211 242 299 329 363 3229 6148 9251 9329 9406 9410 11231 11280  
+	}
+	
+	local_supplies = 5
+}

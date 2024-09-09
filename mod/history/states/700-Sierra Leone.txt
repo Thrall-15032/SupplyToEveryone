@@ -1,0 +1,43 @@
+state={
+	id=700
+	name="STATE_700"
+	manpower = 1768500
+	
+	state_category = pastoral
+	resources = {
+		steel = 32
+	}
+	
+	history=
+	{
+		owner = ENG
+		add_core_of = SIE
+		victory_points = {
+			2038 1 
+		}
+		buildings = {
+			infrastructure = 2
+			2038 = {
+				naval_base = 3
+			}
+		}
+
+		buildings={
+			infrastructure=5
+			2038={
+				supply_node=1
+				naval_base=10
+			}
+			2094={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	
+	provinces={
+		2038 2094 
+	}
+
+	local_supplies=0.0 
+}

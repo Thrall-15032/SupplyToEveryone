@@ -1,0 +1,187 @@
+
+state={
+	id=285
+	name="STATE_285"
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 2
+			industrial_complex = 4
+			dockyard = 2
+			air_base = 5
+			12406 = {
+				naval_base = 6
+				coastal_bunker = 2
+
+			}
+			7859 = {
+				bunker = 1
+
+			}
+			7520 = {
+				coastal_bunker = 1
+
+			}
+
+		}
+		victory_points = {
+			7859 30 
+		}
+		victory_points = {
+			12406 20.0 
+		}
+		victory_points = {
+			7520 1 
+		}
+		add_core_of = AST
+
+		buildings={
+			infrastructure=5
+			10388={
+				supply_node=1
+			}
+			10427={
+				supply_node=1
+			}
+			10455={
+				supply_node=1
+			}
+			10500={
+				supply_node=1
+			}
+			10682={
+				supply_node=1
+			}
+			10977={
+				supply_node=1
+			}
+			10991={
+				supply_node=1
+			}
+			11019={
+				supply_node=1
+			}
+			12377={
+				supply_node=1
+			}
+			12406={
+				supply_node=1
+				naval_base=10
+			}
+			12435={
+				supply_node=1
+			}
+			12532={
+				supply_node=1
+			}
+			12560={
+				supply_node=1
+				naval_base=10
+			}
+			12934={
+				supply_node=1
+			}
+			12968={
+				supply_node=1
+			}
+			1537={
+				supply_node=1
+			}
+			1611={
+				supply_node=1
+				naval_base=10
+			}
+			1667={
+				supply_node=1
+			}
+			1861={
+				supply_node=1
+			}
+			2114={
+				supply_node=1
+			}
+			2146={
+				supply_node=1
+			}
+			2163={
+				supply_node=1
+			}
+			4453={
+				supply_node=1
+			}
+			4478={
+				supply_node=1
+			}
+			4500={
+				supply_node=1
+			}
+			4658={
+				supply_node=1
+			}
+			4673={
+				supply_node=1
+				naval_base=10
+			}
+			4763={
+				supply_node=1
+				naval_base=10
+			}
+			4836={
+				supply_node=1
+			}
+			4864={
+				supply_node=1
+				naval_base=10
+			}
+			5134={
+				supply_node=1
+			}
+			5161={
+				supply_node=1
+			}
+			7450={
+				supply_node=1
+				naval_base=10
+			}
+			7471={
+				supply_node=1
+			}
+			7496={
+				supply_node=1
+			}
+			7520={
+				supply_node=1
+				naval_base=10
+			}
+			7533={
+				supply_node=1
+			}
+			7649={
+				supply_node=1
+			}
+			7664={
+				supply_node=1
+			}
+			7859={
+				supply_node=1
+			}
+			8234={
+				supply_node=1
+			}
+			8249={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1537 1611 1667 1861 2114 2146 2163 4453 4478 4500 4658 4673 4763 4836 4864 5134 5161 7450 7471 7496 7520 7533 7649 7664 7859 8234 8249 10388 10427 10455 10500 10682 10977 10991 11019 12377 12406 12435 12532 12560 12934 12968 
+	}
+	manpower=2563100
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=0.0 
+}

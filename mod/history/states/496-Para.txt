@@ -1,0 +1,107 @@
+
+state = {
+	id = 496
+	name = "STATE_496" # Minas Gerais
+	manpower = 4603600
+	
+	state_category = rural # was town
+	
+	resources = {
+		steel = 3 # was: 4
+		
+	}
+
+	history = {
+
+		owner = BRA
+		add_core_of = BRA
+
+		victory_points = {
+			7476 3
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		
+		buildings={
+			infrastructure=5
+			10360={
+				supply_node=1
+			}
+			10931={
+				supply_node=1
+			}
+			10945={
+				supply_node=1
+			}
+			12334={
+				supply_node=1
+			}
+			12438={
+				supply_node=1
+			}
+			12479={
+				supply_node=1
+			}
+			12903={
+				supply_node=1
+			}
+			12909={
+				supply_node=1
+			}
+			12923={
+				supply_node=1
+			}
+			12938={
+				supply_node=1
+			}
+			12977={
+				supply_node=1
+			}
+			2167={
+				supply_node=1
+			}
+			2185={
+				supply_node=1
+			}
+			2190={
+				supply_node=1
+			}
+			2218={
+				supply_node=1
+			}
+			4570={
+				supply_node=1
+			}
+			5223={
+				supply_node=1
+			}
+			7476={
+				supply_node=1
+			}
+			7589={
+				supply_node=1
+			}
+			8148={
+				supply_node=1
+			}
+			8210={
+				supply_node=1
+			}
+			8226={
+				supply_node=1
+			}
+			8233={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		4570 5223 7589 8233 10931 12903 12909 12938 10945 12977 2167 7476 8148 12923 2190 2218 12438 10360 8210 12479 2185 8226 12334
+	}
+
+	local_supplies = 0.0 
+}

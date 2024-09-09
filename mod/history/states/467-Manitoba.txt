@@ -1,0 +1,67 @@
+
+state={
+	id=467
+	name="STATE_467"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			4872 5 
+		}
+		add_core_of = CAN
+
+		buildings={
+			infrastructure=5
+			12145={
+				supply_node=1
+			}
+			12636={
+				supply_node=1
+			}
+			12688={
+				supply_node=1
+			}
+			13163={
+				supply_node=1
+			}
+			1848={
+				supply_node=1
+			}
+			1873={
+				supply_node=1
+			}
+			3721={
+				supply_node=1
+			}
+			4218={
+				supply_node=1
+			}
+			4426={
+				supply_node=1
+			}
+			4790={
+				supply_node=1
+			}
+			4872={
+				supply_node=1
+			}
+			5119={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1848 1873 3721 4218 4426 4790 4872 5119 12145 12636 12688 13163 
+	}
+	manpower=641071
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=9.0 
+}

@@ -1,0 +1,47 @@
+state={
+	id=798
+	name="STATE_798"
+	provinces={
+		919 3807 3862 3964 11826 11844 
+	}
+	manpower = 531172
+	
+	state_category = rural
+
+	history= {
+		owner = TUR
+		victory_points = {
+			3862 3
+		}
+		victory_points = {
+			919 5
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = TUR
+		buildings={
+			infrastructure=5
+			11826={
+				supply_node=1
+			}
+			11844={
+				supply_node=1
+			}
+			3807={
+				supply_node=1
+			}
+			3862={
+				supply_node=1
+			}
+			3964={
+				supply_node=1
+			}
+			919={
+				supply_node=1
+			}
+		}
+	}
+
+	local_supplies=0.0 
+}

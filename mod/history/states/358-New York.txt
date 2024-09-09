@@ -1,0 +1,148 @@
+state={
+	id=358
+	name="STATE_358"
+	resources={
+		steel=13 # was: 24.000
+	}
+	
+	state_category = megalopolis
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4 #was: 8
+			arms_factory = 2
+			industrial_complex = 7
+			dockyard = 3
+			air_base = 10
+			3878 = {
+				naval_base = 6
+
+			}
+
+		}
+		add_core_of = USA
+		victory_points = {
+			3878 30.0 
+		}
+		victory_points = {
+			11654 3 
+		}
+
+		buildings={
+			infrastructure=5
+			10381={
+				supply_node=1
+			}
+			11650={
+				supply_node=1
+			}
+			11654={
+				supply_node=1
+			}
+			11660={
+				supply_node=1
+			}
+			11662={
+				supply_node=1
+			}
+			11665={
+				supply_node=1
+			}
+			11680={
+				supply_node=1
+			}
+			11722={
+				supply_node=1
+			}
+			13157={
+				supply_node=1
+			}
+			1436={
+				supply_node=1
+			}
+			3602={
+				supply_node=1
+			}
+			3702={
+				supply_node=1
+			}
+			3733={
+				supply_node=1
+			}
+			3747={
+				supply_node=1
+			}
+			3806={
+				supply_node=1
+			}
+			3878={
+				supply_node=1
+				naval_base=10
+			}
+			3894={
+				supply_node=1
+			}
+			598={
+				supply_node=1
+			}
+			6707={
+				supply_node=1
+			}
+			6717={
+				supply_node=1
+			}
+			6778={
+				supply_node=1
+			}
+			6795={
+				supply_node=1
+			}
+			6911={
+				supply_node=1
+			}
+			6916={
+				supply_node=1
+			}
+			706={
+				supply_node=1
+			}
+			734={
+				supply_node=1
+			}
+			859={
+				supply_node=1
+				naval_base=10
+			}
+			9664={
+				supply_node=1
+			}
+			9673={
+				supply_node=1
+			}
+			9693={
+				supply_node=1
+			}
+			9708={
+				supply_node=1
+			}
+			9721={
+				supply_node=1
+			}
+			9754={
+				supply_node=1
+			}
+			9774={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		598 706 734 859 1436 3602 3702 3733 3747 3806 3878 3894 6707 6717 6778 6795 6911 6916 9664 9673 9693 9708 9721 9754 9774 10381 11650 11654 11660 11662 11665 11680 11722 13157 
+	}
+	manpower=12588061
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

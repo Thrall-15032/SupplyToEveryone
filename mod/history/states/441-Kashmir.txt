@@ -1,0 +1,47 @@
+
+state={
+	id=441
+	name="STATE_441"
+	manpower = 2123700
+	
+	state_category = rural
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = RAJ
+		add_claim_by = PAK
+		buildings={
+			infrastructure=5
+			10905={
+				supply_node=1
+			}
+			12754={
+				supply_node=1
+			}
+			12884={
+				supply_node=1
+			}
+			5042={
+				supply_node=1
+			}
+			7273={
+				supply_node=1
+			}
+			7316={
+				supply_node=1
+			}
+			8005={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		5042 7273 7316 8005 10905 12754 12884 
+	}
+
+	local_supplies=0.0 
+}

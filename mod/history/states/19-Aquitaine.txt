@@ -1,0 +1,62 @@
+
+state={
+	id=19
+	name="STATE_19"
+	resources={
+		steel=14 #was 25
+		aluminium=11
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			9737 20 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 1
+			air_base = 3
+			9737 = {
+				naval_base = 3
+				coastal_bunker = 1
+
+			}
+
+		}
+		add_core_of = OCC
+		add_core_of = FRA
+
+		buildings={
+			infrastructure=5
+			11565={
+				supply_node=1
+				naval_base=10
+			}
+			6621={
+				supply_node=1
+				naval_base=10
+			}
+			6762={
+				supply_node=1
+			}
+			6777={
+				supply_node=1
+				naval_base=10
+			}
+			9737={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		6621 6762 6777 9737 11565 
+	}
+	manpower=1140400
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=0.0 
+}

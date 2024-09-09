@@ -1,0 +1,74 @@
+
+state = {
+	id = 161
+	name = "STATE_161"
+	manpower = 3202401
+	
+	state_category = large_city
+	
+	resources = {
+		aluminium=9 # was: 16
+	}
+
+	history = {
+		owner = ITA
+		victory_points = { #Bologna
+			6606 5
+		}
+		victory_points = { #Ferrara
+			6793 3
+		}
+		victory_points = { #Parma
+			9752 1
+		}
+		buildings = {
+			infrastructure = 4 #was: 7
+			industrial_complex = 1
+			air_base = 2
+			782 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = ITA
+		add_core_of = PAP
+		buildings={
+			infrastructure=5
+			3773={
+				supply_node=1
+			}
+			3976={
+				supply_node=1
+			}
+			6606={
+				supply_node=1
+			}
+			6790={
+				supply_node=1
+			}
+			6793={
+				supply_node=1
+				naval_base=10
+			}
+			6985={
+				supply_node=1
+			}
+			782={
+				supply_node=1
+				naval_base=10
+			}
+			9752={
+				supply_node=1
+			}
+			9924={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		782 3773 3976 6606 6790 6793 6985 9752 9924 
+	}
+
+	local_supplies = 0.0 
+}

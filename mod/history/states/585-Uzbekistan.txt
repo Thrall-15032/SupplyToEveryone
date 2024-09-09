@@ -1,0 +1,50 @@
+state = {
+	id = 585
+	name = "STATE_585" #Navoiy
+
+	history = {
+		
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+		add_core_of = UZB
+		
+		victory_points = {
+			1554 1 
+		}
+		
+		buildings={
+			infrastructure=5
+			10420={
+				supply_node=1
+			}
+			1532={
+				supply_node=1
+			}
+			1554={
+				supply_node=1
+			}
+			4499={
+				supply_node=1
+			}
+			7501={
+				supply_node=1
+			}
+			7507={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1532 1554 4499 7501 7507 10420
+	}
+	manpower = 465174 # 9/10ths of before
+	buildings_max_level_factor = 1.000
+	state_category = rural
+
+	local_supplies = 0.0 
+}

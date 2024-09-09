@@ -1,0 +1,76 @@
+
+state={
+	id=483
+	name="STATE_483"
+	manpower = 303987
+	
+	state_category = rural
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+			4908 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = MEX
+		#victory_points = {
+		#	4977 3
+		#}
+		#victory_points = {
+		#	4908 1
+		#}
+		#victory_points = {
+		#	5071 1
+		#}
+		victory_points = {
+			10765 5
+		}
+		buildings={
+			infrastructure=5
+			10765={
+				supply_node=1
+			}
+			10848={
+				supply_node=1
+				naval_base=10
+			}
+			12833={
+				supply_node=1
+				naval_base=10
+			}
+			13214={
+				supply_node=1
+			}
+			2069={
+				supply_node=1
+				naval_base=10
+			}
+			4908={
+				supply_node=1
+				naval_base=10
+			}
+			4977={
+				supply_node=1
+				naval_base=10
+			}
+			5071={
+				supply_node=1
+			}
+			8012={
+				supply_node=1
+			}
+			8033={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		2069 4908 4977 5071 8012 8033 10765 10848 12833 13214
+	}
+	
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,60 @@
+
+state={
+	id=194
+	name="STATE_194" # Mozyr
+	manpower = 934632
+	
+	state_category = rural
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+		}
+		victory_points = {
+			6232 1
+		}
+		add_core_of = SOV
+		add_core_of = BLR
+		buildings={
+			infrastructure=5
+			11453={
+				supply_node=1
+			}
+			215={
+				supply_node=1
+			}
+			3203={
+				supply_node=1
+			}
+			3293={
+				supply_node=1
+			}
+			3507={
+				supply_node=1
+			}
+			6232={
+				supply_node=1
+			}
+			6319={
+				supply_node=1
+			}
+			6556={
+				supply_node=1
+			}
+			9249={
+				supply_node=1
+			}
+			9554={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		215 3203 3293 3507 6232 6319 6556 9249 9554 11453 
+	}
+
+	local_supplies=0.0 
+}

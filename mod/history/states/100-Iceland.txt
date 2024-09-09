@@ -1,0 +1,59 @@
+state = {
+	id = 100
+	name = "STATE_100"
+	manpower = 115870
+	
+	state_category = rural
+	
+	
+	history = {
+		owner = ICE
+		victory_points = { 12674 1 }
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+			12674 = {
+				naval_base = 1
+			}
+			industrial_complex = 1
+		}
+		# add_core_of = DEN
+		add_core_of = ICE
+		buildings={
+			infrastructure=5
+			12674={
+				supply_node=1
+				naval_base=10
+			}
+			12689={
+				supply_node=1
+				naval_base=10
+			}
+			13266={
+				supply_node=1
+				naval_base=10
+			}
+			13267={
+				supply_node=1
+				naval_base=10
+			}
+			13268={
+				supply_node=1
+				naval_base=10
+			}
+			13271={
+				supply_node=1
+				naval_base=10
+			}
+			4861={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	provinces = {
+		4861 12674 12689 13266 13267 13268 13271
+	}
+
+	local_supplies = 0.0 
+}

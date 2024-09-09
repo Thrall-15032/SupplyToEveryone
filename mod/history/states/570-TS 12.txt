@@ -1,0 +1,83 @@
+
+state={
+	id=570
+	name="STATE_570" # Novosibirsk
+	manpower = 1765369
+
+	state_category = town
+
+	history={
+		owner = SOV
+		victory_points = {
+			7274 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+		add_core_of = SOV
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 3
+			}
+		}
+		buildings={
+			infrastructure=5
+			10555={
+				supply_node=1
+			}
+			10652={
+				supply_node=1
+			}
+			12606={
+				supply_node=1
+			}
+			12679={
+				supply_node=1
+			}
+			1733={
+				supply_node=1
+			}
+			1790={
+				supply_node=1
+			}
+			1860={
+				supply_node=1
+			}
+			4366={
+				supply_node=1
+			}
+			4734={
+				supply_node=1
+			}
+			4806={
+				supply_node=1
+			}
+			4840={
+				supply_node=1
+			}
+			4866={
+				supply_node=1
+			}
+			7274={
+				supply_node=1
+			}
+			7687={
+				supply_node=1
+			}
+			7722={
+				supply_node=1
+			}
+			7825={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1733 1790 1860 4366 4734 4806 4840 4866 7274 7687 7722 7825 10555 10652 12606 12679 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,61 @@
+state=
+{
+	id=624
+	name="STATE_624"
+	manpower = 1290672
+	state_category = town
+	
+	history=
+	{
+		owner = PHI
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			4288 1 
+		}
+		add_core_of = PHI
+		buildings={
+			infrastructure=5
+			10272={
+				supply_node=1
+				naval_base=10
+			}
+			10306={
+				supply_node=1
+				naval_base=10
+			}
+			12279={
+				supply_node=1
+				naval_base=10
+			}
+			1372={
+				supply_node=1
+				naval_base=10
+			}
+			4228={
+				supply_node=1
+				naval_base=10
+			}
+			4288={
+				supply_node=1
+				naval_base=10
+			}
+			4377={
+				supply_node=1
+				naval_base=10
+			}
+			7307={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	provinces={
+		1372 4228 4288 4377 7307 10272 10306 12279 
+	}
+
+	local_supplies=0.0 
+}

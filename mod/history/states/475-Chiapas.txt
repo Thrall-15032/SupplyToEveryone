@@ -1,0 +1,41 @@
+
+state={
+	id=475
+	name="STATE_475"
+	manpower = 805874
+	
+	state_category = rural
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = MEX
+
+		victory_points = {
+			1900 3
+		}
+		buildings={
+			infrastructure=5
+			12753={
+				supply_node=1
+				naval_base=10
+			}
+			12867={
+				supply_node=1
+				naval_base=10
+			}
+			1900={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1900 12753 12867 
+	}
+	
+
+	local_supplies=0.0 
+}

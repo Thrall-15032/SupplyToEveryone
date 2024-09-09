@@ -1,0 +1,67 @@
+
+state={
+	id=5
+	name="STATE_5"
+	manpower = 1238108
+	state_category = town
+
+	history={
+		victory_points = {
+			6375 3
+		}
+		#victory_points = {
+		#	11386 1
+		#}
+		owner = GER
+		controller = GER
+		
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = GER
+		buildings={
+			infrastructure=5
+			11245={
+				supply_node=1
+			}
+			11386={
+				supply_node=1
+			}
+			266={
+				supply_node=1
+			}
+			3351={
+				supply_node=1
+			}
+			3380={
+				supply_node=1
+				naval_base=10
+			}
+			6375={
+				supply_node=1
+			}
+			6402={
+				supply_node=1
+				naval_base=10
+			}
+			9327={
+				supply_node=1
+			}
+			9346={
+				supply_node=1
+			}
+			9372={
+				supply_node=1
+			}
+			9398={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		266 3351 3380 6375 6402 9327 9346 9372 9398 11245 11386 
+	}
+
+	local_supplies=12.0 
+}

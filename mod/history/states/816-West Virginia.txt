@@ -1,0 +1,65 @@
+state={
+	id=816
+	name="STATE_816"
+	state_category = town
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 3
+			air_base = 3
+		}
+		victory_points = {
+			7588 3
+		}
+		buildings={
+			infrastructure=5
+			10441={
+				supply_node=1
+			}
+			11888={
+				supply_node=1
+			}
+			3941={
+				supply_node=1
+			}
+			3975={
+				supply_node=1
+			}
+			4627={
+				supply_node=1
+			}
+			6850={
+				supply_node=1
+			}
+			6958={
+				supply_node=1
+			}
+			6971={
+				supply_node=1
+			}
+			7466={
+				supply_node=1
+			}
+			7588={
+				supply_node=1
+			}
+			7646={
+				supply_node=1
+			}
+			801={
+				supply_node=1
+			}
+			9923={
+				supply_node=1
+			}
+		}
+	}
+	provinces={
+		801 3941 3975 4627 6850 6958 6971 7466 7588 7646 9923 10441 11888 
+	}
+	manpower=1901974
+	buildings_max_level_factor=1.000
+	state_category = town
+}

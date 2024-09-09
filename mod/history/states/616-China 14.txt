@@ -1,0 +1,83 @@
+state = {
+	id = 616
+	name = "STATE_616"
+
+	history = {
+
+		owner = XSM
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			8127 2 #Yinchuan
+		}
+
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger" 
+					}
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+			}
+		}
+
+		buildings={
+			infrastructure=5
+			10724={
+				supply_node=1
+			}
+			12327={
+				supply_node=1
+			}
+			12750={
+				supply_node=1
+			}
+			12776={
+				supply_node=1
+			}
+			3742={
+				supply_node=1
+			}
+			5031={
+				supply_node=1
+			}
+			5057={
+				supply_node=1
+			}
+			5100={
+				supply_node=1
+			}
+			7511={
+				supply_node=1
+			}
+			8055={
+				supply_node=1
+			}
+			8081={
+				supply_node=1
+			}
+			8127={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		3742 5031 5057 5100 7511 8055 8081 8127 10724 12327 12750 12776 
+	}
+	manpower = 2077600
+	buildings_max_level_factor = 1.000
+	state_category = pastoral
+
+	local_supplies = 0.0 
+}

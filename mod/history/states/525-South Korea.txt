@@ -1,0 +1,146 @@
+state=
+{
+	id=525
+	name="STATE_525"
+	manpower = 14284105
+	
+	state_category = town
+	history=
+	{
+		owner = JAP
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			dockyard = 1
+			4056 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			4056 1 
+		}
+		victory_points = {
+			7125 3 
+		}
+
+		add_core_of = KOR
+
+		buildings={
+			infrastructure=5
+			10036={
+				supply_node=1
+			}
+			10085={
+				supply_node=1
+			}
+			10110={
+				supply_node=1
+				naval_base=10
+			}
+			10115={
+				supply_node=1
+			}
+			1054={
+				supply_node=1
+				naval_base=10
+			}
+			1081={
+				supply_node=1
+			}
+			1100={
+				supply_node=1
+			}
+			1148={
+				supply_node=1
+				naval_base=10
+			}
+			1177={
+				supply_node=1
+				naval_base=10
+			}
+			11912={
+				supply_node=1
+				naval_base=10
+			}
+			11948={
+				supply_node=1
+				naval_base=10
+			}
+			11958={
+				supply_node=1
+				naval_base=10
+			}
+			11977={
+				supply_node=1
+			}
+			11992={
+				supply_node=1
+				naval_base=10
+			}
+			12011={
+				supply_node=1
+				naval_base=10
+			}
+			12060={
+				supply_node=1
+				naval_base=10
+			}
+			12085={
+				supply_node=1
+				naval_base=10
+			}
+			12089={
+				supply_node=1
+			}
+			4004={
+				supply_node=1
+			}
+			4056={
+				supply_node=1
+				naval_base=10
+			}
+			4086={
+				supply_node=1
+			}
+			4103={
+				supply_node=1
+			}
+			4126={
+				supply_node=1
+				naval_base=10
+			}
+			7021={
+				supply_node=1
+				naval_base=10
+			}
+			7121={
+				supply_node=1
+				naval_base=10
+			}
+			7125={
+				supply_node=1
+				naval_base=10
+			}
+			7175={
+				supply_node=1
+				naval_base=10
+			}
+			7204={
+				supply_node=1
+				naval_base=10
+			}
+			7221={
+				supply_node=1
+				naval_base=10
+			}
+			9936={
+				supply_node=1
+			}
+		}
+	}
+	provinces={
+		1054 1081 1100 1148 1177 4004 4056 4086 4103 4126 7021 7121 7125 7175 7204 7221 9936 10036 10085 10110 10115 11912 11948 11958 11977 11992 12011 12060 12085 12089 
+	}
+
+	local_supplies=0.0 
+}

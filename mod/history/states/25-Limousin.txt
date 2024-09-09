@@ -1,0 +1,68 @@
+
+state={
+	id=25
+	name="STATE_25"
+	manpower = 1343700
+
+
+	state_category = large_town
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			620 5
+		}
+		add_core_of = OCC
+		add_core_of = FRA
+		buildings={
+			infrastructure=5
+			11718={
+				supply_node=1
+			}
+			11720={
+				supply_node=1
+			}
+			3598={
+				supply_node=1
+			}
+			3771={
+				supply_node=1
+			}
+			620={
+				supply_node=1
+			}
+			625={
+				supply_node=1
+			}
+			6618={
+				supply_node=1
+			}
+			6775={
+				supply_node=1
+			}
+			6792={
+				supply_node=1
+			}
+			755={
+				supply_node=1
+			}
+			9717={
+				supply_node=1
+			}
+			9734={
+				supply_node=1
+			}
+			9751={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		620 625 755 3598 3771 6618 6775 6792 9717 9734 9751 11718 11720 
+	}
+
+	local_supplies=0.0 
+}

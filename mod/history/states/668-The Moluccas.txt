@@ -1,0 +1,74 @@
+
+state={
+	id=668
+	name="STATE_668"
+	manpower = 579100
+	
+	state_category = pastoral
+
+	history={
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 2
+			1574 = {
+				naval_base = 1
+			}
+			1351 = {
+				naval_base = 1
+			}
+			7413 = {
+				naval_base = 1
+			}
+		}
+		buildings={
+			infrastructure=5
+			10141={
+				supply_node=1
+				naval_base=10
+			}
+			10342={
+				supply_node=1
+				naval_base=10
+			}
+			10409={
+				supply_node=1
+				naval_base=10
+			}
+			1351={
+				supply_node=1
+				naval_base=10
+			}
+			1419={
+				supply_node=1
+				naval_base=10
+			}
+			1437={
+				supply_node=1
+				naval_base=10
+			}
+			1574={
+				supply_node=1
+				naval_base=10
+			}
+			7369={
+				supply_node=1
+				naval_base=10
+			}
+			7413={
+				supply_node=1
+				naval_base=10
+			}
+			7557={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1351 1419 1437 1574 7369 7413 7557 10141 10342 10409 
+	}
+
+	local_supplies=0.0 
+}

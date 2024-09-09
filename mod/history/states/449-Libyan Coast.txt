@@ -1,0 +1,53 @@
+
+state={
+	id=449
+	name="STATE_449" # El Agheila
+	manpower = 40431
+	
+	state_category = wasteland
+
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = LBA
+		buildings={
+			infrastructure=5
+			10046={
+				supply_node=1
+				naval_base=10
+			}
+			10117={
+				supply_node=1
+				naval_base=10
+			}
+			1041={
+				supply_node=1
+				naval_base=10
+			}
+			1198={
+				supply_node=1
+				naval_base=10
+			}
+			12088={
+				supply_node=1
+				naval_base=10
+			}
+			4047={
+				supply_node=1
+				naval_base=10
+			}
+			4057={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1041 1198 4047 4057 10046 10117 12088 
+	}
+
+	local_supplies=0.0 
+}

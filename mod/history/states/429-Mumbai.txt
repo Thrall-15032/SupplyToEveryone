@@ -1,0 +1,85 @@
+
+state={
+	id=429
+	name="STATE_429"
+	manpower = 17355600
+	state_category = town
+	
+	resources={
+		#tungsten=19 # was: 26
+	}
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+			1349 = {
+				naval_base = 6
+			}
+		}
+		victory_points = {
+			1349 10 
+		}
+
+		buildings={
+			infrastructure=5
+			10019={
+				supply_node=1
+			}
+			10210={
+				supply_node=1
+			}
+			10270={
+				supply_node=1
+			}
+			12142={
+				supply_node=1
+			}
+			12182={
+				supply_node=1
+			}
+			12269={
+				supply_node=1
+				naval_base=10
+			}
+			1349={
+				supply_node=1
+				naval_base=10
+			}
+			1405={
+				supply_node=1
+			}
+			4072={
+				supply_node=1
+			}
+			4353={
+				supply_node=1
+			}
+			7013={
+				supply_node=1
+				naval_base=10
+			}
+			7060={
+				supply_node=1
+			}
+			7119={
+				supply_node=1
+			}
+			7177={
+				supply_node=1
+			}
+			7232={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1349 1405 4072 4353 7013 7060 7119 7177 7232 10019 10210 10270 12142 12182 12269 
+	}
+
+	local_supplies=0.0 
+}

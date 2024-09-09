@@ -1,0 +1,104 @@
+state={
+	id=652
+	name="STATE_652"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+
+		buildings={
+			infrastructure=5
+			10299={
+				supply_node=1
+			}
+			11433={
+				supply_node=1
+			}
+			1210={
+				supply_node=1
+			}
+			12128={
+				supply_node=1
+			}
+			12242={
+				supply_node=1
+			}
+			12270={
+				supply_node=1
+			}
+			12298={
+				supply_node=1
+			}
+			1254={
+				supply_node=1
+			}
+			1350={
+				supply_node=1
+			}
+			1378={
+				supply_node=1
+			}
+			227={
+				supply_node=1
+			}
+			3265={
+				supply_node=1
+			}
+			3330={
+				supply_node=1
+			}
+			3357={
+				supply_node=1
+			}
+			3385={
+				supply_node=1
+			}
+			3486={
+				supply_node=1
+			}
+			3563={
+				supply_node=1
+			}
+			4322={
+				supply_node=1
+			}
+			4324={
+				supply_node=1
+			}
+			6379={
+				supply_node=1
+			}
+			6424={
+				supply_node=1
+			}
+			6515={
+				supply_node=1
+			}
+			7343={
+				supply_node=1
+			}
+			9420={
+				supply_node=1
+			}
+			9445={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		227 1210 1254 1350 1378 3265 3330 3357 3385 3486 3563 4322 4324 6379 6424 6515 7343 9420 9445 10299 11433 12128 12242 12270 12298 
+	}
+	manpower=1225870
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=0.0 
+}

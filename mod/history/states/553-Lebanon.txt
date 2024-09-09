@@ -1,0 +1,46 @@
+
+state={
+	id=553
+	name="STATE_553"
+	manpower = 1104000
+	
+	state_category = town
+
+	history={
+		owner = FRA
+		victory_points = {
+			792 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 5
+			792 = {
+				naval_base = 3
+			}
+		}
+
+		add_core_of = LEB
+		buildings={
+			infrastructure=5
+			1108={
+				supply_node=1
+				naval_base=10
+			}
+			11919={
+				supply_node=1
+				naval_base=10
+			}
+			792={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		792 1108 11919 
+	}
+
+	local_supplies=0.0 
+}

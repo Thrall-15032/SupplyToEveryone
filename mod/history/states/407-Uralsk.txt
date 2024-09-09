@@ -1,0 +1,146 @@
+state={
+	id=407
+	name="STATE_407"
+
+	history={
+		owner = SOV
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+		victory_points = {
+			11537 1
+		}
+		buildings={
+			infrastructure=5
+			11457={
+				supply_node=1
+			}
+			11472={
+				supply_node=1
+			}
+			11473={
+				supply_node=1
+			}
+			11480={
+				supply_node=1
+			}
+			11482={
+				supply_node=1
+			}
+			11510={
+				supply_node=1
+			}
+			11524={
+				supply_node=1
+			}
+			11537={
+				supply_node=1
+			}
+			11538={
+				supply_node=1
+			}
+			11552={
+				supply_node=1
+			}
+			1290={
+				supply_node=1
+			}
+			1318={
+				supply_node=1
+			}
+			3404={
+				supply_node=1
+			}
+			3406={
+				supply_node=1
+			}
+			3467={
+				supply_node=1
+			}
+			3502={
+				supply_node=1
+			}
+			3515={
+				supply_node=1
+			}
+			3538={
+				supply_node=1
+			}
+			432={
+				supply_node=1
+			}
+			4351={
+				supply_node=1
+			}
+			468={
+				supply_node=1
+			}
+			470={
+				supply_node=1
+			}
+			508={
+				supply_node=1
+			}
+			545={
+				supply_node=1
+			}
+			566={
+				supply_node=1
+			}
+			576={
+				supply_node=1
+			}
+			6491={
+				supply_node=1
+			}
+			6525={
+				supply_node=1
+			}
+			6551={
+				supply_node=1
+			}
+			6564={
+				supply_node=1
+			}
+			6588={
+				supply_node=1
+			}
+			7438={
+				supply_node=1
+			}
+			9462={
+				supply_node=1
+			}
+			9487={
+				supply_node=1
+			}
+			9513={
+				supply_node=1
+			}
+			9526={
+				supply_node=1
+			}
+			9528={
+				supply_node=1
+			}
+			9538={
+				supply_node=1
+			}
+			9549={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		432 468 470 508 545 566 576 1290 1318 3404 3406 3467 3502 3515 3538 4351 6491 6525 6551 6564 6588 7438 9462 9487 9513 9526 9528 9538 9549 11457 11472 11473 11480 11482 11510 11524 11537 11538 11552 
+	}
+	manpower=268572
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=0.0 
+}

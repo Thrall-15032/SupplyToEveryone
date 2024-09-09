@@ -1,0 +1,145 @@
+state={
+	id=673
+	name="STATE_673"
+	manpower = 4232000
+	resources={
+		rubber=30 # was: 52
+	}
+
+	state_category = town
+
+
+	history= {
+		owner = INS
+		add_core_of = INS
+		victory_points = {
+			10263 3 
+		}
+
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			10153 = {
+				naval_base = 3
+			}
+			10263 = {
+				naval_base = 3
+			}
+		}
+		buildings={
+			infrastructure=5
+			10153={
+				supply_node=1
+				naval_base=10
+			}
+			10169={
+				supply_node=1
+				naval_base=10
+			}
+			10197={
+				supply_node=1
+				naval_base=10
+			}
+			10222={
+				supply_node=1
+				naval_base=10
+			}
+			10263={
+				supply_node=1
+				naval_base=10
+			}
+			10450={
+				supply_node=1
+				naval_base=10
+			}
+			10464={
+				supply_node=1
+				naval_base=10
+			}
+			1098={
+				supply_node=1
+				naval_base=10
+			}
+			12330={
+				supply_node=1
+				naval_base=10
+			}
+			12358={
+				supply_node=1
+				naval_base=10
+			}
+			12444={
+				supply_node=1
+				naval_base=10
+			}
+			1289={
+				supply_node=1
+				naval_base=10
+			}
+			1484={
+				supply_node=1
+				naval_base=10
+			}
+			1505={
+				supply_node=1
+				naval_base=10
+			}
+			1518={
+				supply_node=1
+				naval_base=10
+			}
+			1561={
+				supply_node=1
+			}
+			1589={
+				supply_node=1
+				naval_base=10
+			}
+			4262={
+				supply_node=1
+				naval_base=10
+			}
+			4307={
+				supply_node=1
+				naval_base=10
+			}
+			4308={
+				supply_node=1
+				naval_base=10
+			}
+			4349={
+				supply_node=1
+				naval_base=10
+			}
+			4493={
+				supply_node=1
+				naval_base=10
+			}
+			4537={
+				supply_node=1
+				naval_base=10
+			}
+			4564={
+				supply_node=1
+				naval_base=10
+			}
+			7311={
+				supply_node=1
+				naval_base=10
+			}
+			7336={
+				supply_node=1
+				naval_base=10
+			}
+			7598={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	provinces={
+		1098 1289 1484 1505 1518 1561 1589 4262 4307 4308 4349 4493 4537 4564 7311 7336 7598 10153 10169 10197 10222 10263 10450 10464 12330 12358 12444 
+	}
+
+	local_supplies=0.0 
+}

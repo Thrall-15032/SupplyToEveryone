@@ -1,0 +1,108 @@
+
+state={
+	id=425
+	name="STATE_425" # Mysore
+	manpower = 12348200
+	
+	state_category = rural
+	
+	resources={
+		chromium=10 # was: 20
+	}
+
+	history={
+		owner = RAJ
+		victory_points = {
+			8011 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+
+		buildings={
+			infrastructure=5
+			10190={
+				supply_node=1
+				naval_base=10
+			}
+			10208={
+				supply_node=1
+			}
+			10259={
+				supply_node=1
+			}
+			10799={
+				supply_node=1
+			}
+			12105={
+				supply_node=1
+			}
+			12146={
+				supply_node=1
+			}
+			12208={
+				supply_node=1
+				naval_base=10
+			}
+			12295={
+				supply_node=1
+			}
+			12734={
+				supply_node=1
+			}
+			1412={
+				supply_node=1
+			}
+			4278={
+				supply_node=1
+			}
+			4291={
+				supply_node=1
+			}
+			4315={
+				supply_node=1
+			}
+			4344={
+				supply_node=1
+			}
+			4395={
+				supply_node=1
+				naval_base=10
+			}
+			5032={
+				supply_node=1
+			}
+			7244={
+				supply_node=1
+				naval_base=10
+			}
+			7250={
+				supply_node=1
+			}
+			7391={
+				supply_node=1
+				naval_base=10
+			}
+			7395={
+				supply_node=1
+				naval_base=10
+			}
+			7411={
+				supply_node=1
+			}
+			8011={
+				supply_node=1
+			}
+			8100={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1412 4278 4291 4315 4344 4395 5032 7244 7250 7391 7395 7411 8011 8100 10190 10208 10259 10799 12105 12146 12208 12295 12734 
+	}
+
+	local_supplies=0.0 
+}

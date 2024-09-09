@@ -1,0 +1,100 @@
+
+state={
+	id=576
+	name="STATE_576" # Yeniseisk
+	manpower = 117195
+	
+	state_category = wasteland
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+		buildings={
+			infrastructure=5
+			10544={
+				supply_node=1
+			}
+			10576={
+				supply_node=1
+			}
+			10631={
+				supply_node=1
+			}
+			10705={
+				supply_node=1
+			}
+			12555={
+				supply_node=1
+			}
+			12595={
+				supply_node=1
+			}
+			12615={
+				supply_node=1
+			}
+			12655={
+				supply_node=1
+			}
+			12666={
+				supply_node=1
+			}
+			1679={
+				supply_node=1
+			}
+			1697={
+				supply_node=1
+			}
+			1741={
+				supply_node=1
+			}
+			1780={
+				supply_node=1
+			}
+			1828={
+				supply_node=1
+			}
+			1837={
+				supply_node=1
+			}
+			4687={
+				supply_node=1
+			}
+			4743={
+				supply_node=1
+			}
+			4785={
+				supply_node=1
+			}
+			4831={
+				supply_node=1
+			}
+			4842={
+				supply_node=1
+			}
+			7701={
+				supply_node=1
+			}
+			7707={
+				supply_node=1
+			}
+			7750={
+				supply_node=1
+			}
+			7805={
+				supply_node=1
+			}
+			7863={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1679 1697 1741 1780 1828 1837 4687 4743 4785 4831 4842 7701 7707 7750 7805 7863 10544 10576 10631 10705 12555 12595 12615 12655 12666 
+	}
+
+	local_supplies=5.0 
+}

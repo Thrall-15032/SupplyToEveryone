@@ -1,0 +1,113 @@
+
+state={
+	id=237
+	name="STATE_237"
+	manpower = 169620
+	
+	state_category = rural
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+		add_core_of = KAL
+		victory_points = {
+			11724 1
+		}
+		buildings={
+			infrastructure=5
+			11416={
+				supply_node=1
+			}
+			11566={
+				supply_node=1
+			}
+			11706={
+				supply_node=1
+			}
+			11724={
+				supply_node=1
+			}
+			11727={
+				supply_node=1
+			}
+			3413={
+				supply_node=1
+			}
+			3439={
+				supply_node=1
+			}
+			3475={
+				supply_node=1
+			}
+			3597={
+				supply_node=1
+			}
+			3726={
+				supply_node=1
+			}
+			3746={
+				supply_node=1
+			}
+			3774={
+				supply_node=1
+			}
+			481={
+				supply_node=1
+			}
+			6463={
+				supply_node=1
+			}
+			6758={
+				supply_node=1
+			}
+			6760={
+				supply_node=1
+			}
+			6791={
+				supply_node=1
+			}
+			6794={
+				supply_node=1
+			}
+			742={
+				supply_node=1
+			}
+			745={
+				supply_node=1
+			}
+			759={
+				supply_node=1
+			}
+			9426={
+				supply_node=1
+			}
+			9442={
+				supply_node=1
+			}
+			9594={
+				supply_node=1
+			}
+			9720={
+				supply_node=1
+			}
+			9722={
+				supply_node=1
+			}
+			9735={
+				supply_node=1
+			}
+			9739={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		481 742 745 759 3413 3439 3475 3597 3726 3746 3774 6463 6758 6760 6791 6794 9426 9442 9594 9720 9722 9735 9739 11416 11566 11706 11724 11727 
+	}
+
+	local_supplies=0.0 
+}

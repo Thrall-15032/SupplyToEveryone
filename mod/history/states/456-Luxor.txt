@@ -1,0 +1,81 @@
+state=
+{
+	id=456
+	name="STATE_456" # Aswan
+	manpower = 4224516
+	
+	state_category = rural
+	
+	history = {
+		victory_points = {
+			11999 1
+		}
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			12071 3
+		}
+		victory_points = {
+			11974 1
+		}
+
+		add_core_of = EGY
+
+		buildings={
+			infrastructure=5
+			10028={
+				supply_node=1
+			}
+			10097={
+				supply_node=1
+			}
+			1028={
+				supply_node=1
+			}
+			1064={
+				supply_node=1
+			}
+			10844={
+				supply_node=1
+			}
+			1151={
+				supply_node=1
+			}
+			11974={
+				supply_node=1
+			}
+			11999={
+				supply_node=1
+			}
+			12044={
+				supply_node=1
+			}
+			1206={
+				supply_node=1
+			}
+			12071={
+				supply_node=1
+			}
+			12771={
+				supply_node=1
+			}
+			7030={
+				supply_node=1
+			}
+			7073={
+				supply_node=1
+			}
+			7144={
+				supply_node=1
+			}
+		}
+	}
+	provinces={
+		1028 1064 1151 1206 7030 7073 7144 10028 10097 10844 11974 11999 12044 12071 12771 
+	}
+
+	local_supplies=0.0 
+}

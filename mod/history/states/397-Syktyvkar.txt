@@ -1,0 +1,95 @@
+
+state = {
+	id = 397
+	name = "STATE_397"
+	manpower = 137203
+	state_category = pastoral
+
+	history = {
+		victory_points = {
+			108 1 
+		}
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = KOM
+		buildings={
+			infrastructure=5
+			10579={
+				supply_node=1
+			}
+			108={
+				supply_node=1
+			}
+			11179={
+				supply_node=1
+			}
+			11200={
+				supply_node=1
+			}
+			11203={
+				supply_node=1
+			}
+			12558={
+				supply_node=1
+			}
+			1295={
+				supply_node=1
+			}
+			1307={
+				supply_node=1
+			}
+			186={
+				supply_node=1
+			}
+			3000={
+				supply_node=1
+			}
+			3155={
+				supply_node=1
+			}
+			4298={
+				supply_node=1
+			}
+			6={
+				supply_node=1
+			}
+			6121={
+				supply_node=1
+			}
+			6202={
+				supply_node=1
+			}
+			7318={
+				supply_node=1
+			}
+			7330={
+				supply_node=1
+			}
+			7712={
+				supply_node=1
+			}
+			7898={
+				supply_node=1
+			}
+			9145={
+				supply_node=1
+			}
+			9225={
+				supply_node=1
+			}
+			99={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		6 99 108 186 1295 1307 3000 3155 4298 6121 6202 7318 7330 7712 7898 9145 9225 10579 11179 11200 11203 12558 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,58 @@
+state={
+	id=471
+	name="STATE_471"
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 1
+			10548 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = CAN
+
+		buildings={
+			infrastructure=5
+			10548={
+				supply_node=1
+				naval_base=10
+			}
+			12508={
+				supply_node=1
+			}
+			12571={
+				supply_node=1
+			}
+			1411={
+				supply_node=1
+			}
+			1799={
+				supply_node=1
+				naval_base=10
+			}
+			1872={
+				supply_node=1
+			}
+			4678={
+				supply_node=1
+			}
+			5403={
+				supply_node=1
+			}
+			917={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		917 1411 1799 1872 4678 5403 10548 12508 12571 
+	}
+	manpower=27681
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=3.000
+}

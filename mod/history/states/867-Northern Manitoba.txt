@@ -1,0 +1,45 @@
+state={
+	id=867
+	name="STATE_867"
+	provinces={
+		5239 6728 7185 7782 9615 10585 10605 13182
+	}
+	history = {
+		owner = CAN
+		add_core_of = CAN
+		buildings={
+			infrastructure=5
+			10585={
+				supply_node=1
+			}
+			10605={
+				supply_node=1
+				naval_base=10
+			}
+			13182={
+				supply_node=1
+			}
+			5239={
+				supply_node=1
+				naval_base=10
+			}
+			6728={
+				supply_node=1
+			}
+			7185={
+				supply_node=1
+				naval_base=10
+			}
+			7782={
+				supply_node=1
+			}
+			9615={
+				supply_node=1
+			}
+		}
+	}
+	manpower=10000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

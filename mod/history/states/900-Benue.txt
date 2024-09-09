@@ -1,0 +1,41 @@
+state={
+	id=900
+	name="STATE_900"
+	manpower = 1163674
+	state_category = pastoral 
+
+	history={
+		owner = ENG
+		add_core_of = NGA
+		buildings = {
+			infrastructure = 2
+		}
+		buildings={
+			infrastructure=5
+			10831={
+				supply_node=1
+				naval_base=10
+			}
+			1992={
+				supply_node=1
+			}
+			4889={
+				supply_node=1
+			}
+			7978={
+				supply_node=1
+			}
+			8034={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1992 4889 7978 8034 10831 
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

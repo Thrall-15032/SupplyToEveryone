@@ -1,0 +1,53 @@
+
+state = {
+	id = 156
+	name = "STATE_156"
+	manpower = 1772000 # was 2966315 before Puglia was added
+	
+	state_category = town
+	history = {
+		owner = ITA
+		victory_points = {
+			9990 1 
+		}
+		buildings = {
+			infrastructure = 2 #was: 5
+			dockyard = 1
+			fuel_silo = 1
+			9990 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = ITA
+		add_core_of = TTS
+		buildings={
+			infrastructure=5
+			10027={
+				supply_node=1
+				naval_base=10
+			}
+			12066={
+				supply_node=1
+				naval_base=10
+			}
+			12098={
+				supply_node=1
+				naval_base=10
+			}
+			3901={
+				supply_node=1
+				naval_base=10
+			}
+			9990={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces = {
+		3901 9990 10027 12066 12098 
+	}
+
+	local_supplies = 0.0 
+}

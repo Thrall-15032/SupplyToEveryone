@@ -1,0 +1,49 @@
+state={
+	id=690
+	name="STATE_690"
+	manpower = 40000
+	
+	state_category = tiny_island
+
+	history={
+		add_core_of = BAH
+		owner = ENG
+		victory_points = {
+			10254 1
+		}
+		buildings = {
+			infrastructure = 2
+			10254 = {
+				naval_base = 1
+			}
+			4647 = {
+				naval_base = 1
+			}
+			7245 = {
+				naval_base = 1
+			}
+		}
+		buildings={
+			infrastructure=5
+			10254={
+				supply_node=1
+				naval_base=10
+			}
+			4647={
+				supply_node=1
+				naval_base=10
+			}
+			7245={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		4647 7245 10254 
+	}
+	
+
+	local_supplies=0.0 
+}

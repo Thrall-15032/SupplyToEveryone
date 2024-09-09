@@ -1,0 +1,27 @@
+state={
+	id=864
+	name="STATE_864"
+	provinces={
+		3606 7869 7891 
+	}
+	history = {
+		owner = CAN
+		add_core_of = CAN
+		buildings={
+			infrastructure=5
+			3606={
+				supply_node=1
+			}
+			7869={
+				supply_node=1
+			}
+			7891={
+				supply_node=1
+			}
+		}
+	}
+	manpower=10
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

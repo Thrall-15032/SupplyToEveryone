@@ -1,0 +1,141 @@
+
+state = {
+	id = 148
+	name = "STATE_148" #LAPPI
+	manpower = 121737
+	
+	state_category = rural
+	
+	resources={
+		steel=7 # was: 8
+		chromium=2 # was: 2
+	}
+	history={
+		owner = FIN
+
+		victory_points = { #Kemi
+			11164 2
+		}
+
+		victory_points = { #Rovaniemi
+			6087 1
+		}
+
+		victory_points = { #Tornio
+			11125 1
+		}
+
+		victory_points = { #Inari
+			6142 1
+		}
+
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = FIN
+		if = {
+			limit = {
+				has_dlc = "Arms Against Tyranny"
+			}
+			add_core_of = SMI
+		}
+		buildings={
+			infrastructure=5
+			103={
+				supply_node=1
+			}
+			11030={
+				supply_node=1
+			}
+			11115={
+				supply_node=1
+			}
+			11125={
+				supply_node=1
+				naval_base=10
+			}
+			11130={
+				supply_node=1
+			}
+			11164={
+				supply_node=1
+				naval_base=10
+			}
+			11167={
+				supply_node=1
+			}
+			11204={
+				supply_node=1
+			}
+			124={
+				supply_node=1
+			}
+			162={
+				supply_node=1
+			}
+			167={
+				supply_node=1
+			}
+			203={
+				supply_node=1
+			}
+			2992={
+				supply_node=1
+			}
+			30={
+				supply_node=1
+			}
+			3055={
+				supply_node=1
+			}
+			3069={
+				supply_node=1
+			}
+			3097={
+				supply_node=1
+			}
+			3107={
+				supply_node=1
+			}
+			3158={
+				supply_node=1
+			}
+			3193={
+				supply_node=1
+			}
+			6061={
+				supply_node=1
+			}
+			6076={
+				supply_node=1
+			}
+			6087={
+				supply_node=1
+			}
+			6128={
+				supply_node=1
+			}
+			6137={
+				supply_node=1
+			}
+			6142={
+				supply_node=1
+			}
+			9112={
+				supply_node=1
+			}
+			9189={
+				supply_node=1
+			}
+			9223={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		30 103 124 162 167 203 2992 3055 3069 3097 3107 3158 3193 6061 6076 6087 6128 6137 6142 9112 9189 9223 11030 11115 11125 11130 11164 11167 11204 
+	}
+
+	local_supplies = 3.0 
+}

@@ -1,0 +1,169 @@
+
+state={
+	id=527
+	name="STATE_527"
+	manpower = 6774200
+	state_category = town
+	resources={
+		steel=18 # was: 30
+		tungsten=28 # was: 52
+	}
+
+	history={
+		owner = JAP
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			4052 1
+		}	
+
+		add_core_of = KOR
+		buildings={
+			infrastructure=5
+			1003={
+				supply_node=1
+				naval_base=10
+			}
+			10065={
+				supply_node=1
+				naval_base=10
+			}
+			10083={
+				supply_node=1
+			}
+			11770={
+				supply_node=1
+			}
+			11775={
+				supply_node=1
+			}
+			11828={
+				supply_node=1
+			}
+			11835={
+				supply_node=1
+				naval_base=10
+			}
+			11878={
+				supply_node=1
+			}
+			11896={
+				supply_node=1
+			}
+			11915={
+				supply_node=1
+			}
+			12040={
+				supply_node=1
+				naval_base=10
+			}
+			3803={
+				supply_node=1
+			}
+			3852={
+				supply_node=1
+				naval_base=10
+			}
+			3860={
+				supply_node=1
+			}
+			3904={
+				supply_node=1
+			}
+			3912={
+				supply_node=1
+			}
+			3981={
+				supply_node=1
+				naval_base=10
+			}
+			4052={
+				supply_node=1
+				naval_base=10
+			}
+			4107={
+				supply_node=1
+				naval_base=10
+			}
+			6822={
+				supply_node=1
+				naval_base=10
+			}
+			6922={
+				supply_node=1
+				naval_base=10
+			}
+			6928={
+				supply_node=1
+				naval_base=10
+			}
+			6944={
+				supply_node=1
+				naval_base=10
+			}
+			6963={
+				supply_node=1
+			}
+			7070={
+				supply_node=1
+			}
+			7155={
+				supply_node=1
+				naval_base=10
+			}
+			7171={
+				supply_node=1
+			}
+			848={
+				supply_node=1
+				naval_base=10
+			}
+			852={
+				supply_node=1
+			}
+			898={
+				supply_node=1
+				naval_base=10
+			}
+			906={
+				supply_node=1
+			}
+			912={
+				supply_node=1
+				naval_base=10
+			}
+			959={
+				supply_node=1
+				naval_base=10
+			}
+			978={
+				supply_node=1
+			}
+			9790={
+				supply_node=1
+				naval_base=10
+			}
+			9795={
+				supply_node=1
+			}
+			9899={
+				supply_node=1
+			}
+			9918={
+				supply_node=1
+			}
+			9981={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		848 852 898 906 912 959 978 1003 3803 3852 3860 3904 3912 3981 4052 4107 6822 6922 6928 6944 6963 7070 7155 7171 9790 9795 9899 9918 9981 10065 10083 11770 11775 11828 11835 11878 11896 11915 12040 
+	}
+
+	local_supplies=0.0 
+}

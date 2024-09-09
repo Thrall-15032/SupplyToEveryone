@@ -1,0 +1,96 @@
+state = {
+	id = 881
+	name = "STATE_881" # Karagandy
+
+	history = {
+		owner = SOV
+		#victory_points = {
+		#	7597 1
+		#}
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+
+		buildings={
+			infrastructure=5
+			10179={
+				supply_node=1
+			}
+			10220={
+				supply_node=1
+			}
+			10268={
+				supply_node=1
+			}
+			10275={
+				supply_node=1
+			}
+			10277={
+				supply_node=1
+			}
+			10508={
+				supply_node=1
+			}
+			12111={
+				supply_node=1
+			}
+			12121={
+				supply_node=1
+			}
+			12177={
+				supply_node=1
+			}
+			12194={
+				supply_node=1
+			}
+			12385={
+				supply_node=1
+			}
+			1243={
+				supply_node=1
+			}
+			12487={
+				supply_node=1
+			}
+			1312={
+				supply_node=1
+			}
+			1382={
+				supply_node=1
+			}
+			1402={
+				supply_node=1
+			}
+			4250={
+				supply_node=1
+			}
+			4277={
+				supply_node=1
+			}
+			4389={
+				supply_node=1
+			}
+			4492={
+				supply_node=1
+			}
+			4595={
+				supply_node=1
+			}
+			7335={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1243 1312 1382 1402 4250 4277 4389 4492 4595 7335 10179 10220 10268 10275 10277 10508 12111 12121 12177 12194 12385 12487
+	}
+	manpower = 227016
+	buildings_max_level_factor = 1.000
+	state_category = pastoral
+
+	local_supplies = 0.0 
+}

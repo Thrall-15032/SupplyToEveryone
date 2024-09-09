@@ -1,0 +1,72 @@
+state=
+{
+	id=327
+	name="STATE_327" # Luzon
+	manpower = 3548684
+	
+	state_category = town
+	history=
+	{
+		owner = PHI
+		buildings = {
+			infrastructure = 3 #was: 5
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 6
+			10265 = {
+				naval_base = 5
+			}
+		}
+		victory_points = {
+			10265 15 
+		}
+		victory_points = {
+			1221 1 
+		}
+		add_core_of = PHI
+		buildings={
+			infrastructure=5
+			10165={
+				supply_node=1
+			}
+			10236={
+				supply_node=1
+				naval_base=10
+			}
+			10265={
+				supply_node=1
+				naval_base=10
+			}
+			1221={
+				supply_node=1
+				naval_base=10
+			}
+			12236={
+				supply_node=1
+				naval_base=10
+			}
+			1288={
+				supply_node=1
+				naval_base=10
+			}
+			7275={
+				supply_node=1
+				naval_base=10
+			}
+			7323={
+				supply_node=1
+				naval_base=10
+			}
+			7351={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1221 1288 7275 7323 7351 10165 10236 10265 12236 
+	}
+
+	local_supplies=0.0 
+}

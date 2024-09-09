@@ -1,0 +1,80 @@
+state={
+	id=56
+	name="STATE_56"
+	manpower = 2058467
+	
+	state_category = city
+
+	history={
+		owner = GER
+		victory_points = {
+			241 5 
+		}
+		victory_points = {
+			11360 1
+		}
+		victory_points = {
+			11388 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 2
+			fuel_silo = 1
+			241 = {
+				naval_base = 8
+
+			}
+			air_base = 3
+
+		}
+		add_core_of = GER
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+				dockyard = 3
+			}
+		}
+		buildings={
+			infrastructure=5
+			11233={
+				supply_node=1
+			}
+			11264={
+				supply_node=1
+			}
+			11360={
+				supply_node=1
+				naval_base=10
+			}
+			11388={
+				supply_node=1
+			}
+			241={
+				supply_node=1
+				naval_base=10
+			}
+			247={
+				supply_node=1
+			}
+			309={
+				supply_node=1
+			}
+			3234={
+				supply_node=1
+			}
+			336={
+				supply_node=1
+			}
+			9281={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		241 247 309 336 3234 9281 11233 11264 11360 11388 
+	}
+
+	local_supplies=14.0 
+}

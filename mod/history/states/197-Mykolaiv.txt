@@ -1,0 +1,62 @@
+
+state={
+	id=197
+	name="STATE_197"
+	manpower = 896311
+	
+	state_category = rural
+
+	history={
+		victory_points = {
+			11683 3
+		}
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 5
+			dockyard = 1
+		}
+		add_core_of = SOV
+		add_core_of = UKR
+		1939.1.1 = {
+			buildings = {
+				dockyard = 2
+			}
+		}
+		buildings={
+			infrastructure=5
+			11546={
+				supply_node=1
+				naval_base=10
+			}
+			11683={
+				supply_node=1
+				naval_base=10
+			}
+			3403={
+				supply_node=1
+			}
+			3755={
+				supply_node=1
+				naval_base=10
+			}
+			409={
+				supply_node=1
+			}
+			574={
+				supply_node=1
+			}
+			6597={
+				supply_node=1
+			}
+			9573={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		409 574 3403 3755 6597 9573 11546 11683 
+	}
+
+	local_supplies=5.0 
+}

@@ -1,0 +1,161 @@
+state={
+	id=357
+	name="STATE_357"
+	resources={
+		steel=12 # was: 20.000
+	}
+
+	state_category = metropolis
+
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4 #was: 7
+			arms_factory = 1
+			industrial_complex = 5
+			dockyard = 4
+			air_base = 10
+			6732 = {
+				naval_base = 8
+
+			}
+			9832 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = USA
+		victory_points = {
+			6732 20 
+		}
+		victory_points = {
+			12459 1 
+		}
+		victory_points = {
+			9832 1 
+		}
+
+		buildings={
+			infrastructure=5
+			10247={
+				supply_node=1
+			}
+			10318={
+				supply_node=1
+			}
+			10481={
+				supply_node=1
+			}
+			11830={
+				supply_node=1
+				naval_base=10
+			}
+			12202={
+				supply_node=1
+			}
+			12221={
+				supply_node=1
+			}
+			12459={
+				supply_node=1
+				naval_base=10
+			}
+			1282={
+				supply_node=1
+			}
+			13158={
+				supply_node=1
+			}
+			1338={
+				supply_node=1
+				naval_base=10
+			}
+			1619={
+				supply_node=1
+				naval_base=10
+			}
+			3710={
+				supply_node=1
+			}
+			3712={
+				supply_node=1
+				naval_base=10
+			}
+			3715={
+				supply_node=1
+			}
+			3732={
+				supply_node=1
+				naval_base=10
+			}
+			3906={
+				supply_node=1
+				naval_base=10
+			}
+			4287={
+				supply_node=1
+			}
+			4445={
+				supply_node=1
+			}
+			6719={
+				supply_node=1
+			}
+			6732={
+				supply_node=1
+				naval_base=10
+			}
+			6909={
+				supply_node=1
+				naval_base=10
+			}
+			715={
+				supply_node=1
+			}
+			718={
+				supply_node=1
+			}
+			733={
+				supply_node=1
+			}
+			7462={
+				supply_node=1
+				naval_base=10
+			}
+			7629={
+				supply_node=1
+			}
+			905={
+				supply_node=1
+				naval_base=10
+			}
+			908={
+				supply_node=1
+			}
+			9675={
+				supply_node=1
+			}
+			9832={
+				supply_node=1
+				naval_base=10
+			}
+			9847={
+				supply_node=1
+				naval_base=10
+			}
+			9850={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		715 718 733 905 908 1282 1338 1619 3710 3712 3715 3732 3906 4287 4445 6719 6732 6909 7462 7629 9675 9832 9847 9850  10247 10318 10481 11830 12202 12221 12459 13158 
+	}
+	manpower=8404713
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

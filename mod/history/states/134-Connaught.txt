@@ -1,0 +1,65 @@
+
+state=
+{
+	id=134
+	name="STATE_134"
+	manpower = 667100
+	
+	state_category = town
+
+	history= {
+		owner = IRE
+		victory_points = {
+			9303 3 #Galway
+		}
+		victory_points = {
+			11371 1 #Sligo
+		}
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+		add_core_of = IRE
+		buildings={
+			infrastructure=5
+			11238={
+				supply_node=1
+			}
+			11287={
+				supply_node=1
+			}
+			11371={
+				supply_node=1
+				naval_base=10
+			}
+			337={
+				supply_node=1
+				naval_base=10
+			}
+			3396={
+				supply_node=1
+				naval_base=10
+			}
+			9255={
+				supply_node=1
+			}
+			9303={
+				supply_node=1
+				naval_base=10
+			}
+			9321={
+				supply_node=1
+				naval_base=10
+			}
+			9369={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces=
+	{
+337 3396 9255 9303 9321 9369 11238 11287 11371 	}
+
+	local_supplies=13.0 
+}

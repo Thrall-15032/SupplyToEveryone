@@ -1,0 +1,91 @@
+
+state={
+	id=578
+	name="STATE_578" # Tomsk
+	manpower = 609304
+	
+	state_category = rural
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SOV
+		victory_points = {
+			7789 1
+		}
+		buildings={
+			infrastructure=5
+			10529={
+				supply_node=1
+			}
+			10613={
+				supply_node=1
+			}
+			10617={
+				supply_node=1
+			}
+			10673={
+				supply_node=1
+			}
+			10686={
+				supply_node=1
+			}
+			12174={
+				supply_node=1
+			}
+			12510={
+				supply_node=1
+			}
+			12536={
+				supply_node=1
+			}
+			12599={
+				supply_node=1
+			}
+			1674={
+				supply_node=1
+			}
+			1718={
+				supply_node=1
+			}
+			1765={
+				supply_node=1
+			}
+			1824={
+				supply_node=1
+			}
+			4681={
+				supply_node=1
+			}
+			4767={
+				supply_node=1
+			}
+			4827={
+				supply_node=1
+			}
+			7655={
+				supply_node=1
+			}
+			7789={
+				supply_node=1
+			}
+			7793={
+				supply_node=1
+			}
+			7849={
+				supply_node=1
+			}
+			7861={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1674 1718 1765 1824 4681 4767 4827 7655 7789 7793 7849 7861 10529 10613 10617 10673 10686 12174 12510 12536 12599 
+	}
+
+	local_supplies=0.0 
+}

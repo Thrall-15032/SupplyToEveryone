@@ -1,0 +1,84 @@
+
+state = {
+	id = 536
+	name = "STATE_536"
+	manpower = 2812000
+	
+	state_category = rural
+
+	history = {
+
+		owner = JAP
+		add_core_of = JAP
+
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			10444 15 # Sapporo
+		}
+		victory_points = {
+			12421 5 # Asahikawa
+		}
+		victory_points = {
+			3962 2 # Hakodate
+		}
+
+		buildings={
+			infrastructure=5
+			10444={
+				supply_node=1
+				naval_base=10
+			}
+			10512={
+				supply_node=1
+				naval_base=10
+			}
+			12352={
+				supply_node=1
+				naval_base=10
+			}
+			12421={
+				supply_node=1
+			}
+			12493={
+				supply_node=1
+				naval_base=10
+			}
+			1512={
+				supply_node=1
+				naval_base=10
+			}
+			1642={
+				supply_node=1
+				naval_base=10
+			}
+			3962={
+				supply_node=1
+				naval_base=10
+			}
+			4576={
+				supply_node=1
+				naval_base=10
+			}
+			4646={
+				supply_node=1
+				naval_base=10
+			}
+			7532={
+				supply_node=1
+				naval_base=10
+			}
+			7595={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1512 1642 3962 4576 4646 7532 7595 10444 10512 12352 12421 12493 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,57 @@
+
+state={
+	id=773
+	name="STATE_773" # Cameroon
+	manpower = 2945782
+	
+	state_category = rural
+
+	history={
+		owner = FRA
+		add_core_of = CMR
+		victory_points = {
+			2080 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+			6039 = {
+				naval_base = 1
+			}
+		}
+
+		buildings={
+			infrastructure=5
+			11194={
+				supply_node=1
+			}
+			2080={
+				supply_node=1
+			}
+			5036={
+				supply_node=1
+				naval_base=10
+			}
+			5054={
+				supply_node=1
+			}
+			6039={
+				supply_node=1
+				naval_base=10
+			}
+			7963={
+				supply_node=1
+			}
+			9137={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		2080 5036 5054 6039 7963 9137 11194 
+	}
+
+	local_supplies=0.0 
+}

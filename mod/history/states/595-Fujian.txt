@@ -1,0 +1,127 @@
+state= {
+	id=595
+	name="STATE_595"
+	manpower = 11755600
+	state_category = city
+	history=
+	{
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			7071 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+			4196 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+		victory_points = { 
+			4196 3 
+		}
+		victory_points = { 
+			7071 1 
+		}
+
+		1938.10.25 = {		
+			JAP = {
+				set_province_controller = 4196
+				set_province_controller = 7071
+			} 			
+		}
+		buildings={
+			infrastructure=5
+			10010={
+				supply_node=1
+				naval_base=10
+			}
+			10012={
+				supply_node=1
+			}
+			10042={
+				supply_node=1
+			}
+			10054={
+				supply_node=1
+			}
+			1006={
+				supply_node=1
+			}
+			10069={
+				supply_node=1
+				naval_base=10
+			}
+			10084={
+				supply_node=1
+			}
+			10093={
+				supply_node=1
+				naval_base=10
+			}
+			1094={
+				supply_node=1
+			}
+			1138={
+				supply_node=1
+			}
+			1166={
+				supply_node=1
+			}
+			1193={
+				supply_node=1
+			}
+			11986={
+				supply_node=1
+				naval_base=10
+			}
+			12057={
+				supply_node=1
+			}
+			12084={
+				supply_node=1
+			}
+			4053={
+				supply_node=1
+			}
+			4070={
+				supply_node=1
+			}
+			4113={
+				supply_node=1
+			}
+			4169={
+				supply_node=1
+				naval_base=10
+			}
+			4196={
+				supply_node=1
+				naval_base=10
+			}
+			7027={
+				supply_node=1
+				naval_base=10
+			}
+			7071={
+				supply_node=1
+				naval_base=10
+			}
+			7099={
+				supply_node=1
+			}
+			7131={
+				supply_node=1
+			}
+		}
+	}
+	provinces={
+		1006 1094 1138 1166 1193 4053 4070 4113 4169 4196 7027 7071 7099 7131 10010 10012 10042 10054 10069 10084 10093 11986 12057 12084 
+	}
+
+	local_supplies=0.0 
+}

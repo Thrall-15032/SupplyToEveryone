@@ -1,0 +1,75 @@
+
+state={
+	id=439
+	name="STATE_439"
+	manpower = 31136800
+	
+	state_category = city
+	
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			air_base = 4
+		}
+		victory_points = {
+			2086 15 
+		}
+
+		buildings={
+			infrastructure=5
+			10021={
+				supply_node=1
+			}
+			10729={
+				supply_node=1
+			}
+			1129={
+				supply_node=1
+			}
+			11955={
+				supply_node=1
+			}
+			12708={
+				supply_node=1
+			}
+			12868={
+				supply_node=1
+			}
+			1898={
+				supply_node=1
+			}
+			2002={
+				supply_node=1
+			}
+			2032={
+				supply_node=1
+			}
+			2076={
+				supply_node=1
+			}
+			2086={
+				supply_node=1
+			}
+			3989={
+				supply_node=1
+			}
+			5002={
+				supply_node=1
+			}
+			5157={
+				supply_node=1
+			}
+			7106={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1129 1898 2002 2032 2076 2086 3989 5002 5157 7106 10021 10729 11955 12708 12868 
+	}
+
+	local_supplies=0.0 
+}

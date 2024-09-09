@@ -1,0 +1,115 @@
+
+state={
+	id=674
+	name="STATE_674"
+	impassable = yes
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = AST
+
+		buildings={
+			infrastructure=5
+			10336={
+				supply_node=1
+			}
+			10473={
+				supply_node=1
+			}
+			10936={
+				supply_node=1
+			}
+			10955={
+				supply_node=1
+			}
+			10979={
+				supply_node=1
+			}
+			11013={
+				supply_node=1
+			}
+			12904={
+				supply_node=1
+			}
+			12906={
+				supply_node=1
+			}
+			12912={
+				supply_node=1
+			}
+			12915={
+				supply_node=1
+			}
+			12926={
+				supply_node=1
+			}
+			12936={
+				supply_node=1
+			}
+			12992={
+				supply_node=1
+			}
+			13131={
+				supply_node=1
+			}
+			13132={
+				supply_node=1
+			}
+			13171={
+				supply_node=1
+			}
+			13172={
+				supply_node=1
+			}
+			2133={
+				supply_node=1
+			}
+			2177={
+				supply_node=1
+			}
+			2186={
+				supply_node=1
+			}
+			2205={
+				supply_node=1
+			}
+			2223={
+				supply_node=1
+			}
+			5138={
+				supply_node=1
+			}
+			5206={
+				supply_node=1
+			}
+			7623={
+				supply_node=1
+			}
+			8134={
+				supply_node=1
+			}
+			8155={
+				supply_node=1
+			}
+			8206={
+				supply_node=1
+			}
+			8237={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		2133 2177 2186 2205 2223 5138 5206 7623 8134 8155 8206 8237 10336 10473 10936 10955 10979 11013 12904 12906 12912 12915 12926 12936 12992 13131 13132 13171 13172 
+	}
+	manpower=30000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=0.0 
+}

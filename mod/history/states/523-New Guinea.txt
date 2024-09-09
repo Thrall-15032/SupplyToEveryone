@@ -1,0 +1,213 @@
+state={
+	id=523
+	name="STATE_523"
+
+	history={
+		add_core_of = PNG
+		owner = AST
+		buildings = {
+			infrastructure = 1
+			air_base = 3
+
+			4329 = {
+				naval_base = 3
+
+			}
+			12237 = {
+				naval_base = 2
+
+			}
+			12154 = {
+				naval_base = 1
+
+			}
+			12240 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			4329 3 
+		}
+		victory_points = {
+			12237 1 
+		}
+
+		buildings={
+			infrastructure=5
+			10147={
+				supply_node=1
+				naval_base=10
+			}
+			10231={
+				supply_node=1
+				naval_base=10
+			}
+			10248={
+				supply_node=1
+				naval_base=10
+			}
+			10251={
+				supply_node=1
+				naval_base=10
+			}
+			10260={
+				supply_node=1
+				naval_base=10
+			}
+			10423={
+				supply_node=1
+				naval_base=10
+			}
+			10954={
+				supply_node=1
+			}
+			10974={
+				supply_node=1
+				naval_base=10
+			}
+			11004={
+				supply_node=1
+			}
+			11018={
+				supply_node=1
+			}
+			12107={
+				supply_node=1
+			}
+			12123={
+				supply_node=1
+				naval_base=10
+			}
+			12135={
+				supply_node=1
+				naval_base=10
+			}
+			12154={
+				supply_node=1
+				naval_base=10
+			}
+			12193={
+				supply_node=1
+				naval_base=10
+			}
+			1222={
+				supply_node=1
+				naval_base=10
+			}
+			12237={
+				supply_node=1
+				naval_base=10
+			}
+			12240={
+				supply_node=1
+				naval_base=10
+			}
+			12400={
+				supply_node=1
+				naval_base=10
+			}
+			1242={
+				supply_node=1
+				naval_base=10
+			}
+			12428={
+				supply_node=1
+			}
+			12484={
+				supply_node=1
+				naval_base=10
+			}
+			1283={
+				supply_node=1
+				naval_base=10
+			}
+			12931={
+				supply_node=1
+			}
+			12995={
+				supply_node=1
+				naval_base=10
+			}
+			1310={
+				supply_node=1
+				naval_base=10
+			}
+			1389={
+				supply_node=1
+				naval_base=10
+			}
+			2129={
+				supply_node=1
+			}
+			4289={
+				supply_node=1
+				naval_base=10
+			}
+			4317={
+				supply_node=1
+			}
+			4329={
+				supply_node=1
+				naval_base=10
+			}
+			4346={
+				supply_node=1
+				naval_base=10
+			}
+			4393={
+				supply_node=1
+				naval_base=10
+			}
+			4418={
+				supply_node=1
+				naval_base=10
+			}
+			4635={
+				supply_node=1
+			}
+			5135={
+				supply_node=1
+			}
+			7305={
+				supply_node=1
+				naval_base=10
+			}
+			7333={
+				supply_node=1
+				naval_base=10
+			}
+			7349={
+				supply_node=1
+				naval_base=10
+			}
+			7362={
+				supply_node=1
+			}
+			7365={
+				supply_node=1
+				naval_base=10
+			}
+			7378={
+				supply_node=1
+			}
+			7409={
+				supply_node=1
+			}
+			7614={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		1222 1242 1283 1310 1389 2129 4289 4317 4329 4346 4393 4418 4635 5135 7305 7333 7349 7362 7365 7378 7409 7614 10147 10231 10248 10251 10260 10423 10954 10974 11004 11018 12107 12123 12135 12154 12193 12237 12240 12400 12428 12484 12931 12995 
+	}
+	manpower=1077000
+	buildings_max_level_factor=1
+	state_category="rural"
+
+	local_supplies=0.0 
+}

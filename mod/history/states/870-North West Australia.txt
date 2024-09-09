@@ -1,0 +1,58 @@
+state={
+	id=870
+	name="STATE_870"
+	provinces={
+		2201 5207 8152 8209 8247 10937 10958 11016 12993 13133 
+	}
+	history = {
+		buildings = {
+			infrastructure = 1
+		}
+		owner = AST
+		add_core_of = AST
+		buildings={
+			infrastructure=5
+			10937={
+				supply_node=1
+			}
+			10958={
+				supply_node=1
+			}
+			11016={
+				supply_node=1
+				naval_base=10
+			}
+			12993={
+				supply_node=1
+			}
+			13133={
+				supply_node=1
+			}
+			2201={
+				supply_node=1
+				naval_base=10
+			}
+			5207={
+				supply_node=1
+				naval_base=10
+			}
+			8152={
+				supply_node=1
+				naval_base=10
+			}
+			8209={
+				supply_node=1
+				naval_base=10
+			}
+			8247={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+	state_category = wasteland
+	manpower=1000
+
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

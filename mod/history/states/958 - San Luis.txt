@@ -1,0 +1,58 @@
+state = {
+	id = 958
+	name = "STATE_958"
+	manpower = 602403
+	
+	state_category = rural
+
+	history = {
+
+		owner = ARG
+		add_core_of = ARG
+
+		buildings = {
+			infrastructure = 2
+		}
+		
+		victory_points = {
+			12942 2 
+		}
+
+		buildings={
+			infrastructure=5
+			11021={
+				supply_node=1
+			}
+			11022={
+				supply_node=1
+			}
+			12942={
+				supply_node=1
+			}
+			12970={
+				supply_node=1
+			}
+			2158={
+				supply_node=1
+			}
+			5152={
+				supply_node=1
+			}
+			5184={
+				supply_node=1
+			}
+			5219={
+				supply_node=1
+			}
+			7550={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		2158 5152 5184 5219 7550 11021 11022 12942 12970
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,82 @@
+
+state = {
+	id = 560
+	name = "STATE_560" # Nikolayevsk
+	manpower = 97663
+	
+	state_category = rural
+	resources={
+		steel=18 # was: 24
+	}
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SOV
+		add_core_of = FER
+		buildings={
+			infrastructure=5
+			10571={
+				supply_node=1
+			}
+			10577={
+				supply_node=1
+				naval_base=10
+			}
+			10590={
+				supply_node=1
+			}
+			12559={
+				supply_node=1
+				naval_base=10
+			}
+			12569={
+				supply_node=1
+			}
+			12638={
+				supply_node=1
+			}
+			1724={
+				supply_node=1
+			}
+			1772={
+				supply_node=1
+				naval_base=10
+			}
+			1807={
+				supply_node=1
+			}
+			1842={
+				supply_node=1
+			}
+			3664={
+				supply_node=1
+			}
+			4290={
+				supply_node=1
+			}
+			4844={
+				supply_node=1
+				naval_base=10
+			}
+			7748={
+				supply_node=1
+			}
+			7871={
+				supply_node=1
+				naval_base=10
+			}
+			9659={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1724 1772 1807 1842 3664 4290 4844 7748 7871 9659 10571 10577 10590 12559 12569 12638 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,73 @@
+
+state={
+	id=455
+	name="STATE_455"
+	manpower = 932000
+	
+	state_category = rural
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			7151 1 
+		}
+		victory_points = {
+			11976 1 
+		}
+
+		add_core_of = JOR
+		buildings={
+			infrastructure=5
+			10089={
+				supply_node=1
+			}
+			11976={
+				supply_node=1
+			}
+			1544={
+				supply_node=1
+			}
+			4017={
+				supply_node=1
+			}
+			4115={
+				supply_node=1
+				naval_base=10
+			}
+			4440={
+				supply_node=1
+			}
+			4562={
+				supply_node=1
+			}
+			4574={
+				supply_node=1
+			}
+			4591={
+				supply_node=1
+			}
+			4603={
+				supply_node=1
+			}
+			7001={
+				supply_node=1
+			}
+			7151={
+				supply_node=1
+			}
+			7170={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1544 4017 4115 4440 4562 4574 4591 4603 7001 7151 7170 10089 11976 
+	}
+
+	local_supplies=0.0 
+}

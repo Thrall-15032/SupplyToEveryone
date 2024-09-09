@@ -1,0 +1,94 @@
+state = {
+	id = 588
+	name = "STATE_588" # Semipalatinsk
+	
+	state_category = rural
+	
+	resources = {
+		chromium = 10 
+	}
+
+	history = {
+		owner = SOV
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+		victory_points = {
+			12594 1
+		}
+		buildings={
+			infrastructure=5
+			10161={
+				supply_node=1
+			}
+			10218={
+				supply_node=1
+			}
+			10292={
+				supply_node=1
+			}
+			10584={
+				supply_node=1
+			}
+			10610={
+				supply_node=1
+			}
+			10653={
+				supply_node=1
+			}
+			12427={
+				supply_node=1
+			}
+			12564={
+				supply_node=1
+			}
+			12594={
+				supply_node=1
+			}
+			12635={
+				supply_node=1
+			}
+			1287={
+				supply_node=1
+			}
+			13151={
+				supply_node=1
+			}
+			1749={
+				supply_node=1
+			}
+			1818={
+				supply_node=1
+			}
+			1864={
+				supply_node=1
+			}
+			4661={
+				supply_node=1
+			}
+			4674={
+				supply_node=1
+			}
+			4867={
+				supply_node=1
+			}
+			7350={
+				supply_node=1
+			}
+			7890={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1287 1749 1818 1864 4661 4674 4867 7350 7890 10161 10218 10292 10584 10610 10653 12427 12564 12594 12635 13151 
+	}
+	manpower = 429213
+	buildings_max_level_factor = 1.000
+
+	local_supplies = 0.0 
+}

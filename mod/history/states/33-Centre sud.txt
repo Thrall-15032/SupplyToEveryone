@@ -1,0 +1,56 @@
+
+state={
+	id=33
+	name="STATE_33"
+	manpower = 636400
+	
+	state_category = town
+
+	history={
+		victory_points = {
+			651 1
+		}
+		owner = FRA
+		
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = FRA
+		buildings={
+			infrastructure=5
+			11869={
+				supply_node=1
+			}
+			3621={
+				supply_node=1
+			}
+			3626={
+				supply_node=1
+			}
+			3655={
+				supply_node=1
+			}
+			651={
+				supply_node=1
+			}
+			6648={
+				supply_node=1
+			}
+			6651={
+				supply_node=1
+			}
+			669={
+				supply_node=1
+			}
+			9629={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		651 669 3621 3626 3655 6648 6651 9629 11869 
+	}
+
+	local_supplies=0.0 
+}

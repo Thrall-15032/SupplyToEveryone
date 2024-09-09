@@ -1,0 +1,50 @@
+state={
+	id=888
+	name="STATE_888"
+	manpower = 885237
+	state_category = pastoral 
+
+	history = {
+		owner = BEL
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = COG
+
+		buildings={
+			infrastructure=5
+			10858={
+				supply_node=1
+			}
+			1731={
+				supply_node=1
+			}
+			1929={
+				supply_node=1
+			}
+			2024={
+				supply_node=1
+			}
+			4128={
+				supply_node=1
+			}
+			7716={
+				supply_node=1
+			}
+			8016={
+				supply_node=1
+			}
+			9986={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1731 1929 2024 4128 7716 8016 9986 10858 
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

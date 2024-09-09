@@ -1,0 +1,73 @@
+
+state={
+	id=543
+	name="STATE_543"
+	manpower = 3694611
+	
+	state_category = rural
+	
+	history={
+		add_core_of = MAD
+		owner = FRA
+		victory_points = {
+			5128 1
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			5222 = {
+				naval_base = 1
+			}
+		}
+
+		buildings={
+			infrastructure=5
+			10993={
+				supply_node=1
+				naval_base=10
+			}
+			11015={
+				supply_node=1
+				naval_base=10
+			}
+			12956={
+				supply_node=1
+				naval_base=10
+			}
+			2200={
+				supply_node=1
+				naval_base=10
+			}
+			5128={
+				supply_node=1
+				naval_base=10
+			}
+			5185={
+				supply_node=1
+				naval_base=10
+			}
+			5222={
+				supply_node=1
+				naval_base=10
+			}
+			8180={
+				supply_node=1
+				naval_base=10
+			}
+			8188={
+				supply_node=1
+				naval_base=10
+			}
+			8246={
+				supply_node=1
+				naval_base=10
+			}
+		}
+	}
+
+	provinces={
+		2200 5128 5185 5222 8180 8188 8246 10993 11015 12956 
+	}
+
+	local_supplies=0.0 
+}

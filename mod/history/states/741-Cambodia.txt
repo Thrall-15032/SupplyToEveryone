@@ -1,0 +1,118 @@
+state={
+	id=741
+	name="STATE_741"
+	history = {
+		add_core_of = CAM
+		owner = FRA
+		victory_points = {
+			7376 1
+		}
+		buildings = {
+			infrastructure = 1
+			7432 = {
+				naval_base = 1
+			}
+
+		}
+		buildings={
+			infrastructure=5
+			10134={
+				supply_node=1
+			}
+			10177={
+				supply_node=1
+			}
+			10204={
+				supply_node=1
+			}
+			10289={
+				supply_node=1
+			}
+			10317={
+				supply_node=1
+				naval_base=10
+			}
+			10467={
+				supply_node=1
+			}
+			12167={
+				supply_node=1
+			}
+			12191={
+				supply_node=1
+			}
+			12260={
+				supply_node=1
+			}
+			12288={
+				supply_node=1
+			}
+			12447={
+				supply_node=1
+			}
+			12460={
+				supply_node=1
+			}
+			12475={
+				supply_node=1
+			}
+			1324={
+				supply_node=1
+			}
+			1353={
+				supply_node=1
+				naval_base=10
+			}
+			1620={
+				supply_node=1
+			}
+			4251={
+				supply_node=1
+			}
+			4302={
+				supply_node=1
+			}
+			4330={
+				supply_node=1
+			}
+			4359={
+				supply_node=1
+				naval_base=10
+			}
+			4596={
+				supply_node=1
+			}
+			4639={
+				supply_node=1
+			}
+			5236={
+				supply_node=1
+			}
+			7319={
+				supply_node=1
+			}
+			7376={
+				supply_node=1
+			}
+			7404={
+				supply_node=1
+				naval_base=10
+			}
+			7432={
+				supply_node=1
+				naval_base=10
+			}
+			7645={
+				supply_node=1
+			}
+		}
+	}
+	provinces={
+		1324 1353 1620 4251 4302 4330 4359 4596 4639 5236 7319 7376 7404 7432 7645 10134 10177 10204 10289 10317 10467 12167 12191 12260 12288 12447 12460 12475 
+	}
+	manpower=5245000
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,63 @@
+state={
+	id=663
+	name="STATE_663"
+	manpower = 8808
+	
+	state_category = wasteland
+
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = LBA
+		buildings={
+			infrastructure=5
+			10049={
+				supply_node=1
+			}
+			1062={
+				supply_node=1
+			}
+			1186={
+				supply_node=1
+			}
+			12025={
+				supply_node=1
+			}
+			12079={
+				supply_node=1
+			}
+			13078={
+				supply_node=1
+			}
+			4060={
+				supply_node=1
+			}
+			4063={
+				supply_node=1
+			}
+			4133={
+				supply_node=1
+			}
+			7063={
+				supply_node=1
+			}
+			7139={
+				supply_node=1
+			}
+			7206={
+				supply_node=1
+			}
+			9977={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1062 1186 4060 4063 4133 7063 7139 7206 9977 10049 12025 12079 13078 
+	}
+
+	local_supplies=0.0 
+}

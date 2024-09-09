@@ -1,0 +1,122 @@
+
+state={
+	id=426
+	name="STATE_426" # Orissa
+	manpower = 14520100
+	
+	state_category = rural
+	
+	resources={
+		steel=25 # was: 44
+		chromium=20 # was: 36
+		aluminium=1 # was: 2
+	}
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+
+		buildings={
+			infrastructure=5
+			10001={
+				supply_node=1
+				naval_base=10
+			}
+			10060={
+				supply_node=1
+			}
+			10088={
+				supply_node=1
+				naval_base=10
+			}
+			10116={
+				supply_node=1
+				naval_base=10
+			}
+			10171={
+				supply_node=1
+			}
+			10255={
+				supply_node=1
+				naval_base=10
+			}
+			10428={
+				supply_node=1
+			}
+			10469={
+				supply_node=1
+			}
+			1059={
+				supply_node=1
+			}
+			1101={
+				supply_node=1
+			}
+			11924={
+				supply_node=1
+			}
+			11978={
+				supply_node=1
+				naval_base=10
+			}
+			12063={
+				supply_node=1
+				naval_base=10
+			}
+			12241={
+				supply_node=1
+			}
+			12462={
+				supply_node=1
+				naval_base=10
+			}
+			12490={
+				supply_node=1
+			}
+			1538={
+				supply_node=1
+			}
+			1579={
+				supply_node=1
+			}
+			1622={
+				supply_node=1
+			}
+			4104={
+				supply_node=1
+				naval_base=10
+			}
+			4237={
+				supply_node=1
+				naval_base=10
+			}
+			4513={
+				supply_node=1
+			}
+			7090={
+				supply_node=1
+			}
+			7372={
+				supply_node=1
+			}
+			7428={
+				supply_node=1
+			}
+			7465={
+				supply_node=1
+			}
+			9946={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1059 1101 1538 1579 1622 4104 4237 4513 7090 7372 7428 7465 9946 10001 10060 10088 10116 10171 10255 10428 10469 11924 11978 12063 12241 12462 12490 
+	}
+
+	local_supplies=0.0 
+}

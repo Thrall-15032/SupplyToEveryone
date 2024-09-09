@@ -1,0 +1,150 @@
+state={
+	id=521
+	name="STATE_521"
+	resources={
+		tungsten=24.000
+	}
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+			7564 = {
+				naval_base = 2
+				coastal_bunker = 1
+
+			}
+			7566 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			7564 15 
+		}
+		victory_points = {
+			7566 1 
+		}
+		add_core_of = AST
+
+		buildings={
+			infrastructure=5
+			10430={
+				supply_node=1
+			}
+			10445={
+				supply_node=1
+				naval_base=10
+			}
+			10458={
+				supply_node=1
+				naval_base=10
+			}
+			10460={
+				supply_node=1
+				naval_base=10
+			}
+			10475={
+				supply_node=1
+				naval_base=10
+			}
+			10487={
+				supply_node=1
+				naval_base=10
+			}
+			11006={
+				supply_node=1
+			}
+			12308={
+				supply_node=1
+				naval_base=10
+			}
+			12382={
+				supply_node=1
+			}
+			12411={
+				supply_node=1
+			}
+			12424={
+				supply_node=1
+			}
+			12451={
+				supply_node=1
+			}
+			1472={
+				supply_node=1
+			}
+			1557={
+				supply_node=1
+			}
+			1570={
+				supply_node=1
+			}
+			4481={
+				supply_node=1
+				naval_base=10
+			}
+			4502={
+				supply_node=1
+			}
+			4517={
+				supply_node=1
+			}
+			4530={
+				supply_node=1
+			}
+			4546={
+				supply_node=1
+			}
+			4560={
+				supply_node=1
+				naval_base=10
+			}
+			4632={
+				supply_node=1
+			}
+			5227={
+				supply_node=1
+			}
+			7522={
+				supply_node=1
+				naval_base=10
+			}
+			7535={
+				supply_node=1
+				naval_base=10
+			}
+			7564={
+				supply_node=1
+				naval_base=10
+			}
+			7566={
+				supply_node=1
+				naval_base=10
+			}
+			7592={
+				supply_node=1
+			}
+			7610={
+				supply_node=1
+			}
+			7651={
+				supply_node=1
+			}
+			7666={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1472 1557 1570 4481 4502 4517 4530 4546 4560 4632 5227 7522 7535 7564 7566 7592 7610 7651 7666 10430 10445 10458 10460 10475 10487 11006 12308 12382 12411 12424 12451 
+	}
+	manpower=816800
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

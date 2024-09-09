@@ -1,0 +1,59 @@
+state={
+	id=871
+	name="STATE_871"
+	provinces={
+		1526 2191 8200 10949 10969 10997 11011 12948 12962 12976 12990 
+	}
+	history = {
+		buildings = {
+			infrastructure = 1
+		}
+		owner = AST
+		add_core_of = AST
+		buildings={
+			infrastructure=5
+			10949={
+				supply_node=1
+			}
+			10969={
+				supply_node=1
+			}
+			10997={
+				supply_node=1
+			}
+			11011={
+				supply_node=1
+				naval_base=10
+			}
+			12948={
+				supply_node=1
+				naval_base=10
+			}
+			12962={
+				supply_node=1
+			}
+			12976={
+				supply_node=1
+				naval_base=10
+			}
+			12990={
+				supply_node=1
+				naval_base=10
+			}
+			1526={
+				supply_node=1
+			}
+			2191={
+				supply_node=1
+				naval_base=10
+			}
+			8200={
+				supply_node=1
+			}
+		}
+	}
+	state_category = pastoral
+	manpower=50000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

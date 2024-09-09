@@ -1,0 +1,76 @@
+
+state={
+	id=205
+	name="STATE_205" # Kaluga
+	manpower = 1121004
+	
+	state_category = town
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		add_core_of = SOV
+		victory_points = {
+			382 1
+		}
+		buildings={
+			infrastructure=5
+			11235={
+				supply_node=1
+			}
+			11284={
+				supply_node=1
+			}
+			11300={
+				supply_node=1
+			}
+			11369={
+				supply_node=1
+			}
+			246={
+				supply_node=1
+			}
+			274={
+				supply_node=1
+			}
+			3263={
+				supply_node=1
+			}
+			3308={
+				supply_node=1
+			}
+			3345={
+				supply_node=1
+			}
+			3377={
+				supply_node=1
+			}
+			352={
+				supply_node=1
+			}
+			382={
+				supply_node=1
+			}
+			6252={
+				supply_node=1
+			}
+			6365={
+				supply_node=1
+			}
+			9261={
+				supply_node=1
+			}
+			9301={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		246 274 352 382 3263 3308 3345 3377 6252 6365 9261 9301 11235 11284 11300 11369 
+	}
+
+	local_supplies=10.0 
+}

@@ -1,0 +1,89 @@
+
+state = { 
+	id = 577 # Surgut
+	manpower = 29299
+	name = "STATE_577"
+	resources = {
+		oil=13 # was: 14
+	}
+	
+	state_category = pastoral
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+		add_core_of = OVO
+		buildings={
+			infrastructure=5
+			10533={
+				supply_node=1
+			}
+			10561={
+				supply_node=1
+			}
+			10663={
+				supply_node=1
+			}
+			10692={
+				supply_node=1
+			}
+			12514={
+				supply_node=1
+			}
+			12542={
+				supply_node=1
+			}
+			12574={
+				supply_node=1
+			}
+			12639={
+				supply_node=1
+			}
+			12672={
+				supply_node=1
+			}
+			1726={
+				supply_node=1
+			}
+			1768={
+				supply_node=1
+			}
+			1784={
+				supply_node=1
+			}
+			1856={
+				supply_node=1
+			}
+			4730={
+				supply_node=1
+			}
+			4771={
+				supply_node=1
+			}
+			4817={
+				supply_node=1
+			}
+			7685={
+				supply_node=1
+			}
+			7781={
+				supply_node=1
+			}
+			7837={
+				supply_node=1
+			}
+			7882={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1726 1768 1784 1856 4730 4771 4817 7685 7781 7837 7882 10533 10561 10663 10692 12514 12542 12574 12639 12672 
+	}
+
+	local_supplies = 0.0 
+}

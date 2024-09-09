@@ -1,0 +1,70 @@
+
+state={
+	id=356
+	name="STATE_356" # Kastamonu
+	manpower = 860589
+	state_category = rural
+
+	history={
+		owner = TUR
+		victory_points = {
+			6938 10
+		}
+		victory_points = {
+			6995 3 
+		}
+		buildings = {
+			infrastructure = 2
+			6995 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = TUR
+		buildings={
+			infrastructure=5
+			11839={
+				supply_node=1
+			}
+			11897={
+				supply_node=1
+			}
+			3967={
+				supply_node=1
+				naval_base=10
+			}
+			3982={
+				supply_node=1
+				naval_base=10
+			}
+			6920={
+				supply_node=1
+			}
+			6938={
+				supply_node=1
+			}
+			6978={
+				supply_node=1
+			}
+			6995={
+				supply_node=1
+				naval_base=10
+			}
+			979={
+				supply_node=1
+				naval_base=10
+			}
+			9844={
+				supply_node=1
+			}
+			9871={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		979 3967 3982 6920 6938 6978 6995 9844 9871 11839 11897 
+	}
+
+	local_supplies=0.0 
+}

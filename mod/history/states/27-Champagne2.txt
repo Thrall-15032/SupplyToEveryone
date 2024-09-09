@@ -1,0 +1,75 @@
+
+state={
+	id=27
+	name="STATE_27" # Bourgogne
+	manpower = 1370800
+	
+	state_category = city
+	
+	resources={
+		aluminium=11 # was: 18
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			3652 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			air_base = 2
+		}
+		add_core_of = FRA
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 3
+			}
+		}
+		buildings={
+			infrastructure=5
+			11628={
+				supply_node=1
+			}
+			3506={
+				supply_node=1
+			}
+			3652={
+				supply_node=1
+			}
+			3669={
+				supply_node=1
+			}
+			3681={
+				supply_node=1
+			}
+			648={
+				supply_node=1
+			}
+			667={
+				supply_node=1
+			}
+			680={
+				supply_node=1
+			}
+			817={
+				supply_node=1
+			}
+			9609={
+				supply_node=1
+			}
+			9625={
+				supply_node=1
+			}
+			9644={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		648 667 680 817 3506 3652 3669 3681 9609 9625 9644 11628 
+	}
+
+	local_supplies=0.0 
+}

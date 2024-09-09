@@ -1,0 +1,91 @@
+
+state={
+	id=499
+	name="STATE_499"
+	manpower = 4233900
+	
+	state_category = large_town
+
+	resources = {
+		chromium = 3
+	}
+
+	history={
+		owner = BRA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+			10946 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = BRA
+		victory_points = {
+			10946 1 
+		}
+
+		buildings={
+			infrastructure=5
+			10392={
+				supply_node=1
+			}
+			10419={
+				supply_node=1
+				naval_base=10
+			}
+			10926={
+				supply_node=1
+			}
+			10946={
+				supply_node=1
+				naval_base=10
+			}
+			11002={
+				supply_node=1
+				naval_base=10
+			}
+			12422={
+				supply_node=1
+			}
+			4617={
+				supply_node=1
+			}
+			5174={
+				supply_node=1
+			}
+			5194={
+				supply_node=1
+			}
+			5218={
+				supply_node=1
+			}
+			8129={
+				supply_node=1
+			}
+			8143={
+				supply_node=1
+				naval_base=10
+			}
+			8177={
+				supply_node=1
+			}
+			8184={
+				supply_node=1
+			}
+			8197={
+				supply_node=1
+				naval_base=10
+			}
+			8242={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		4617 5194 8143 8177 8184 8197 8242 10392 10926 10946 5174 8129 5218 12422 10419 11002
+	}
+
+	local_supplies=0.0 
+}

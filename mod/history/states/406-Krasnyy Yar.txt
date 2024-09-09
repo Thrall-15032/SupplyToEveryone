@@ -1,0 +1,86 @@
+
+state={
+	id=406
+	name="STATE_406" # Gurev
+	manpower = 146494
+	
+	state_category = wasteland
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+		add_core_of = KAZ
+		victory_points = {
+			3618 1
+		}
+		buildings={
+			infrastructure=5
+			11442={
+				supply_node=1
+			}
+			11455={
+				supply_node=1
+			}
+			11469={
+				supply_node=1
+			}
+			11578={
+				supply_node=1
+			}
+			11591={
+				supply_node=1
+			}
+			3459={
+				supply_node=1
+			}
+			3618={
+				supply_node=1
+			}
+			3622={
+				supply_node=1
+			}
+			464={
+				supply_node=1
+			}
+			477={
+				supply_node=1
+			}
+			554={
+				supply_node=1
+			}
+			615={
+				supply_node=1
+			}
+			6498={
+				supply_node=1
+			}
+			6514={
+				supply_node=1
+			}
+			6523={
+				supply_node=1
+			}
+			6615={
+				supply_node=1
+			}
+			7322={
+				supply_node=1
+			}
+			9453={
+				supply_node=1
+			}
+			9469={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		464 477 554 615 3459 3618 3622 6498 6514 6523 6615 7322 9453 9469 11442 11455 11469 11578 11591 
+	}
+
+	local_supplies=0.0 
+}

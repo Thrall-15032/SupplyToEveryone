@@ -1,0 +1,87 @@
+state={
+	id=732
+	name="STATE_732"
+
+	history={
+		add_core_of = KYR
+		owner = SOV
+		victory_points = {
+			12583 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+
+		buildings={
+			infrastructure=5
+			10408={
+				supply_node=1
+			}
+			10530={
+				supply_node=1
+			}
+			10660={
+				supply_node=1
+			}
+			12370={
+				supply_node=1
+			}
+			12511={
+				supply_node=1
+			}
+			12581={
+				supply_node=1
+			}
+			12583={
+				supply_node=1
+			}
+			13147={
+				supply_node=1
+			}
+			1483={
+				supply_node=1
+			}
+			1675={
+				supply_node=1
+			}
+			1825={
+				supply_node=1
+			}
+			2058={
+				supply_node=1
+			}
+			4224={
+				supply_node=1
+			}
+			4316={
+				supply_node=1
+			}
+			4391={
+				supply_node=1
+			}
+			4467={
+				supply_node=1
+			}
+			4768={
+				supply_node=1
+			}
+			4923={
+				supply_node=1
+			}
+			5062={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1483 1675 1825 2058 4224 4316 4391 4467 4768 4923 5062 10408 10530 10660 12370 12511 12581 12583 13147 
+	}
+	manpower=230000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=0.0 
+}
