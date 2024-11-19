@@ -20,7 +20,7 @@ state={
 			arms_factory = 2
 			industrial_complex = 2
 			air_base = 3
-			1047 = {
+			1047 = { # Guangzhou
 				naval_base = 5
 				coastal_bunker = 1
 				bunker = 1
@@ -28,7 +28,7 @@ state={
 
 		}
 		victory_points = {
-			1047 5
+			1047 5 # Guangzhou
 		}
 
 		1938.10.25 = {

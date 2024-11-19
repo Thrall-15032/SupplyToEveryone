@@ -1,0 +1,77 @@
+state = {
+	id = 976
+	name = "STATE_976"
+	manpower = 1500000
+	
+	state_category = city
+	
+	resources = {
+		steel = 15 # was: 8
+		aluminium = 1 # was: 1
+	}
+
+	history = {
+
+		owner = AUS
+		add_core_of = AUS
+
+		buildings = {
+			infrastructure = 3 
+			industrial_complex = 2
+		}
+
+		victory_points = {
+			9648 5 
+		}
+
+		victory_points = {
+			3673 3
+		}
+
+		victory_points = {
+			11612 2
+		}
+
+		1938.3.12 = {
+			owner = GER
+			controller = GER
+			add_core_of = GER
+		}
+		buildings={
+			infrastructure=5
+			11612={
+				supply_node=1
+			}
+			3673={
+				supply_node=1
+			}
+			3674={
+				supply_node=1
+			}
+			653={
+				supply_node=1
+			}
+			6687={
+				supply_node=1
+			}
+			9646={
+				supply_node=1
+			}
+			9648={
+				supply_node=1
+			}
+			9650={
+				supply_node=1
+			}
+			9679={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		653 3673 3674 6687 9646 9648 9650 9679 11612 
+	}
+
+	local_supplies = 0.0 
+}

@@ -17,6 +17,7 @@ state = {
 			}
 		}
 		add_core_of = DEN
+		add_core_of = GRN
 
 		victory_points = { #Nuuk
 			12512 1
