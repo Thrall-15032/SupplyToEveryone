@@ -18,6 +18,18 @@ state={
 
 		buildings={
 			infrastructure=5
+			2016={
+				supply_node=1
+			}
+			4033={
+				supply_node=1
+			}
+			8052={
+				supply_node=1
+			}
+			8084={
+				supply_node=1
+			}
 			10739={
 				supply_node=1
 			}
@@ -31,18 +43,6 @@ state={
 				supply_node=1
 			}
 			12744={
-				supply_node=1
-			}
-			2016={
-				supply_node=1
-			}
-			4033={
-				supply_node=1
-			}
-			8052={
-				supply_node=1
-			}
-			8084={
 				supply_node=1
 			}
 		}

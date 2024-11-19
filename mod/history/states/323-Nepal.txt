@@ -21,15 +21,6 @@ state={
 		add_core_of = NEP
 		buildings={
 			infrastructure=5
-			10825={
-				supply_node=1
-			}
-			10910={
-				supply_node=1
-			}
-			12892={
-				supply_node=1
-			}
 			4386={
 				supply_node=1
 			}
@@ -40,6 +31,15 @@ state={
 				supply_node=1
 			}
 			7374={
+				supply_node=1
+			}
+			10825={
+				supply_node=1
+			}
+			10910={
+				supply_node=1
+			}
+			12892={
 				supply_node=1
 			}
 		}

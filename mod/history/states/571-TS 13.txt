@@ -22,6 +22,21 @@ state={
 		}
 		buildings={
 			infrastructure=5
+			1709={
+				supply_node=1
+			}
+			1800={
+				supply_node=1
+			}
+			1835={
+				supply_node=1
+			}
+			4700={
+				supply_node=1
+			}
+			7800={
+				supply_node=1
+			}
 			10568={
 				supply_node=1
 			}
@@ -38,21 +53,6 @@ state={
 				supply_node=1
 			}
 			12652={
-				supply_node=1
-			}
-			1709={
-				supply_node=1
-			}
-			1800={
-				supply_node=1
-			}
-			1835={
-				supply_node=1
-			}
-			4700={
-				supply_node=1
-			}
-			7800={
 				supply_node=1
 			}
 		}

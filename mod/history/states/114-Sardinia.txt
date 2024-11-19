@@ -29,6 +29,22 @@ state = {
 		add_core_of = SPM
 		buildings={
 			infrastructure=5
+			902={
+				supply_node=1
+				naval_base=10
+			}
+			6891={
+				supply_node=1
+				naval_base=10
+			}
+			9772={
+				supply_node=1
+				naval_base=10
+			}
+			9863={
+				supply_node=1
+				naval_base=10
+			}
 			11755={
 				supply_node=1
 				naval_base=10
@@ -42,22 +58,6 @@ state = {
 				naval_base=10
 			}
 			11874={
-				supply_node=1
-				naval_base=10
-			}
-			6891={
-				supply_node=1
-				naval_base=10
-			}
-			902={
-				supply_node=1
-				naval_base=10
-			}
-			9772={
-				supply_node=1
-				naval_base=10
-			}
-			9863={
 				supply_node=1
 				naval_base=10
 			}

@@ -15,16 +15,7 @@ state = {
 		add_core_of = YAM
 		buildings={
 			infrastructure=5
-			10536={
-				supply_node=1
-			}
-			10564={
-				supply_node=1
-			}
-			12517={
-				supply_node=1
-			}
-			12545={
+			96={
 				supply_node=1
 			}
 			1729={
@@ -42,7 +33,16 @@ state = {
 			7809={
 				supply_node=1
 			}
-			96={
+			10536={
+				supply_node=1
+			}
+			10564={
+				supply_node=1
+			}
+			12517={
+				supply_node=1
+			}
+			12545={
 				supply_node=1
 			}
 		}

@@ -9,13 +9,13 @@ state={
 		add_core_of = BRA
 		buildings={
 			infrastructure=5
+			5214={
+				supply_node=1
+			}
 			13340={
 				supply_node=1
 			}
 			13361={
-				supply_node=1
-			}
-			5214={
 				supply_node=1
 			}
 		}

@@ -26,15 +26,6 @@ state={
 		add_core_of = BUL
 		buildings={
 			infrastructure=5
-			11754={
-				supply_node=1
-			}
-			3908={
-				supply_node=1
-			}
-			3971={
-				supply_node=1
-			}
 			793={
 				supply_node=1
 			}
@@ -47,7 +38,16 @@ state={
 			965={
 				supply_node=1
 			}
+			3908={
+				supply_node=1
+			}
+			3971={
+				supply_node=1
+			}
 			9771={
+				supply_node=1
+			}
+			11754={
 				supply_node=1
 			}
 		}

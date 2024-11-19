@@ -27,30 +27,6 @@ state={
 		add_core_of = NZL
 		buildings={
 			infrastructure=5
-			10650={
-				supply_node=1
-				naval_base=10
-			}
-			12632={
-				supply_node=1
-				naval_base=10
-			}
-			12966={
-				supply_node=1
-				naval_base=10
-			}
-			12974={
-				supply_node=1
-				naval_base=10
-			}
-			12980={
-				supply_node=1
-				naval_base=10
-			}
-			12988={
-				supply_node=1
-				naval_base=10
-			}
 			2197={
 				supply_node=1
 				naval_base=10
@@ -87,6 +63,30 @@ state={
 				supply_node=1
 			}
 			8241={
+				supply_node=1
+				naval_base=10
+			}
+			10650={
+				supply_node=1
+				naval_base=10
+			}
+			12632={
+				supply_node=1
+				naval_base=10
+			}
+			12966={
+				supply_node=1
+				naval_base=10
+			}
+			12974={
+				supply_node=1
+				naval_base=10
+			}
+			12980={
+				supply_node=1
+				naval_base=10
+			}
+			12988={
 				supply_node=1
 				naval_base=10
 			}

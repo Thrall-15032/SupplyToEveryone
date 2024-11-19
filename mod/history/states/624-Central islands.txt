@@ -19,18 +19,6 @@ state=
 		add_core_of = PHI
 		buildings={
 			infrastructure=5
-			10272={
-				supply_node=1
-				naval_base=10
-			}
-			10306={
-				supply_node=1
-				naval_base=10
-			}
-			12279={
-				supply_node=1
-				naval_base=10
-			}
 			1372={
 				supply_node=1
 				naval_base=10
@@ -48,6 +36,18 @@ state=
 				naval_base=10
 			}
 			7307={
+				supply_node=1
+				naval_base=10
+			}
+			10272={
+				supply_node=1
+				naval_base=10
+			}
+			10306={
+				supply_node=1
+				naval_base=10
+			}
+			12279={
 				supply_node=1
 				naval_base=10
 			}

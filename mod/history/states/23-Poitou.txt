@@ -25,19 +25,6 @@ state={
 		add_core_of = FRA
 		buildings={
 			infrastructure=5
-			11582={
-				supply_node=1
-			}
-			11596={
-				supply_node=1
-			}
-			11600={
-				supply_node=1
-				naval_base=10
-			}
-			3659={
-				supply_node=1
-			}
 			595={
 				supply_node=1
 			}
@@ -45,6 +32,9 @@ state={
 				supply_node=1
 			}
 			655={
+				supply_node=1
+			}
+			3659={
 				supply_node=1
 			}
 			6657={
@@ -57,6 +47,16 @@ state={
 			}
 			9631={
 				supply_node=1
+			}
+			11582={
+				supply_node=1
+			}
+			11596={
+				supply_node=1
+			}
+			11600={
+				supply_node=1
+				naval_base=10
 			}
 		}
 	}

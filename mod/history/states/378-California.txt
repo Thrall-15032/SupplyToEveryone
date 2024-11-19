@@ -52,44 +52,35 @@ state={
 		}
 		buildings={
 			infrastructure=5
-			10159={
-				supply_node=1
-			}
-			10387={
-				supply_node=1
-			}
-			10483={
-				supply_node=1
-			}
-			11658={
+			610={
 				supply_node=1
 				naval_base=10
 			}
-			11698={
-				supply_node=1
-			}
-			11757={
+			677={
 				supply_node=1
 				naval_base=10
 			}
-			11763={
+			710={
 				supply_node=1
 			}
-			11795={
+			766={
 				supply_node=1
 			}
-			11859={
+			768={
+				supply_node=1
+			}
+			781={
+				supply_node=1
+			}
+			823={
+				supply_node=1
+			}
+			941={
+				supply_node=1
+			}
+			986={
 				supply_node=1
 				naval_base=10
-			}
-			11876={
-				supply_node=1
-			}
-			12303={
-				supply_node=1
-			}
-			12374={
-				supply_node=1
 			}
 			1432={
 				supply_node=1
@@ -137,10 +128,6 @@ state={
 			4727={
 				supply_node=1
 			}
-			610={
-				supply_node=1
-				naval_base=10
-			}
 			6482={
 				supply_node=1
 			}
@@ -165,10 +152,6 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			677={
-				supply_node=1
-				naval_base=10
-			}
 			6772={
 				supply_node=1
 			}
@@ -182,32 +165,14 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			710={
-				supply_node=1
-			}
 			7517={
 				supply_node=1
 				naval_base=10
 			}
-			766={
-				supply_node=1
-			}
 			7667={
 				supply_node=1
 			}
-			768={
-				supply_node=1
-			}
-			781={
-				supply_node=1
-			}
 			7986={
-				supply_node=1
-			}
-			823={
-				supply_node=1
-			}
-			941={
 				supply_node=1
 			}
 			9637={
@@ -236,11 +201,46 @@ state={
 			9855={
 				supply_node=1
 			}
-			986={
+			9911={
+				supply_node=1
+			}
+			10159={
+				supply_node=1
+			}
+			10387={
+				supply_node=1
+			}
+			10483={
+				supply_node=1
+			}
+			11658={
 				supply_node=1
 				naval_base=10
 			}
-			9911={
+			11698={
+				supply_node=1
+			}
+			11757={
+				supply_node=1
+				naval_base=10
+			}
+			11763={
+				supply_node=1
+			}
+			11795={
+				supply_node=1
+			}
+			11859={
+				supply_node=1
+				naval_base=10
+			}
+			11876={
+				supply_node=1
+			}
+			12303={
+				supply_node=1
+			}
+			12374={
 				supply_node=1
 			}
 		}

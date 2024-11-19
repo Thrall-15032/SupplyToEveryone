@@ -24,10 +24,10 @@ state={
 		add_core_of = BHU
 		buildings={
 			infrastructure=5
-			12860={
+			8010={
 				supply_node=1
 			}
-			8010={
+			12860={
 				supply_node=1
 			}
 		}

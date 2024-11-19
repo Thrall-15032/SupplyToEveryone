@@ -18,31 +18,22 @@ state = {
 		add_core_of = KOM
 		buildings={
 			infrastructure=5
-			10579={
+			6={
+				supply_node=1
+			}
+			99={
 				supply_node=1
 			}
 			108={
 				supply_node=1
 			}
-			11179={
-				supply_node=1
-			}
-			11200={
-				supply_node=1
-			}
-			11203={
-				supply_node=1
-			}
-			12558={
+			186={
 				supply_node=1
 			}
 			1295={
 				supply_node=1
 			}
 			1307={
-				supply_node=1
-			}
-			186={
 				supply_node=1
 			}
 			3000={
@@ -52,9 +43,6 @@ state = {
 				supply_node=1
 			}
 			4298={
-				supply_node=1
-			}
-			6={
 				supply_node=1
 			}
 			6121={
@@ -81,7 +69,19 @@ state = {
 			9225={
 				supply_node=1
 			}
-			99={
+			10579={
+				supply_node=1
+			}
+			11179={
+				supply_node=1
+			}
+			11200={
+				supply_node=1
+			}
+			11203={
+				supply_node=1
+			}
+			12558={
 				supply_node=1
 			}
 		}

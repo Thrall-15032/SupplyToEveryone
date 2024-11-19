@@ -29,11 +29,11 @@ state=
 		#set_province_name = { id = 10007 name = VICTORY_POINTS_10007_ITA }
 		buildings={
 			infrastructure=5
-			10007={
+			7003={
 				supply_node=1
 				naval_base=10
 			}
-			7003={
+			10007={
 				supply_node=1
 				naval_base=10
 			}

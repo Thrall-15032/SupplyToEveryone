@@ -26,12 +26,6 @@ state={
 			1010={
 				supply_node=1
 			}
-			10763={
-				supply_node=1
-			}
-			11972={
-				supply_node=1
-			}
 			4141={
 				supply_node=1
 			}
@@ -42,6 +36,12 @@ state={
 				supply_node=1
 			}
 			9939={
+				supply_node=1
+			}
+			10763={
+				supply_node=1
+			}
+			11972={
 				supply_node=1
 			}
 		}

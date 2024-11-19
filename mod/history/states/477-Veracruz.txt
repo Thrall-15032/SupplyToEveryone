@@ -28,6 +28,13 @@ state={
 		}
 		buildings={
 			infrastructure=5
+			8079={
+				supply_node=1
+				naval_base=10
+			}
+			8089={
+				supply_node=1
+			}
 			10732={
 				supply_node=1
 				naval_base=10
@@ -35,13 +42,6 @@ state={
 			12810={
 				supply_node=1
 				naval_base=10
-			}
-			8079={
-				supply_node=1
-				naval_base=10
-			}
-			8089={
-				supply_node=1
 			}
 		}
 	}

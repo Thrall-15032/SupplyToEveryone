@@ -27,30 +27,6 @@ state={
 		add_core_of = BYA
 		buildings={
 			infrastructure=5
-			10524={
-				supply_node=1
-			}
-			10528={
-				supply_node=1
-			}
-			10543={
-				supply_node=1
-			}
-			10658={
-				supply_node=1
-			}
-			12506={
-				supply_node=1
-			}
-			12575={
-				supply_node=1
-			}
-			12644={
-				supply_node=1
-			}
-			13152={
-				supply_node=1
-			}
 			1696={
 				supply_node=1
 			}
@@ -79,6 +55,30 @@ state={
 				supply_node=1
 			}
 			7835={
+				supply_node=1
+			}
+			10524={
+				supply_node=1
+			}
+			10528={
+				supply_node=1
+			}
+			10543={
+				supply_node=1
+			}
+			10658={
+				supply_node=1
+			}
+			12506={
+				supply_node=1
+			}
+			12575={
+				supply_node=1
+			}
+			12644={
+				supply_node=1
+			}
+			13152={
 				supply_node=1
 			}
 		}

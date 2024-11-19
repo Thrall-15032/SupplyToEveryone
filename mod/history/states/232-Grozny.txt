@@ -30,7 +30,16 @@ state = {
 
 		buildings={
 			infrastructure=5
-			11632={
+			683={
+				supply_node=1
+			}
+			700={
+				supply_node=1
+			}
+			712={
+				supply_node=1
+			}
+			728={
 				supply_node=1
 			}
 			1450={
@@ -57,18 +66,6 @@ state = {
 			6748={
 				supply_node=1
 			}
-			683={
-				supply_node=1
-			}
-			700={
-				supply_node=1
-			}
-			712={
-				supply_node=1
-			}
-			728={
-				supply_node=1
-			}
 			7554={
 				supply_node=1
 			}
@@ -76,6 +73,9 @@ state = {
 				supply_node=1
 			}
 			9645={
+				supply_node=1
+			}
+			11632={
 				supply_node=1
 			}
 		}

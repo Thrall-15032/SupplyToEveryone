@@ -17,9 +17,6 @@ state={
 		add_core_of = BLR
 		buildings={
 			infrastructure=5
-			11391={
-				supply_node=1
-			}
 			233={
 				supply_node=1
 			}
@@ -36,6 +33,9 @@ state={
 				supply_node=1
 			}
 			9341={
+				supply_node=1
+			}
+			11391={
 				supply_node=1
 			}
 		}

@@ -30,7 +30,14 @@ state={
 		add_core_of = SPR
 		buildings={
 			infrastructure=5
-			11779={
+			854={
+				supply_node=1
+				naval_base=10
+			}
+			872={
+				supply_node=1
+			}
+			897={
 				supply_node=1
 			}
 			3898={
@@ -57,16 +64,6 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			854={
-				supply_node=1
-				naval_base=10
-			}
-			872={
-				supply_node=1
-			}
-			897={
-				supply_node=1
-			}
 			9764={
 				supply_node=1
 				naval_base=10
@@ -77,6 +74,9 @@ state={
 			9824={
 				supply_node=1
 				naval_base=10
+			}
+			11779={
+				supply_node=1
 			}
 		}
 	}

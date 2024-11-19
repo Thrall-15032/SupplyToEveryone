@@ -17,7 +17,10 @@ state={
 		add_core_of = SWI
 		buildings={
 			infrastructure=5
-			11601={
+			658={
+				supply_node=1
+			}
+			661={
 				supply_node=1
 			}
 			3660={
@@ -26,10 +29,7 @@ state={
 			3662={
 				supply_node=1
 			}
-			658={
-				supply_node=1
-			}
-			661={
+			11601={
 				supply_node=1
 			}
 		}

@@ -45,16 +45,16 @@ state = {
 			279={
 				supply_node=1
 			}
-			3295={
-				supply_node=1
-			}
-			3324={
-				supply_node=1
-			}
 			334={
 				supply_node=1
 			}
 			389={
+				supply_node=1
+			}
+			3295={
+				supply_node=1
+			}
+			3324={
 				supply_node=1
 			}
 			6347={

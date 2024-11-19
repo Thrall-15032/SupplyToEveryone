@@ -21,38 +21,6 @@ state={
 		add_core_of = SIA
 		buildings={
 			infrastructure=5
-			10156={
-				supply_node=1
-				naval_base=10
-			}
-			10158={
-				supply_node=1
-				naval_base=10
-			}
-			12122={
-				supply_node=1
-				naval_base=10
-			}
-			12131={
-				supply_node=1
-				naval_base=10
-			}
-			12201={
-				supply_node=1
-				naval_base=10
-			}
-			12220={
-				supply_node=1
-				naval_base=10
-			}
-			12230={
-				supply_node=1
-				naval_base=10
-			}
-			12286={
-				supply_node=1
-				naval_base=10
-			}
 			1279={
 				supply_node=1
 				naval_base=10
@@ -95,6 +63,38 @@ state={
 				supply_node=1
 			}
 			7236={
+				supply_node=1
+				naval_base=10
+			}
+			10156={
+				supply_node=1
+				naval_base=10
+			}
+			10158={
+				supply_node=1
+				naval_base=10
+			}
+			12122={
+				supply_node=1
+				naval_base=10
+			}
+			12131={
+				supply_node=1
+				naval_base=10
+			}
+			12201={
+				supply_node=1
+				naval_base=10
+			}
+			12220={
+				supply_node=1
+				naval_base=10
+			}
+			12230={
+				supply_node=1
+				naval_base=10
+			}
+			12286={
 				supply_node=1
 				naval_base=10
 			}

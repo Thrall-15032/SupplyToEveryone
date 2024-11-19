@@ -31,49 +31,7 @@ state=
 		add_core_of = MAL
 		buildings={
 			infrastructure=5
-			10143={
-				supply_node=1
-				naval_base=10
-			}
-			10199={
-				supply_node=1
-				naval_base=10
-			}
-			10212={
-				supply_node=1
-				naval_base=10
-			}
-			10240={
-				supply_node=1
-				naval_base=10
-			}
-			10269={
-				supply_node=1
-			}
-			10285={
-				supply_node=1
-				naval_base=10
-			}
 			1208={
-				supply_node=1
-				naval_base=10
-			}
-			12171={
-				supply_node=1
-				naval_base=10
-			}
-			12186={
-				supply_node=1
-			}
-			12228={
-				supply_node=1
-				naval_base=10
-			}
-			12283={
-				supply_node=1
-				naval_base=10
-			}
-			12905={
 				supply_node=1
 				naval_base=10
 			}
@@ -118,6 +76,48 @@ state=
 			}
 			8091={
 				supply_node=1
+			}
+			10143={
+				supply_node=1
+				naval_base=10
+			}
+			10199={
+				supply_node=1
+				naval_base=10
+			}
+			10212={
+				supply_node=1
+				naval_base=10
+			}
+			10240={
+				supply_node=1
+				naval_base=10
+			}
+			10269={
+				supply_node=1
+			}
+			10285={
+				supply_node=1
+				naval_base=10
+			}
+			12171={
+				supply_node=1
+				naval_base=10
+			}
+			12186={
+				supply_node=1
+			}
+			12228={
+				supply_node=1
+				naval_base=10
+			}
+			12283={
+				supply_node=1
+				naval_base=10
+			}
+			12905={
+				supply_node=1
+				naval_base=10
 			}
 		}
 	}

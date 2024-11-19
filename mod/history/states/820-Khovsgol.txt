@@ -22,12 +22,6 @@ state = {
 		add_core_of = MON
 		buildings={
 			infrastructure=5
-			12579={
-				supply_node=1
-			}
-			12649={
-				supply_node=1
-			}
 			1689={
 				supply_node=1
 			}
@@ -44,6 +38,12 @@ state = {
 				supply_node=1
 			}
 			7717={
+				supply_node=1
+			}
+			12579={
+				supply_node=1
+			}
+			12649={
 				supply_node=1
 			}
 		}

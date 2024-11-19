@@ -20,15 +20,6 @@ state={
 		add_core_of = AFG
 		buildings={
 			infrastructure=5
-			10789={
-				supply_node=1
-			}
-			12788={
-				supply_node=1
-			}
-			12871={
-				supply_node=1
-			}
 			1948={
 				supply_node=1
 			}
@@ -63,6 +54,15 @@ state={
 				supply_node=1
 			}
 			8090={
+				supply_node=1
+			}
+			10789={
+				supply_node=1
+			}
+			12788={
+				supply_node=1
+			}
+			12871={
 				supply_node=1
 			}
 		}

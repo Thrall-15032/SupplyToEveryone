@@ -17,6 +17,12 @@ state={
 		add_core_of = PER
 		buildings={
 			infrastructure=5
+			8009={
+				supply_node=1
+			}
+			8093={
+				supply_node=1
+			}
 			10873={
 				supply_node=1
 			}
@@ -30,12 +36,6 @@ state={
 				supply_node=1
 			}
 			12818={
-				supply_node=1
-			}
-			8009={
-				supply_node=1
-			}
-			8093={
 				supply_node=1
 			}
 		}

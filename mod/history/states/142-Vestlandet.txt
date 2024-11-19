@@ -36,14 +36,15 @@ state={
 		add_core_of = NOR
 		buildings={
 			infrastructure=5
-			102={
-				supply_node=1
-			}
-			11100={
+			53={
 				supply_node=1
 				naval_base=10
 			}
-			11198={
+			65={
+				supply_node=1
+				naval_base=10
+			}
+			102={
 				supply_node=1
 			}
 			122={
@@ -88,10 +89,6 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			53={
-				supply_node=1
-				naval_base=10
-			}
 			6145={
 				supply_node=1
 				naval_base=10
@@ -106,10 +103,6 @@ state={
 			6216={
 				supply_node=1
 			}
-			65={
-				supply_node=1
-				naval_base=10
-			}
 			9047={
 				supply_node=1
 			}
@@ -123,6 +116,13 @@ state={
 			9216={
 				supply_node=1
 				naval_base=10
+			}
+			11100={
+				supply_node=1
+				naval_base=10
+			}
+			11198={
+				supply_node=1
 			}
 		}
 	}

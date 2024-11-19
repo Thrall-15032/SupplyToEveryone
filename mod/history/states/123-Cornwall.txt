@@ -23,7 +23,7 @@ state= {
 		add_core_of = ENG
 		buildings={
 			infrastructure=5
-			11406={
+			540={
 				supply_node=1
 				naval_base=10
 			}
@@ -35,15 +35,15 @@ state= {
 				supply_node=1
 				naval_base=10
 			}
-			540={
-				supply_node=1
-				naval_base=10
-			}
 			6526={
 				supply_node=1
 				naval_base=10
 			}
 			9562={
+				supply_node=1
+				naval_base=10
+			}
+			11406={
 				supply_node=1
 				naval_base=10
 			}

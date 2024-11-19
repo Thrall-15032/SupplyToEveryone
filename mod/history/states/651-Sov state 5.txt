@@ -23,19 +23,10 @@ state = {
 		add_core_of = BSK
 		buildings={
 			infrastructure=5
-			10142={
+			273={
 				supply_node=1
 			}
-			10226={
-				supply_node=1
-			}
-			12117={
-				supply_node=1
-			}
-			12130={
-				supply_node=1
-			}
-			12172={
+			291={
 				supply_node=1
 			}
 			1258={
@@ -45,12 +36,6 @@ state = {
 				supply_node=1
 			}
 			1305={
-				supply_node=1
-			}
-			273={
-				supply_node=1
-			}
-			291={
 				supply_node=1
 			}
 			3289={
@@ -84,6 +69,21 @@ state = {
 				supply_node=1
 			}
 			9349={
+				supply_node=1
+			}
+			10226={
+				supply_node=1
+			}
+			10142={
+				supply_node=1
+			}
+			12117={
+				supply_node=1
+			}
+			12130={
+				supply_node=1
+			}
+			12172={
 				supply_node=1
 			}
 		}

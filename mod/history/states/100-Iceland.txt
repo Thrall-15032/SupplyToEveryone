@@ -21,6 +21,10 @@ state = {
 		add_core_of = ICE
 		buildings={
 			infrastructure=5
+			4861={
+				supply_node=1
+				naval_base=10
+			}
 			12674={
 				supply_node=1
 				naval_base=10
@@ -42,10 +46,6 @@ state = {
 				naval_base=10
 			}
 			13271={
-				supply_node=1
-				naval_base=10
-			}
-			4861={
 				supply_node=1
 				naval_base=10
 			}

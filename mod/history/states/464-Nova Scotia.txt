@@ -23,10 +23,6 @@ state={
 		add_core_of = CAN
 		buildings={
 			infrastructure=5
-			10244={
-				supply_node=1
-				naval_base=10
-			}
 			1354={
 				supply_node=1
 				naval_base=10
@@ -52,6 +48,10 @@ state={
 				naval_base=10
 			}
 			7644={
+				supply_node=1
+				naval_base=10
+			}
+			10244={
 				supply_node=1
 				naval_base=10
 			}

@@ -26,10 +26,7 @@ state={
 		add_core_of = POL
 		buildings={
 			infrastructure=5
-			11430={
-				supply_node=1
-			}
-			11532={
+			562={
 				supply_node=1
 			}
 			3458={
@@ -41,10 +38,13 @@ state={
 			3586={
 				supply_node=1
 			}
-			562={
+			6416={
 				supply_node=1
 			}
-			6416={
+			11430={
+				supply_node=1
+			}
+			11532={
 				supply_node=1
 			}
 		}

@@ -44,18 +44,6 @@ state = {
 			1036={
 				supply_node=1
 			}
-			10462={
-				supply_node=1
-			}
-			10474={
-				supply_node=1
-			}
-			12408={
-				supply_node=1
-			}
-			12467={
-				supply_node=1
-			}
 			1612={
 				supply_node=1
 			}
@@ -102,6 +90,18 @@ state = {
 				supply_node=1
 			}
 			9959={
+				supply_node=1
+			}
+			10462={
+				supply_node=1
+			}
+			10474={
+				supply_node=1
+			}
+			12408={
+				supply_node=1
+			}
+			12467={
 				supply_node=1
 			}
 		}

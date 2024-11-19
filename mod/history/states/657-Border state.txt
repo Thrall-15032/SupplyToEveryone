@@ -20,25 +20,7 @@ state={
 		add_core_of = FER
 		buildings={
 			infrastructure=5
-			10655={
-				supply_node=1
-			}
-			10722={
-				supply_node=1
-			}
-			12192={
-				supply_node=1
-			}
-			12261={
-				supply_node=1
-			}
-			12263={
-				supply_node=1
-			}
-			12654={
-				supply_node=1
-			}
-			12678={
+			675={
 				supply_node=1
 			}
 			1802={
@@ -62,9 +44,6 @@ state={
 			4829={
 				supply_node=1
 			}
-			675={
-				supply_node=1
-			}
 			7616={
 				supply_node=1
 			}
@@ -75,6 +54,27 @@ state={
 				supply_node=1
 			}
 			7801={
+				supply_node=1
+			}
+			10655={
+				supply_node=1
+			}
+			10722={
+				supply_node=1
+			}
+			12192={
+				supply_node=1
+			}
+			12261={
+				supply_node=1
+			}
+			12263={
+				supply_node=1
+			}
+			12654={
+				supply_node=1
+			}
+			12678={
 				supply_node=1
 			}
 		}

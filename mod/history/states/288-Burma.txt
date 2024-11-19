@@ -28,79 +28,13 @@ state={
 
 		buildings={
 			infrastructure=5
-			10033={
-				supply_node=1
-			}
 			1014={
 				supply_node=1
 				naval_base=10
 			}
-			10154={
-				supply_node=1
-			}
-			10182={
-				supply_node=1
-				naval_base=10
-			}
-			10217={
-				supply_node=1
-				naval_base=10
-			}
-			10223={
-				supply_node=1
-				naval_base=10
-			}
-			10267={
-				supply_node=1
-				naval_base=10
-			}
-			10283={
-				supply_node=1
-			}
-			10344={
-				supply_node=1
-			}
 			1142={
 				supply_node=1
 				naval_base=10
-			}
-			11966={
-				supply_node=1
-			}
-			12090={
-				supply_node=1
-				naval_base=10
-			}
-			12125={
-				supply_node=1
-				naval_base=10
-			}
-			12127={
-				supply_node=1
-				naval_base=10
-			}
-			12197={
-				supply_node=1
-			}
-			12238={
-				supply_node=1
-			}
-			12256={
-				supply_node=1
-			}
-			12267={
-				supply_node=1
-				naval_base=10
-			}
-			12284={
-				supply_node=1
-			}
-			12292={
-				supply_node=1
-				naval_base=10
-			}
-			12449={
-				supply_node=1
 			}
 			1296={
 				supply_node=1
@@ -199,6 +133,72 @@ state={
 				supply_node=1
 			}
 			7534={
+				supply_node=1
+			}
+			10033={
+				supply_node=1
+			}
+			10154={
+				supply_node=1
+			}
+			10182={
+				supply_node=1
+				naval_base=10
+			}
+			10217={
+				supply_node=1
+				naval_base=10
+			}
+			10223={
+				supply_node=1
+				naval_base=10
+			}
+			10267={
+				supply_node=1
+				naval_base=10
+			}
+			10283={
+				supply_node=1
+			}
+			10344={
+				supply_node=1
+			}
+			11966={
+				supply_node=1
+			}
+			12090={
+				supply_node=1
+				naval_base=10
+			}
+			12125={
+				supply_node=1
+				naval_base=10
+			}
+			12127={
+				supply_node=1
+				naval_base=10
+			}
+			12197={
+				supply_node=1
+			}
+			12238={
+				supply_node=1
+			}
+			12256={
+				supply_node=1
+			}
+			12267={
+				supply_node=1
+				naval_base=10
+			}
+			12284={
+				supply_node=1
+			}
+			12292={
+				supply_node=1
+				naval_base=10
+			}
+			12449={
 				supply_node=1
 			}
 		}

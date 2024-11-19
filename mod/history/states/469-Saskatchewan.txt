@@ -21,6 +21,27 @@ state = {
 		
 		buildings={
 			infrastructure=5
+			736={
+				supply_node=1
+			}
+			1788={
+				supply_node=1
+			}
+			3481={
+				supply_node=1
+			}
+			3498={
+				supply_node=1
+			}
+			3769={
+				supply_node=1
+			}
+			4739={
+				supply_node=1
+			}
+			9669={
+				supply_node=1
+			}
 			10552={
 				supply_node=1
 			}
@@ -40,27 +61,6 @@ state = {
 				supply_node=1
 			}
 			12663={
-				supply_node=1
-			}
-			1788={
-				supply_node=1
-			}
-			3481={
-				supply_node=1
-			}
-			3498={
-				supply_node=1
-			}
-			3769={
-				supply_node=1
-			}
-			4739={
-				supply_node=1
-			}
-			736={
-				supply_node=1
-			}
-			9669={
 				supply_node=1
 			}
 		}

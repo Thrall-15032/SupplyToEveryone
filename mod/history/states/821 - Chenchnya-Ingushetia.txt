@@ -22,6 +22,12 @@ state = {
 		add_core_of = CIN
 		buildings={
 			infrastructure=5
+			666={
+				supply_node=1
+			}
+			670={
+				supply_node=1
+			}
 			1455={
 				supply_node=1
 			}
@@ -31,13 +37,7 @@ state = {
 			3672={
 				supply_node=1
 			}
-			666={
-				supply_node=1
-			}
 			6689={
-				supply_node=1
-			}
-			670={
 				supply_node=1
 			}
 		}

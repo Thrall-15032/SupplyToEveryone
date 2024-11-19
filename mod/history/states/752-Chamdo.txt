@@ -29,22 +29,22 @@ state={
 
 		buildings={
 			infrastructure=5
-			12724={
-				supply_node=1
-			}
-			12837={
-				supply_node=1
-			}
 			1918={
-				supply_node=1
-			}
-			4999={
 				supply_node=1
 			}
 			7988={
 				supply_node=1
 			}
 			8104={
+				supply_node=1
+			}
+			12724={
+				supply_node=1
+			}
+			12837={
+				supply_node=1
+			}
+			4999={
 				supply_node=1
 			}
 		}

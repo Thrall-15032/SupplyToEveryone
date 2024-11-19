@@ -18,15 +18,15 @@ state=
 		add_core_of = PHI
 		buildings={
 			infrastructure=5
-			10145={
-				supply_node=1
-				naval_base=10
-			}
 			4429={
 				supply_node=1
 				naval_base=10
 			}
 			7419={
+				supply_node=1
+				naval_base=10
+			}
+			10145={
 				supply_node=1
 				naval_base=10
 			}

@@ -32,16 +32,23 @@ state={
 		add_core_of = SOV
 		buildings={
 			infrastructure=5
-			11668={
+			717={
 				supply_node=1
 				naval_base=10
 			}
-			11681={
-				supply_node=1
-			}
-			11729={
+			719={
 				supply_node=1
 				naval_base=10
+			}
+			735={
+				supply_node=1
+			}
+			750={
+				supply_node=1
+				naval_base=10
+			}
+			765={
+				supply_node=1
 			}
 			3717={
 				supply_node=1
@@ -85,24 +92,6 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			717={
-				supply_node=1
-				naval_base=10
-			}
-			719={
-				supply_node=1
-				naval_base=10
-			}
-			735={
-				supply_node=1
-			}
-			750={
-				supply_node=1
-				naval_base=10
-			}
-			765={
-				supply_node=1
-			}
 			9691={
 				supply_node=1
 			}
@@ -117,6 +106,17 @@ state={
 			}
 			9744={
 				supply_node=1
+			}
+			11668={
+				supply_node=1
+				naval_base=10
+			}
+			11681={
+				supply_node=1
+			}
+			11729={
+				supply_node=1
+				naval_base=10
 			}
 		}
 	}

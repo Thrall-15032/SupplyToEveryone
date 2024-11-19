@@ -18,11 +18,11 @@ state={
 		}
 		buildings={
 			infrastructure=5
-			13080={
+			7290={
 				supply_node=1
 				naval_base=10
 			}
-			7290={
+			13080={
 				supply_node=1
 				naval_base=10
 			}

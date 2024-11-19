@@ -20,51 +20,6 @@ state={
 		add_core_of = PHI
 		buildings={
 			infrastructure=5
-			10184={
-				supply_node=1
-				naval_base=10
-			}
-			10214={
-				supply_node=1
-				naval_base=10
-			}
-			10243={
-				supply_node=1
-				naval_base=10
-			}
-			10300={
-				supply_node=1
-				naval_base=10
-			}
-			10328={
-				supply_node=1
-				naval_base=10
-			}
-			12116={
-				supply_node=1
-				naval_base=10
-			}
-			12158={
-				supply_node=1
-				naval_base=10
-			}
-			12160={
-				supply_node=1
-				naval_base=10
-			}
-			12188={
-				supply_node=1
-				naval_base=10
-			}
-			12217={
-				supply_node=1
-			}
-			12245={
-				supply_node=1
-			}
-			12273={
-				supply_node=1
-			}
 			1234={
 				supply_node=1
 				naval_base=10
@@ -117,6 +72,51 @@ state={
 				naval_base=10
 			}
 			7445={
+				supply_node=1
+			}
+			10184={
+				supply_node=1
+				naval_base=10
+			}
+			10214={
+				supply_node=1
+				naval_base=10
+			}
+			10243={
+				supply_node=1
+				naval_base=10
+			}
+			10300={
+				supply_node=1
+				naval_base=10
+			}
+			10328={
+				supply_node=1
+				naval_base=10
+			}
+			12116={
+				supply_node=1
+				naval_base=10
+			}
+			12158={
+				supply_node=1
+				naval_base=10
+			}
+			12160={
+				supply_node=1
+				naval_base=10
+			}
+			12188={
+				supply_node=1
+				naval_base=10
+			}
+			12217={
+				supply_node=1
+			}
+			12245={
+				supply_node=1
+			}
+			12273={
 				supply_node=1
 			}
 		}

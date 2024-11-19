@@ -15,9 +15,6 @@ state={
 		add_core_of = SIA
 		buildings={
 			infrastructure=5
-			10371={
-				supply_node=1
-			}
 			1253={
 				supply_node=1
 			}
@@ -40,6 +37,9 @@ state={
 				supply_node=1
 			}
 			8045={
+				supply_node=1
+			}
+			10371={
 				supply_node=1
 			}
 		}

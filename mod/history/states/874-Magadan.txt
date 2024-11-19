@@ -18,15 +18,15 @@ state = {
 		add_core_of = FER
 		buildings={
 			infrastructure=5
+			1865={
+				supply_node=1
+				naval_base=10
+			}
 			10540={
 				supply_node=1
 				naval_base=10
 			}
 			12683={
-				supply_node=1
-				naval_base=10
-			}
-			1865={
 				supply_node=1
 				naval_base=10
 			}

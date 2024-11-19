@@ -24,9 +24,14 @@ state={
 		}
 		buildings={
 			infrastructure=5
-			10432={
+			1583={
 				supply_node=1
-				naval_base=10
+			}
+			5186={
+				supply_node=1
+			}
+			7636={
+				supply_node=1
 			}
 			10513={
 				supply_node=1
@@ -49,8 +54,9 @@ state={
 			12972={
 				supply_node=1
 			}
-			1583={
+			10432={
 				supply_node=1
+				naval_base=10
 			}
 			5112={
 				supply_node=1
@@ -60,15 +66,9 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			5186={
-				supply_node=1
-			}
 			7553={
 				supply_node=1
 				naval_base=10
-			}
-			7636={
-				supply_node=1
 			}
 		}
 	}

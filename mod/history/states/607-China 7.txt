@@ -49,28 +49,7 @@ state={
 			1004={
 				supply_node=1
 			}
-			10098={
-				supply_node=1
-			}
-			10364={
-				supply_node=1
-			}
-			10434={
-				supply_node=1
-			}
-			10446={
-				supply_node=1
-			}
 			1139={
-				supply_node=1
-			}
-			11931={
-				supply_node=1
-			}
-			12012={
-				supply_node=1
-			}
-			12426={
 				supply_node=1
 			}
 			1603={
@@ -131,6 +110,27 @@ state={
 				supply_node=1
 			}
 			9995={
+				supply_node=1
+			}
+			10098={
+				supply_node=1
+			}
+			10364={
+				supply_node=1
+			}
+			10434={
+				supply_node=1
+			}
+			10446={
+				supply_node=1
+			}
+			11931={
+				supply_node=1
+			}
+			12012={
+				supply_node=1
+			}
+			12426={
 				supply_node=1
 			}
 		}

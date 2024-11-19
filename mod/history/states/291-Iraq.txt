@@ -37,19 +37,7 @@ state={
 		add_claim_by = KUR
 		buildings={
 			infrastructure=5
-			10876={
-				supply_node=1
-			}
-			12046={
-				supply_node=1
-			}
-			12726={
-				supply_node=1
-			}
-			12839={
-				supply_node=1
-			}
-			12855={
+			78={
 				supply_node=1
 			}
 			2004={
@@ -65,9 +53,6 @@ state={
 			3795={
 				supply_node=1
 			}
-			78={
-				supply_node=1
-			}
 			7977={
 				supply_node=1
 			}
@@ -75,6 +60,21 @@ state={
 				supply_node=1
 			}
 			8001={
+				supply_node=1
+			}
+			10876={
+				supply_node=1
+			}
+			12046={
+				supply_node=1
+			}
+			12726={
+				supply_node=1
+			}
+			12839={
+				supply_node=1
+			}
+			12855={
 				supply_node=1
 			}
 		}

@@ -21,16 +21,16 @@ state = {
 
 		buildings={
 			infrastructure=5
-			13281={
-				supply_node=1
-			}
-			13282={
-				supply_node=1
-			}
 			2168={
 				supply_node=1
 			}
 			5151={
+				supply_node=1
+			}
+			13281={
+				supply_node=1
+			}
+			13282={
 				supply_node=1
 			}
 		}

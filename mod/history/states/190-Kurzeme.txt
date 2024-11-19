@@ -23,9 +23,6 @@ state={
 		add_core_of = LAT
 		buildings={
 			infrastructure=5
-			11246={
-				supply_node=1
-			}
 			3194={
 				supply_node=1
 			}
@@ -44,6 +41,9 @@ state={
 			9262={
 				supply_node=1
 				naval_base=10
+			}
+			11246={
+				supply_node=1
 			}
 		}
 	}

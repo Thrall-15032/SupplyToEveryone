@@ -23,10 +23,10 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			12762={
+			12874={
 				supply_node=1
 			}
-			12874={
+			12762={
 				supply_node=1
 			}
 		}

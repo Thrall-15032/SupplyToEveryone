@@ -24,15 +24,6 @@ state={
 		add_core_of = AZR
 		buildings={
 			infrastructure=5
-			12793={
-				supply_node=1
-			}
-			12861={
-				supply_node=1
-			}
-			13120={
-				supply_node=1
-			}
 			1636={
 				supply_node=1
 			}
@@ -52,6 +43,15 @@ state={
 				supply_node=1
 			}
 			7604={
+				supply_node=1
+			}
+			12793={
+				supply_node=1
+			}
+			12861={
+				supply_node=1
+			}
+			13120={
 				supply_node=1
 			}
 		}

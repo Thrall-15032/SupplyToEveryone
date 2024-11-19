@@ -61,16 +61,6 @@ state={
 			1187={
 				supply_node=1
 			}
-			11938={
-				supply_node=1
-				naval_base=10
-			}
-			11941={
-				supply_node=1
-			}
-			12077={
-				supply_node=1
-			}
 			4092={
 				supply_node=1
 			}
@@ -84,6 +74,16 @@ state={
 			9963={
 				supply_node=1
 				naval_base=10
+			}
+			11938={
+				supply_node=1
+				naval_base=10
+			}
+			11941={
+				supply_node=1
+			}
+			12077={
+				supply_node=1
 			}
 		}
 	}

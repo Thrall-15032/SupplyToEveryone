@@ -22,24 +22,6 @@ state={
 		add_core_of = USA
 		buildings={
 			infrastructure=5
-			10410={
-				supply_node=1
-			}
-			10449={
-				supply_node=1
-			}
-			10753={
-				supply_node=1
-			}
-			11717={
-				supply_node=1
-			}
-			12328={
-				supply_node=1
-			}
-			12429={
-				supply_node=1
-			}
 			1615={
 				supply_node=1
 			}
@@ -64,6 +46,24 @@ state={
 				naval_base=10
 			}
 			8110={
+				supply_node=1
+			}
+			10410={
+				supply_node=1
+			}
+			10449={
+				supply_node=1
+			}
+			10753={
+				supply_node=1
+			}
+			11717={
+				supply_node=1
+			}
+			12328={
+				supply_node=1
+			}
+			12429={
 				supply_node=1
 			}
 		}

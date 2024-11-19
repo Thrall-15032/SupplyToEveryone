@@ -9,16 +9,16 @@ state={
 		add_core_of = SAU
 		buildings={
 			infrastructure=5
-			10870={
-				supply_node=1
-			}
-			12768={
-				supply_node=1
-			}
 			5006={
 				supply_node=1
 			}
 			8030={
+				supply_node=1
+			}
+			10870={
+				supply_node=1
+			}
+			12768={
 				supply_node=1
 			}
 		}

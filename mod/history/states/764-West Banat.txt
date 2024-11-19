@@ -20,16 +20,16 @@ state={
 		add_core_of = TRA
 		buildings={
 			infrastructure=5
-			11787={
+			614={
 				supply_node=1
 			}
 			3614={
 				supply_node=1
 			}
-			614={
+			6643={
 				supply_node=1
 			}
-			6643={
+			11787={
 				supply_node=1
 			}
 		}

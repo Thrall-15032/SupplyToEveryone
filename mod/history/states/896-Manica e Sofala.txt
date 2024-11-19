@@ -12,18 +12,18 @@ state={
 		add_core_of = MZB
 		buildings={
 			infrastructure=5
-			12935={
-				supply_node=1
-				naval_base=10
-			}
-			12950={
-				supply_node=1
-			}
 			2120={
 				supply_node=1
 				naval_base=10
 			}
 			5155={
+				supply_node=1
+			}
+			12935={
+				supply_node=1
+				naval_base=10
+			}
+			12950={
 				supply_node=1
 			}
 		}

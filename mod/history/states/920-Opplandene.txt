@@ -20,34 +20,16 @@ state = {
 			10={
 				supply_node=1
 			}
-			11028={
-				supply_node=1
-			}
-			11037={
+			27={
 				supply_node=1
 			}
 			111={
 				supply_node=1
 			}
-			11113={
-				supply_node=1
-			}
-			11135={
-				supply_node=1
-			}
-			11206={
-				supply_node=1
-			}
 			133={
 				supply_node=1
 			}
-			144={
-				supply_node=1
-			}
 			179={
-				supply_node=1
-			}
-			27={
 				supply_node=1
 			}
 			3021={
@@ -81,6 +63,24 @@ state = {
 				supply_node=1
 			}
 			9227={
+				supply_node=1
+			}
+			11028={
+				supply_node=1
+			}
+			11037={
+				supply_node=1
+			}
+			11113={
+				supply_node=1
+			}
+			11135={
+				supply_node=1
+			}
+			11206={
+				supply_node=1
+			}
+			144={
 				supply_node=1
 			}
 		}

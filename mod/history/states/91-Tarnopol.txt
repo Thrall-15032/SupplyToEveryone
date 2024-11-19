@@ -22,18 +22,6 @@ state={
 		add_core_of = UKR
 		buildings={
 			infrastructure=5
-			11427={
-				supply_node=1
-			}
-			11479={
-				supply_node=1
-			}
-			3483={
-				supply_node=1
-			}
-			3562={
-				supply_node=1
-			}
 			438={
 				supply_node=1
 			}
@@ -43,6 +31,12 @@ state={
 			536={
 				supply_node=1
 			}
+			3483={
+				supply_node=1
+			}
+			3562={
+				supply_node=1
+			}
 			9454={
 				supply_node=1
 			}
@@ -50,6 +44,12 @@ state={
 				supply_node=1
 			}
 			9558={
+				supply_node=1
+			}
+			11427={
+				supply_node=1
+			}
+			11479={
 				supply_node=1
 			}
 		}

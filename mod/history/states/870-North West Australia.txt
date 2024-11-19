@@ -12,22 +12,6 @@ state={
 		add_core_of = AST
 		buildings={
 			infrastructure=5
-			10937={
-				supply_node=1
-			}
-			10958={
-				supply_node=1
-			}
-			11016={
-				supply_node=1
-				naval_base=10
-			}
-			12993={
-				supply_node=1
-			}
-			13133={
-				supply_node=1
-			}
 			2201={
 				supply_node=1
 				naval_base=10
@@ -47,6 +31,22 @@ state={
 			8247={
 				supply_node=1
 				naval_base=10
+			}
+			10937={
+				supply_node=1
+			}
+			10958={
+				supply_node=1
+			}
+			11016={
+				supply_node=1
+				naval_base=10
+			}
+			12993={
+				supply_node=1
+			}
+			13133={
+				supply_node=1
 			}
 		}
 	}

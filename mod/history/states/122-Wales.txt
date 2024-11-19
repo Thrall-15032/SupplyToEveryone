@@ -31,19 +31,11 @@ state= {
 		add_core_of = WLS
 		buildings={
 			infrastructure=5
-			11361={
-				supply_node=1
-				naval_base=10
-			}
 			253={
 				supply_node=1
 			}
 			311={
 				supply_node=1
-			}
-			3274={
-				supply_node=1
-				naval_base=10
 			}
 			377={
 				supply_node=1
@@ -53,11 +45,19 @@ state= {
 				supply_node=1
 				naval_base=10
 			}
+			3274={
+				supply_node=1
+				naval_base=10
+			}
 			6363={
 				supply_node=1
 				naval_base=10
 			}
 			9364={
+				supply_node=1
+				naval_base=10
+			}
+			11361={
 				supply_node=1
 				naval_base=10
 			}

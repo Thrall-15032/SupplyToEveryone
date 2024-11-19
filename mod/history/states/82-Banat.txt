@@ -22,22 +22,22 @@ state={
 		add_core_of = TRA
 		buildings={
 			infrastructure=5
-			11592={
-				supply_node=1
-			}
-			11608={
-				supply_node=1
-			}
-			3649={
-				supply_node=1
-			}
 			646={
 				supply_node=1
 			}
 			662={
 				supply_node=1
 			}
+			3649={
+				supply_node=1
+			}
 			9606={
+				supply_node=1
+			}
+			11592={
+				supply_node=1
+			}
+			11608={
 				supply_node=1
 			}
 		}

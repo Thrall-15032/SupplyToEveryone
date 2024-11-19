@@ -15,6 +15,27 @@ state={
 		add_core_of = SIA
 		buildings={
 			infrastructure=5
+			1357={
+				supply_node=1
+			}
+			1535={
+				supply_node=1
+			}
+			1548={
+				supply_node=1
+			}
+			4511={
+				supply_node=1
+			}
+			4582={
+				supply_node=1
+			}
+			7516={
+				supply_node=1
+			}
+			7601={
+				supply_node=1
+			}
 			10384={
 				supply_node=1
 			}
@@ -46,27 +67,6 @@ state={
 				supply_node=1
 			}
 			12431={
-				supply_node=1
-			}
-			1357={
-				supply_node=1
-			}
-			1535={
-				supply_node=1
-			}
-			1548={
-				supply_node=1
-			}
-			4511={
-				supply_node=1
-			}
-			4582={
-				supply_node=1
-			}
-			7516={
-				supply_node=1
-			}
-			7601={
 				supply_node=1
 			}
 		}

@@ -26,12 +26,12 @@ state={
 		add_core_of = NIR
 		buildings={
 			infrastructure=5
-			11257={
-				supply_node=1
-			}
 			276={
 				supply_node=1
 				naval_base=10
+			}
+			385={
+				supply_node=1
 			}
 			3217={
 				supply_node=1
@@ -49,7 +49,7 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			385={
+			11257={
 				supply_node=1
 			}
 		}

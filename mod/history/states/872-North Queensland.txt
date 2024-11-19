@@ -12,33 +12,6 @@ state={
 		add_core_of = AST
 		buildings={
 			infrastructure=5
-			10338={
-				supply_node=1
-				naval_base=10
-			}
-			10350={
-				supply_node=1
-				naval_base=10
-			}
-			10365={
-				supply_node=1
-				naval_base=10
-			}
-			10378={
-				supply_node=1
-				naval_base=10
-			}
-			12354={
-				supply_node=1
-			}
-			12367={
-				supply_node=1
-				naval_base=10
-			}
-			12957={
-				supply_node=1
-				naval_base=10
-			}
 			1501={
 				supply_node=1
 				naval_base=10
@@ -81,6 +54,33 @@ state={
 			}
 			8230={
 				supply_node=1
+			}
+			10338={
+				supply_node=1
+				naval_base=10
+			}
+			10350={
+				supply_node=1
+				naval_base=10
+			}
+			10365={
+				supply_node=1
+				naval_base=10
+			}
+			10378={
+				supply_node=1
+				naval_base=10
+			}
+			12354={
+				supply_node=1
+			}
+			12367={
+				supply_node=1
+				naval_base=10
+			}
+			12957={
+				supply_node=1
+				naval_base=10
 			}
 		}
 	}

@@ -16,6 +16,48 @@ state={
 		add_core_of = MON
 		buildings={
 			infrastructure=5
+			1723={
+				supply_node=1
+			}
+			1781={
+				supply_node=1
+			}
+			1787={
+				supply_node=1
+			}
+			1853={
+				supply_node=1
+			}
+			1855={
+				supply_node=1
+			}
+			4655={
+				supply_node=1
+			}
+			4729={
+				supply_node=1
+			}
+			4786={
+				supply_node=1
+			}
+			4856={
+				supply_node=1
+			}
+			4858={
+				supply_node=1
+			}
+			7749={
+				supply_node=1
+			}
+			7752={
+				supply_node=1
+			}
+			7806={
+				supply_node=1
+			}
+			7864={
+				supply_node=1
+			}
 			10558={
 				supply_node=1
 			}
@@ -59,48 +101,6 @@ state={
 				supply_node=1
 			}
 			12686={
-				supply_node=1
-			}
-			1723={
-				supply_node=1
-			}
-			1781={
-				supply_node=1
-			}
-			1787={
-				supply_node=1
-			}
-			1853={
-				supply_node=1
-			}
-			1855={
-				supply_node=1
-			}
-			4655={
-				supply_node=1
-			}
-			4729={
-				supply_node=1
-			}
-			4786={
-				supply_node=1
-			}
-			4856={
-				supply_node=1
-			}
-			4858={
-				supply_node=1
-			}
-			7749={
-				supply_node=1
-			}
-			7752={
-				supply_node=1
-			}
-			7806={
-				supply_node=1
-			}
-			7864={
 				supply_node=1
 			}
 		}

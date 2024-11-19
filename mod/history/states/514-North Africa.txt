@@ -18,22 +18,7 @@ state={
 			1043={
 				supply_node=1
 			}
-			10731={
-				supply_node=1
-			}
-			10749={
-				supply_node=1
-			}
 			1095={
-				supply_node=1
-			}
-			12711={
-				supply_node=1
-			}
-			12842={
-				supply_node=1
-			}
-			12849={
 				supply_node=1
 			}
 			1901={
@@ -64,6 +49,21 @@ state={
 				supply_node=1
 			}
 			8088={
+				supply_node=1
+			}
+			10731={
+				supply_node=1
+			}
+			10749={
+				supply_node=1
+			}
+			12711={
+				supply_node=1
+			}
+			12842={
+				supply_node=1
+			}
+			12849={
 				supply_node=1
 			}
 		}

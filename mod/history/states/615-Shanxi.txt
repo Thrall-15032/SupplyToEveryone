@@ -40,34 +40,10 @@ state=
 			1034={
 				supply_node=1
 			}
-			10367={
-				supply_node=1
-			}
-			10421={
-				supply_node=1
-			}
-			10480={
-				supply_node=1
-			}
-			10507={
-				supply_node=1
-			}
 			1180={
 				supply_node=1
 			}
 			1203={
-				supply_node=1
-			}
-			12078={
-				supply_node=1
-			}
-			12300={
-				supply_node=1
-			}
-			12344={
-				supply_node=1
-			}
-			12432={
 				supply_node=1
 			}
 			1438={
@@ -98,6 +74,30 @@ state=
 				supply_node=1
 			}
 			7571={
+				supply_node=1
+			}
+			10367={
+				supply_node=1
+			}
+			10421={
+				supply_node=1
+			}
+			10480={
+				supply_node=1
+			}
+			10507={
+				supply_node=1
+			}
+			12078={
+				supply_node=1
+			}
+			12300={
+				supply_node=1
+			}
+			12344={
+				supply_node=1
+			}
+			12432={
 				supply_node=1
 			}
 		}

@@ -24,16 +24,16 @@ state={
 		add_core_of = HRZ
 		buildings={
 			infrastructure=5
-			11845={
+			953={
 				supply_node=1
 			}
 			6942={
 				supply_node=1
 			}
-			953={
+			9894={
 				supply_node=1
 			}
-			9894={
+			11845={
 				supply_node=1
 			}
 		}

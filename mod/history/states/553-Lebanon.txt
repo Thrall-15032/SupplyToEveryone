@@ -23,15 +23,15 @@ state={
 		add_core_of = LEB
 		buildings={
 			infrastructure=5
+			792={
+				supply_node=1
+				naval_base=10
+			}
 			1108={
 				supply_node=1
 				naval_base=10
 			}
 			11919={
-				supply_node=1
-				naval_base=10
-			}
-			792={
 				supply_node=1
 				naval_base=10
 			}

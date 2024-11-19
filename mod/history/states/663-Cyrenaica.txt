@@ -13,22 +13,10 @@ state={
 		add_core_of = LBA
 		buildings={
 			infrastructure=5
-			10049={
-				supply_node=1
-			}
 			1062={
 				supply_node=1
 			}
 			1186={
-				supply_node=1
-			}
-			12025={
-				supply_node=1
-			}
-			12079={
-				supply_node=1
-			}
-			13078={
 				supply_node=1
 			}
 			4060={
@@ -50,6 +38,18 @@ state={
 				supply_node=1
 			}
 			9977={
+				supply_node=1
+			}
+			10049={
+				supply_node=1
+			}
+			12025={
+				supply_node=1
+			}
+			12079={
+				supply_node=1
+			}
+			13078={
 				supply_node=1
 			}
 		}

@@ -36,22 +36,6 @@ state = {
 		add_core_of = SWE
 		buildings={
 			infrastructure=5
-			11160={
-				supply_node=1
-				naval_base=10
-			}
-			11215={
-				supply_node=1
-				naval_base=10
-			}
-			11327={
-				supply_node=1
-				naval_base=10
-			}
-			11376={
-				supply_node=1
-				naval_base=10
-			}
 			3307={
 				supply_node=1
 				naval_base=10
@@ -76,6 +60,22 @@ state = {
 				supply_node=1
 			}
 			9362={
+				supply_node=1
+				naval_base=10
+			}
+			11160={
+				supply_node=1
+				naval_base=10
+			}
+			11215={
+				supply_node=1
+				naval_base=10
+			}
+			11327={
+				supply_node=1
+				naval_base=10
+			}
+			11376={
 				supply_node=1
 				naval_base=10
 			}

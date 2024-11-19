@@ -21,10 +21,7 @@ state={
 		add_core_of = KUR
 		buildings={
 			infrastructure=5
-			10774={
-				supply_node=1
-			}
-			12773={
+			829={
 				supply_node=1
 			}
 			4943={
@@ -36,10 +33,13 @@ state={
 			5098={
 				supply_node=1
 			}
-			829={
+			9816={
 				supply_node=1
 			}
-			9816={
+			10774={
+				supply_node=1
+			}
+			12773={
 				supply_node=1
 			}
 		}

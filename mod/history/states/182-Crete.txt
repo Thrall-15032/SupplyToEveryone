@@ -29,15 +29,15 @@ state = {
 				supply_node=1
 				naval_base=10
 			}
-			12058={
-				supply_node=1
-				naval_base=10
-			}
 			4170={
 				supply_node=1
 				naval_base=10
 			}
 			9940={
+				supply_node=1
+				naval_base=10
+			}
+			12058={
 				supply_node=1
 				naval_base=10
 			}

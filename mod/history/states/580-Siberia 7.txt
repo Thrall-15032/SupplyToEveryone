@@ -19,24 +19,6 @@ state = {
 		add_core_of = OVO
 		buildings={
 			infrastructure=5
-			10592={
-				supply_node=1
-			}
-			10604={
-				supply_node=1
-			}
-			10620={
-				supply_node=1
-			}
-			12602={
-				supply_node=1
-			}
-			12630={
-				supply_node=1
-			}
-			12700={
-				supply_node=1
-			}
 			1659={
 				supply_node=1
 			}
@@ -74,6 +56,24 @@ state = {
 				supply_node=1
 			}
 			7895={
+				supply_node=1
+			}
+			10592={
+				supply_node=1
+			}
+			10604={
+				supply_node=1
+			}
+			10620={
+				supply_node=1
+			}
+			12602={
+				supply_node=1
+			}
+			12630={
+				supply_node=1
+			}
+			12700={
 				supply_node=1
 			}
 		}

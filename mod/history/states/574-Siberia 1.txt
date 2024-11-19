@@ -19,36 +19,6 @@ state = {
 		add_core_of = YAK
 		buildings={
 			infrastructure=5
-			10589={
-				supply_node=1
-			}
-			10608={
-				supply_node=1
-			}
-			10641={
-				supply_node=1
-			}
-			10667={
-				supply_node=1
-			}
-			10701={
-				supply_node=1
-			}
-			10714={
-				supply_node=1
-			}
-			12565={
-				supply_node=1
-			}
-			12611={
-				supply_node=1
-			}
-			12623={
-				supply_node=1
-			}
-			12694={
-				supply_node=1
-			}
 			1748={
 				supply_node=1
 			}
@@ -89,6 +59,36 @@ state = {
 				supply_node=1
 			}
 			7889={
+				supply_node=1
+			}
+			10589={
+				supply_node=1
+			}
+			10608={
+				supply_node=1
+			}
+			10641={
+				supply_node=1
+			}
+			10667={
+				supply_node=1
+			}
+			10701={
+				supply_node=1
+			}
+			10714={
+				supply_node=1
+			}
+			12565={
+				supply_node=1
+			}
+			12611={
+				supply_node=1
+			}
+			12623={
+				supply_node=1
+			}
+			12694={
 				supply_node=1
 			}
 		}

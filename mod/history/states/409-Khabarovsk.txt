@@ -27,21 +27,13 @@ state = {
 		add_core_of = VLA
 		buildings={
 			infrastructure=5
-			10466={
+			725={
 				supply_node=1
 			}
-			11575={
-				supply_node=1
-				naval_base=10
-			}
-			11719={
-				supply_node=1
-				naval_base=10
-			}
-			12136={
+			739={
 				supply_node=1
 			}
-			12189={
+			753={
 				supply_node=1
 			}
 			1267={
@@ -79,21 +71,12 @@ state = {
 			7249={
 				supply_node=1
 			}
-			725={
-				supply_node=1
-			}
 			7266={
 				supply_node=1
 			}
 			7309={
 				supply_node=1
 				naval_base=10
-			}
-			739={
-				supply_node=1
-			}
-			753={
-				supply_node=1
 			}
 			7868={
 				supply_node=1
@@ -110,6 +93,23 @@ state = {
 				supply_node=1
 			}
 			9749={
+				supply_node=1
+			}
+			10466={
+				supply_node=1
+			}
+			11575={
+				supply_node=1
+				naval_base=10
+			}
+			11719={
+				supply_node=1
+				naval_base=10
+			}
+			12136={
+				supply_node=1
+			}
+			12189={
 				supply_node=1
 			}
 		}

@@ -30,10 +30,10 @@ state={
 		add_core_of = TUR
 		buildings={
 			infrastructure=5
-			11747={
+			804={
 				supply_node=1
 			}
-			11784={
+			909={
 				supply_node=1
 			}
 			3907={
@@ -51,16 +51,16 @@ state={
 			6925={
 				supply_node=1
 			}
-			804={
-				supply_node=1
-			}
-			909={
-				supply_node=1
-			}
 			9806={
 				supply_node=1
 			}
 			9901={
+				supply_node=1
+			}
+			11747={
+				supply_node=1
+			}
+			11784={
 				supply_node=1
 			}
 		}

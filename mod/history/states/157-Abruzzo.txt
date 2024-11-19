@@ -25,11 +25,16 @@ state = {
 		add_core_of = PAP
 		buildings={
 			infrastructure=5
-			11790={
+			925={
+				supply_node=1
+				naval_base=10
+			}
+			963={
 				supply_node=1
 			}
-			11861={
+			967={
 				supply_node=1
+				naval_base=10
 			}
 			3910={
 				supply_node=1
@@ -48,20 +53,15 @@ state = {
 			6926={
 				supply_node=1
 			}
-			925={
-				supply_node=1
-				naval_base=10
-			}
-			963={
-				supply_node=1
-			}
-			967={
-				supply_node=1
-				naval_base=10
-			}
 			9838={
 				supply_node=1
 				naval_base=10
+			}
+			11790={
+				supply_node=1
+			}
+			11861={
+				supply_node=1
 			}
 		}
 	}

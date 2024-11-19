@@ -22,12 +22,6 @@ state={
 		add_core_of = JOR
 		buildings={
 			infrastructure=5
-			10089={
-				supply_node=1
-			}
-			11976={
-				supply_node=1
-			}
 			1544={
 				supply_node=1
 			}
@@ -60,6 +54,12 @@ state={
 				supply_node=1
 			}
 			7170={
+				supply_node=1
+			}
+			10089={
+				supply_node=1
+			}
+			11976={
 				supply_node=1
 			}
 		}

@@ -26,23 +26,7 @@ state = {
 		add_core_of = NEN
 		buildings={
 			infrastructure=5
-			10207={
-				supply_node=1
-				naval_base=10
-			}
 			105={
-				supply_node=1
-				naval_base=10
-			}
-			11047={
-				supply_node=1
-				naval_base=10
-			}
-			11119={
-				supply_node=1
-				naval_base=10
-			}
-			12530={
 				supply_node=1
 				naval_base=10
 			}
@@ -63,6 +47,22 @@ state = {
 				naval_base=10
 			}
 			9205={
+				supply_node=1
+				naval_base=10
+			}
+			10207={
+				supply_node=1
+				naval_base=10
+			}
+			11047={
+				supply_node=1
+				naval_base=10
+			}
+			11119={
+				supply_node=1
+				naval_base=10
+			}
+			12530={
 				supply_node=1
 				naval_base=10
 			}

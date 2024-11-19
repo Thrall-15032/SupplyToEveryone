@@ -22,6 +22,14 @@ state = {
 		add_core_of = TTS
 		buildings={
 			infrastructure=5
+			3901={
+				supply_node=1
+				naval_base=10
+			}
+			9990={
+				supply_node=1
+				naval_base=10
+			}
 			10027={
 				supply_node=1
 				naval_base=10
@@ -31,14 +39,6 @@ state = {
 				naval_base=10
 			}
 			12098={
-				supply_node=1
-				naval_base=10
-			}
-			3901={
-				supply_node=1
-				naval_base=10
-			}
-			9990={
 				supply_node=1
 				naval_base=10
 			}

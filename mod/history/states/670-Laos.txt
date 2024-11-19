@@ -17,42 +17,6 @@ state={
 
 		buildings={
 			infrastructure=5
-			10195={
-				supply_node=1
-			}
-			10238={
-				supply_node=1
-			}
-			10326={
-				supply_node=1
-			}
-			10330={
-				supply_node=1
-			}
-			10356={
-				supply_node=1
-			}
-			10453={
-				supply_node=1
-			}
-			10456={
-				supply_node=1
-			}
-			10496={
-				supply_node=1
-			}
-			12210={
-				supply_node=1
-			}
-			12332={
-				supply_node=1
-			}
-			12392={
-				supply_node=1
-			}
-			12433={
-				supply_node=1
-			}
 			1362={
 				supply_node=1
 			}
@@ -114,6 +78,42 @@ state={
 				supply_node=1
 			}
 			9961={
+				supply_node=1
+			}
+			10195={
+				supply_node=1
+			}
+			10238={
+				supply_node=1
+			}
+			10326={
+				supply_node=1
+			}
+			10330={
+				supply_node=1
+			}
+			10356={
+				supply_node=1
+			}
+			10453={
+				supply_node=1
+			}
+			10456={
+				supply_node=1
+			}
+			10496={
+				supply_node=1
+			}
+			12210={
+				supply_node=1
+			}
+			12332={
+				supply_node=1
+			}
+			12392={
+				supply_node=1
+			}
+			12433={
 				supply_node=1
 			}
 		}

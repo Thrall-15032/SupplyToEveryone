@@ -22,28 +22,6 @@ state={
 			add_core_of = TZN
 		buildings={
 			infrastructure=5
-			10845={
-				supply_node=1
-			}
-			10932={
-				supply_node=1
-			}
-			10988={
-				supply_node=1
-			}
-			11017={
-				supply_node=1
-			}
-			12911={
-				supply_node=1
-			}
-			12944={
-				supply_node=1
-				naval_base=10
-			}
-			12967={
-				supply_node=1
-			}
 			2176={
 				supply_node=1
 			}
@@ -84,6 +62,28 @@ state={
 				supply_node=1
 			}
 			8205={
+				supply_node=1
+			}
+			10845={
+				supply_node=1
+			}
+			10932={
+				supply_node=1
+			}
+			10988={
+				supply_node=1
+			}
+			11017={
+				supply_node=1
+			}
+			12911={
+				supply_node=1
+			}
+			12944={
+				supply_node=1
+				naval_base=10
+			}
+			12967={
 				supply_node=1
 			}
 		}

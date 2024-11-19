@@ -31,30 +31,6 @@ state={
 
 		buildings={
 			infrastructure=5
-			10016={
-				supply_node=1
-				naval_base=10
-			}
-			10075={
-				supply_node=1
-			}
-			10103={
-				supply_node=1
-			}
-			10129={
-				supply_node=1
-			}
-			10137={
-				supply_node=1
-				naval_base=10
-			}
-			10180={
-				supply_node=1
-			}
-			10309={
-				supply_node=1
-				naval_base=10
-			}
 			1073={
 				supply_node=1
 			}
@@ -65,32 +41,6 @@ state={
 			1185={
 				supply_node=1
 				naval_base=10
-			}
-			11909={
-				supply_node=1
-			}
-			11936={
-				supply_node=1
-				naval_base=10
-			}
-			12008={
-				supply_node=1
-			}
-			12048={
-				supply_node=1
-			}
-			12065={
-				supply_node=1
-			}
-			12075={
-				supply_node=1
-			}
-			12297={
-				supply_node=1
-				naval_base=10
-			}
-			12319={
-				supply_node=1
 			}
 			1248={
 				supply_node=1
@@ -142,6 +92,56 @@ state={
 				supply_node=1
 			}
 			9988={
+				supply_node=1
+			}
+			10016={
+				supply_node=1
+				naval_base=10
+			}
+			10075={
+				supply_node=1
+			}
+			10103={
+				supply_node=1
+			}
+			10129={
+				supply_node=1
+			}
+			10137={
+				supply_node=1
+				naval_base=10
+			}
+			10180={
+				supply_node=1
+			}
+			10309={
+				supply_node=1
+				naval_base=10
+			}
+			11909={
+				supply_node=1
+			}
+			11936={
+				supply_node=1
+				naval_base=10
+			}
+			12008={
+				supply_node=1
+			}
+			12048={
+				supply_node=1
+			}
+			12065={
+				supply_node=1
+			}
+			12075={
+				supply_node=1
+			}
+			12297={
+				supply_node=1
+				naval_base=10
+			}
+			12319={
 				supply_node=1
 			}
 		}

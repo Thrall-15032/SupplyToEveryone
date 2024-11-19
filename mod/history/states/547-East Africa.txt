@@ -20,12 +20,6 @@ state={
 
 		buildings={
 			infrastructure=5
-			10962={
-				supply_node=1
-			}
-			13135={
-				supply_node=1
-			}
 			1939={
 				supply_node=1
 			}
@@ -33,6 +27,12 @@ state={
 				supply_node=1
 			}
 			5079={
+				supply_node=1
+			}
+			10962={
+				supply_node=1
+			}
+			13135={
 				supply_node=1
 			}
 		}

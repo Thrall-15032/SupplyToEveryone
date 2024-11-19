@@ -28,15 +28,10 @@ state={
 		add_core_of = TUR
 		buildings={
 			infrastructure=5
-			11811={
+			890={
 				supply_node=1
-				naval_base=10
 			}
-			11866={
-				supply_node=1
-				naval_base=10
-			}
-			11883={
+			904={
 				supply_node=1
 				naval_base=10
 			}
@@ -49,10 +44,15 @@ state={
 			6871={
 				supply_node=1
 			}
-			890={
+			11811={
 				supply_node=1
+				naval_base=10
 			}
-			904={
+			11866={
+				supply_node=1
+				naval_base=10
+			}
+			11883={
 				supply_node=1
 				naval_base=10
 			}

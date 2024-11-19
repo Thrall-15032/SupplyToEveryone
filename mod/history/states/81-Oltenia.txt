@@ -18,13 +18,7 @@ state={
 		add_core_of = ROM
 		buildings={
 			infrastructure=5
-			11588={
-				supply_node=1
-			}
-			11605={
-				supply_node=1
-			}
-			11657={
+			637={
 				supply_node=1
 			}
 			3630={
@@ -33,13 +27,19 @@ state={
 			3645={
 				supply_node=1
 			}
-			637={
-				supply_node=1
-			}
 			6652={
 				supply_node=1
 			}
 			6667={
+				supply_node=1
+			}
+			11588={
+				supply_node=1
+			}
+			11605={
+				supply_node=1
+			}
+			11657={
 				supply_node=1
 			}
 		}

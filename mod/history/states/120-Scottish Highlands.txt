@@ -36,27 +36,7 @@ state = {
 		add_core_of = ENG
 		buildings={
 			infrastructure=5
-			11064={
-				supply_node=1
-				naval_base=10
-			}
-			11161={
-				supply_node=1
-				naval_base=10
-			}
-			11266={
-				supply_node=1
-				naval_base=10
-			}
 			131={
-				supply_node=1
-				naval_base=10
-			}
-			13269={
-				supply_node=1
-				naval_base=10
-			}
-			13270={
 				supply_node=1
 				naval_base=10
 			}
@@ -97,6 +77,26 @@ state = {
 				naval_base=10
 			}
 			9090={
+				supply_node=1
+				naval_base=10
+			}
+			11064={
+				supply_node=1
+				naval_base=10
+			}
+			11161={
+				supply_node=1
+				naval_base=10
+			}
+			11266={
+				supply_node=1
+				naval_base=10
+			}
+			13269={
+				supply_node=1
+				naval_base=10
+			}
+			13270={
 				supply_node=1
 				naval_base=10
 			}

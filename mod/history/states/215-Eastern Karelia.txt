@@ -15,32 +15,19 @@ state={
 		add_core_of = KAR
 		buildings={
 			infrastructure=5
-			11045={
+			36={
 				supply_node=1
 			}
-			11054={
+			80={
 				supply_node=1
 			}
-			11094={
+			86={
 				supply_node=1
+				naval_base=10
 			}
-			11096={
+			94={
 				supply_node=1
-			}
-			11146={
-				supply_node=1
-			}
-			11175={
-				supply_node=1
-			}
-			11181={
-				supply_node=1
-			}
-			11212={
-				supply_node=1
-			}
-			13130={
-				supply_node=1
+				naval_base=10
 			}
 			134={
 				supply_node=1
@@ -77,9 +64,6 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			36={
-				supply_node=1
-			}
 			6021={
 				supply_node=1
 			}
@@ -102,13 +86,6 @@ state={
 			6175={
 				supply_node=1
 			}
-			80={
-				supply_node=1
-			}
-			86={
-				supply_node=1
-				naval_base=10
-			}
 			9045={
 				supply_node=1
 				naval_base=10
@@ -130,9 +107,32 @@ state={
 			9198={
 				supply_node=1
 			}
-			94={
+			11045={
 				supply_node=1
-				naval_base=10
+			}
+			11054={
+				supply_node=1
+			}
+			11094={
+				supply_node=1
+			}
+			11096={
+				supply_node=1
+			}
+			11146={
+				supply_node=1
+			}
+			11175={
+				supply_node=1
+			}
+			11181={
+				supply_node=1
+			}
+			11212={
+				supply_node=1
+			}
+			13130={
+				supply_node=1
 			}
 		}
 	}

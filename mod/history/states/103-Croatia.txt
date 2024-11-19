@@ -31,17 +31,12 @@ state={
 		add_core_of = CRO
 		buildings={
 			infrastructure=5
-			11816={
+			591={
 				supply_node=1
 				naval_base=10
 			}
-			11901={
+			984={
 				supply_node=1
-				naval_base=10
-			}
-			13252={
-				supply_node=1
-				naval_base=10
 			}
 			3601={
 				supply_node=1
@@ -57,10 +52,6 @@ state={
 			3974={
 				supply_node=1
 			}
-			591={
-				supply_node=1
-				naval_base=10
-			}
 			6611={
 				supply_node=1
 			}
@@ -68,8 +59,17 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			984={
+			11816={
 				supply_node=1
+				naval_base=10
+			}
+			11901={
+				supply_node=1
+				naval_base=10
+			}
+			13252={
+				supply_node=1
+				naval_base=10
 			}
 		}
 	}

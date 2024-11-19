@@ -24,18 +24,18 @@ state={
 		add_claim_by = BUL
 		buildings={
 			infrastructure=5
+			9791={
+				supply_node=1
+			}
+			9930={
+				supply_node=1
+				naval_base=10
+			}
 			11774={
 				supply_node=1
 				naval_base=10
 			}
 			11905={
-				supply_node=1
-				naval_base=10
-			}
-			9791={
-				supply_node=1
-			}
-			9930={
 				supply_node=1
 				naval_base=10
 			}

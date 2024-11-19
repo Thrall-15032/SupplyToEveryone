@@ -32,67 +32,8 @@ state = {
 		}
 		buildings={
 			infrastructure=5
-			10138={
-				supply_node=1
-				naval_base=10
-			}
-			10178={
-				supply_node=1
-				naval_base=10
-			}
-			10181={
-				supply_node=1
-				naval_base=10
-			}
-			10237={
-				supply_node=1
-				naval_base=10
-			}
-			10266={
-				supply_node=1
-			}
-			10282={
-				supply_node=1
-				naval_base=10
-			}
-			10310={
-				supply_node=1
-				naval_base=10
-			}
-			10325={
-				supply_node=1
-				naval_base=10
-			}
-			12110={
-				supply_node=1
-				naval_base=10
-			}
-			12129={
-				supply_node=1
-				naval_base=10
-			}
-			12196={
-				supply_node=1
-				naval_base=10
-			}
-			12225={
-				supply_node=1
-				naval_base=10
-			}
-			12243={
-				supply_node=1
-				naval_base=10
-			}
 			1225={
 				supply_node=1
-			}
-			12252={
-				supply_node=1
-				naval_base=10
-			}
-			12280={
-				supply_node=1
-				naval_base=10
 			}
 			1230={
 				supply_node=1
@@ -101,17 +42,10 @@ state = {
 				supply_node=1
 				naval_base=10
 			}
-			12955={
-				supply_node=1
-			}
 			1304={
 				supply_node=1
 			}
 			1316={
-				supply_node=1
-				naval_base=10
-			}
-			13298={
 				supply_node=1
 				naval_base=10
 			}
@@ -185,6 +119,72 @@ state = {
 			}
 			8221={
 				supply_node=1
+			}
+			10138={
+				supply_node=1
+				naval_base=10
+			}
+			10178={
+				supply_node=1
+				naval_base=10
+			}
+			10181={
+				supply_node=1
+				naval_base=10
+			}
+			10237={
+				supply_node=1
+				naval_base=10
+			}
+			10266={
+				supply_node=1
+			}
+			10282={
+				supply_node=1
+				naval_base=10
+			}
+			10310={
+				supply_node=1
+				naval_base=10
+			}
+			10325={
+				supply_node=1
+				naval_base=10
+			}
+			12110={
+				supply_node=1
+				naval_base=10
+			}
+			12129={
+				supply_node=1
+				naval_base=10
+			}
+			12196={
+				supply_node=1
+				naval_base=10
+			}
+			12225={
+				supply_node=1
+				naval_base=10
+			}
+			12243={
+				supply_node=1
+				naval_base=10
+			}
+			12252={
+				supply_node=1
+				naval_base=10
+			}
+			12280={
+				supply_node=1
+				naval_base=10
+			}
+			12955={
+				supply_node=1
+			}
+			13298={
+				supply_node=1
+				naval_base=10
 			}
 		}
 	}

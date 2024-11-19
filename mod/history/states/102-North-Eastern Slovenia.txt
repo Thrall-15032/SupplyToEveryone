@@ -19,16 +19,16 @@ state=
 		add_core_of = SLV
 		buildings={
 			infrastructure=5
-			3631={
-				supply_node=1
-			}
-			3654={
-				supply_node=1
-			}
 			596={
 				supply_node=1
 			}
 			665={
+				supply_node=1
+			}
+			3631={
+				supply_node=1
+			}
+			3654={
 				supply_node=1
 			}
 			6672={

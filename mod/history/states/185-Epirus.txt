@@ -33,21 +33,10 @@ state={
 		add_core_of = GRE
 		buildings={
 			infrastructure=5
-			10203={
+			841={
 				supply_node=1
-				naval_base=10
 			}
 			1106={
-				supply_node=1
-				naval_base=10
-			}
-			11786={
-				supply_node=1
-			}
-			11895={
-				supply_node=1
-			}
-			12001={
 				supply_node=1
 				naval_base=10
 			}
@@ -61,9 +50,6 @@ state={
 			3980={
 				supply_node=1
 			}
-			841={
-				supply_node=1
-			}
 			9805={
 				supply_node=1
 				naval_base=10
@@ -72,6 +58,20 @@ state={
 				supply_node=1
 			}
 			9916={
+				supply_node=1
+				naval_base=10
+			}
+			10203={
+				supply_node=1
+				naval_base=10
+			}
+			11786={
+				supply_node=1
+			}
+			11895={
+				supply_node=1
+			}
+			12001={
 				supply_node=1
 				naval_base=10
 			}

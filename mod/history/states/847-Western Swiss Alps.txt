@@ -15,13 +15,13 @@ state={
 		add_core_of = SWI
 		buildings={
 			infrastructure=5
-			3612={
-				supply_node=1
-			}
 			636={
 				supply_node=1
 			}
 			9587={
+				supply_node=1
+			}
+			3612={
 				supply_node=1
 			}
 			9618={

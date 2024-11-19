@@ -21,6 +21,24 @@ state={
 		add_core_of = SOV
 		buildings={
 			infrastructure=5
+			237={
+				supply_node=1
+			}
+			278={
+				supply_node=1
+			}
+			361={
+				supply_node=1
+			}
+			3280={
+				supply_node=1
+			}
+			4758={
+				supply_node=1
+			}
+			7320={
+				supply_node=1
+			}
 			10136={
 				supply_node=1
 			}
@@ -31,24 +49,6 @@ state={
 				supply_node=1
 			}
 			11307={
-				supply_node=1
-			}
-			237={
-				supply_node=1
-			}
-			278={
-				supply_node=1
-			}
-			3280={
-				supply_node=1
-			}
-			361={
-				supply_node=1
-			}
-			4758={
-				supply_node=1
-			}
-			7320={
 				supply_node=1
 			}
 		}

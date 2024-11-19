@@ -22,6 +22,12 @@ state = {
 		add_claim_by = BUL
 		buildings={
 			infrastructure=5
+			907={
+				supply_node=1
+			}
+			974={
+				supply_node=1
+			}
 			3833={
 				supply_node=1
 			}
@@ -32,12 +38,6 @@ state = {
 				supply_node=1
 			}
 			6886={
-				supply_node=1
-			}
-			907={
-				supply_node=1
-			}
-			974={
 				supply_node=1
 			}
 		}

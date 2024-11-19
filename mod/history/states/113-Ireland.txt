@@ -33,18 +33,14 @@ state={
 		add_core_of = IRE
 		buildings={
 			infrastructure=5
-			11293={
-				supply_node=1
-				naval_base=10
-			}
-			11303={
-				supply_node=1
-			}
 			285={
 				supply_node=1
 				naval_base=10
 			}
 			303={
+				supply_node=1
+			}
+			369={
 				supply_node=1
 			}
 			3342={
@@ -54,12 +50,16 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			369={
-				supply_node=1
-			}
 			7377={
 				supply_node=1
 				naval_base=10
+			}
+			11293={
+				supply_node=1
+				naval_base=10
+			}
+			11303={
+				supply_node=1
 			}
 		}
 	}

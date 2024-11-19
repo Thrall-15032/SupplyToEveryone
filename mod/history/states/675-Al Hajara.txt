@@ -16,6 +16,12 @@ state={
 		add_core_of = IRQ
 		buildings={
 			infrastructure=5
+			1631={
+				supply_node=1
+			}
+			4951={
+				supply_node=1
+			}
 			10744={
 				supply_node=1
 			}
@@ -23,12 +29,6 @@ state={
 				supply_node=1
 			}
 			12879={
-				supply_node=1
-			}
-			1631={
-				supply_node=1
-			}
-			4951={
 				supply_node=1
 			}
 		}
