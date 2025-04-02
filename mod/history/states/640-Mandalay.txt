@@ -1,0 +1,50 @@
+state = {
+	id = 640
+	name = "STATE_640"
+	resources = {
+		tungsten = 120.000
+	}
+	
+	manpower = 158241
+	state_category = town
+	
+	history = {
+		owner = BRM
+		add_core_of = BRM
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			1492 3 
+		}
+		buildings={
+			infrastructure=5
+			1492={
+				supply_node=1
+			}
+			4585={
+				supply_node=1
+			}
+			4626={
+				supply_node=1
+			}
+			7469={
+				supply_node=1
+			}
+			7562={
+				supply_node=1
+			}
+			12404={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1492 4585 4626 7469 7562 12404 
+	}
+	local_supplies = 0.000
+	buildings_max_level_factor = 1.000
+}

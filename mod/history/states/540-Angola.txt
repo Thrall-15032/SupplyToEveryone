@@ -1,24 +1,24 @@
-
-state={
-	id=540
-	name="STATE_540"
+state = {
+	id = 540
+	name = "STATE_540"
 	manpower = 1600000
-	state_category=rural
+	state_category = rural
 
-	history={
+	history = {
+
 		owner = POR
+		add_core_of = ANG
+
 		buildings = {
 			infrastructure = 1
 			8248 = {
 				naval_base = 1
-
 			}
+		}
 
-		}
 		victory_points = {
-			8248 1 
+			8248 1 # Luanda
 		}
-		add_core_of = ANG
 
 		buildings={
 			infrastructure=5
@@ -40,14 +40,20 @@ state={
 			12981={
 				supply_node=1
 			}
+			13371={
+				supply_node=1
+			}
+			13373={
+				supply_node=1
+			}
 		}
 	}
 
-	provinces={
-		5158 7548 8219 8248 12981 
+	provinces = {
+		5158 7548 8219 8248 12981 13371 13373
 	}
 
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor = 1.000
 	
-	local_supplies=0.000
+	local_supplies = 0.000
 }

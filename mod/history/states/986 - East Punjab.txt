@@ -1,54 +1,57 @@
 
 state={
-	id=444
-	name="STATE_444" # Baluchistan
-	manpower = 463500
+	id=986
+	name="STATE_986" #
+	manpower = 16959758 
 	
-	state_category = wasteland
+	state_category = town
+	
+	resources={
+
+	}
 
 	history={
-		victory_points = {
-			8066 1
-		}
 		owner = RAJ
+		add_core_of = RAJ
+		add_core_of = KHL 
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = PAK
+		victory_points = {
+			10729 3
+		}
+
 		buildings={
 			infrastructure=5
-			1179={
-				supply_node=1
-				naval_base=10
-			}
-			5043={
+			1129={
 				supply_node=1
 			}
-			5075={
+			2002={
 				supply_node=1
 			}
-			7917={
-				supply_node=1
-				naval_base=10
-			}
-			8013={
+			2076={
 				supply_node=1
 			}
-			8066={
+			3989={
 				supply_node=1
 			}
-			12761={
+			7106={
 				supply_node=1
 			}
-			12774={
+			10729={
 				supply_node=1
-				naval_base=10
+			}
+			12708={
+				supply_node=1
+			}
+			12868={
+				supply_node=1
 			}
 		}
 	}
 
 	provinces={
-		1179 5043 5075 7917 8013 8066 12761 12774 
+		1129 2002 2076 3989 7106 10729 12708 12868 
 	}
 
 	local_supplies=0.0 

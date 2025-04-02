@@ -1,0 +1,63 @@
+state = {
+	id = 288
+	name = "STATE_288"
+	resources = {
+		rubber = 3.000
+		tungsten = 92.000
+	}
+	
+	manpower = 2107805
+	
+	state_category = rural
+	
+	history = {
+		owner = BRM
+		add_core_of = BRM
+
+		buildings = {
+			infrastructure = 1
+		}
+		buildings={
+			infrastructure=5
+			3999={
+				supply_node=1
+			}
+			4202={
+				supply_node=1
+			}
+			4454={
+				supply_node=1
+			}
+			4541={
+				supply_node=1
+			}
+			7034={
+				supply_node=1
+			}
+			7163={
+				supply_node=1
+			}
+			7190={
+				supply_node=1
+			}
+			7534={
+				supply_node=1
+			}
+			10033={
+				supply_node=1
+			}
+			11966={
+				supply_node=1
+			}
+			12449={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		3999 4202 4454 4541 7034 7163 7190 7534 10033 11966 12449 
+	}
+	local_supplies = 0.000
+	buildings_max_level_factor = 1.000
+}

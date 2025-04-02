@@ -1,24 +1,32 @@
-
 state={
 	id=438
 	name="STATE_438"
-	manpower = 33491000
-	
-	state_category = rural
-
+	provinces={
+		1377 1898 1983 2005 4045 4299 4410 5002 5040 5055 5086 5096 5157 7064 7938 8082 8114 9951 9973 10021 10332 12137 12777 12786
+	}
+	manpower=45365364
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
 	history={
 		owner = RAJ
+		add_claim_by = KHL
 		victory_points = {
-			12137 1
+			1377 10
 		}
+
+
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 1
 			industrial_complex = 1
 		}
 
 		buildings={
 			infrastructure=5
 			1377={
+				supply_node=1
+			}
+			1898={
 				supply_node=1
 			}
 			1983={
@@ -36,6 +44,9 @@ state={
 			4410={
 				supply_node=1
 			}
+			5002={
+				supply_node=1
+			}
 			5040={
 				supply_node=1
 			}
@@ -46,6 +57,9 @@ state={
 				supply_node=1
 			}
 			5096={
+				supply_node=1
+			}
+			5157={
 				supply_node=1
 			}
 			7064={
@@ -66,10 +80,10 @@ state={
 			9973={
 				supply_node=1
 			}
-			10332={
+			10021={
 				supply_node=1
 			}
-			10794={
+			10332={
 				supply_node=1
 			}
 			12137={
@@ -83,10 +97,4 @@ state={
 			}
 		}
 	}
-
-	provinces={
-		1377 1983 2005 4045 4299 4410 5040 5055 5086 5096 7064 7938 8082 8114 9951 9973 10332 10794 12137 12777 12786 
-	}
-
-	local_supplies=0.0 
 }

@@ -1,0 +1,72 @@
+state = {
+	id = 998
+	name = "STATE_998"
+	
+	state_category = rural
+	manpower = 966906
+	
+	history = {
+		owner = BRM
+		add_core_of = BRM
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			4425 1 
+		}
+		buildings={
+			infrastructure=5
+			1082={
+				supply_node=1
+			}
+			1197={
+				supply_node=1
+			}
+			1934={
+				supply_node=1
+			}
+			4087={
+				supply_node=1
+			}
+			4318={
+				supply_node=1
+			}
+			4425={
+				supply_node=1
+			}
+			4588={
+				supply_node=1
+			}
+			4996={
+				supply_node=1
+			}
+			8063={
+				supply_node=1
+			}
+			10386={
+				supply_node=1
+			}
+			10486={
+				supply_node=1
+			}
+			12335={
+				supply_node=1
+			}
+			12464={
+				supply_node=1
+			}
+			12492={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		1082 1197 1934 4087 4318 4425 4588 4996 8063 10386 10486 12335 12464 12492 
+	}
+
+	local_supplies = 0.000
+	buildings_max_level_factor = 1.000
+}

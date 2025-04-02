@@ -15,6 +15,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = PER 
+		add_core_of = BLC
 		buildings={
 			infrastructure=5
 			1889={
@@ -37,11 +38,14 @@ state={
 			13082={
 				supply_node=1
 			}
+			12895={
+				supply_node=1
+			}
 		}
 	}
 
 	provinces={
-		1889 2039 2070 4891 10782 13082 
+		1889 2039 2070 4891 10782 13082 12895
 	}
 
 	local_supplies=6.0 

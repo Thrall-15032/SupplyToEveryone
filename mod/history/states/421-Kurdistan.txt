@@ -2,20 +2,14 @@
 state={
 	id=421
 	name="STATE_421"
-	manpower = 780278
+	manpower = 390139
 	
 	state_category = rural
 
 	history={
 		owner = PER
-		victory_points = {
-			4943 5
-		}
-		victory_points = {
-			5098 3
-		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 		}
 		add_core_of = PER
 		add_core_of = KUR
@@ -24,29 +18,17 @@ state={
 			829={
 				supply_node=1
 			}
-			4943={
-				supply_node=1
-			}
 			5050={
 				supply_node=1
 			}
-			5098={
-				supply_node=1
-			}
-			9816={
-				supply_node=1
-			}
 			10774={
-				supply_node=1
-			}
-			12773={
 				supply_node=1
 			}
 		}
 	}
 
 	provinces={
-		829 4943 5050 5098 9816 10774 12773 
+		829 5050 10774 
 	}
 
 	local_supplies=0.0 

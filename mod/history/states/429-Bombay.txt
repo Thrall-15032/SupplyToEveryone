@@ -1,16 +1,17 @@
 
 state={
 	id=429
-	name="STATE_429"
-	manpower = 17355600
-	state_category = town
+	name="STATE_429" #Bombay
+	manpower = 18928000
+	state_category = town 
 	
 	resources={
-		#tungsten=19 # was: 26
+		tungsten=26
 	}
 
 	history={
 		owner = RAJ
+		add_core_of = RAJ
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -19,21 +20,22 @@ state={
 				naval_base = 6
 			}
 		}
+		add_claim_by = KHL
 		victory_points = {
-			1349 10 
+			1349 25
 		}
-
 		buildings={
 			infrastructure=5
 			1349={
 				supply_node=1
 				naval_base=10
 			}
-			1405={
-				supply_node=1
-			}
 			4072={
 				supply_node=1
+			}
+			4187={
+				supply_node=1
+				naval_base=10
 			}
 			4353={
 				supply_node=1
@@ -42,11 +44,12 @@ state={
 				supply_node=1
 				naval_base=10
 			}
-			7060={
-				supply_node=1
-			}
 			7119={
 				supply_node=1
+			}
+			7150={
+				supply_node=1
+				naval_base=10
 			}
 			7177={
 				supply_node=1
@@ -64,6 +67,10 @@ state={
 			10270={
 				supply_node=1
 			}
+			11952={
+				supply_node=1
+				naval_base=10
+			}
 			12142={
 				supply_node=1
 			}
@@ -78,7 +85,7 @@ state={
 	}
 
 	provinces={
-		1349 1405 4072 4353 7013 7060 7119 7177 7232 10019 10210 10270 12142 12182 12269 
+		1349 4072 4187 4353 7013 7119 7150 7177 7232 10019 10210 10270 11952 12142 12182 12269 
 	}
 
 	local_supplies=0.0 

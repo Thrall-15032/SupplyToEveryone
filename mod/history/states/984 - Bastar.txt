@@ -1,0 +1,53 @@
+
+state={
+	id=984
+	name="STATE_984" #
+	manpower = 30650 
+	
+	state_category = rural
+	
+	resources={
+
+	}
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 1 #was: 5
+		}
+
+		buildings={
+			infrastructure=5
+			7465={
+				supply_node=1
+			}
+			1622={
+				supply_node=1
+			}
+			12490={
+				supply_node=1
+			}
+			12241={
+				supply_node=1
+			}
+			12420={
+				supply_node=1
+			}
+			4557={
+				supply_node=1
+			}
+			1579={
+				supply_node=1
+			}
+			10469={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces={
+		7465 1622 12490 12241 12420 4557 1579 10469
+	}
+
+	local_supplies=0.0 
+}

@@ -1,98 +1,100 @@
 
 state={
-	id=428
-	name="STATE_428"
-	manpower = 10590200
+	id=426
+	name="STATE_426" # Orissa
+	manpower = 8540000
 	
+	state_category = rural
 	
-	state_category = town
 	resources={
-		oil=3 # was: 4
+		steel=25 # was: 44
+		chromium=20 # was: 36
+		aluminium=1 # was: 2
 	}
 
 	history={
 		owner = RAJ
-		victory_points = {
-			9975 1 
-		}
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
-			9975 = {
-				naval_base = 2
-			}
 		}
 
 		buildings={
 			infrastructure=5
-			1061={
+			1059={
+				supply_node=1
+			}
+			1101={
+				supply_node=1
+			}
+			1538={
+				supply_node=1
+			}
+			4104={
 				supply_node=1
 				naval_base=10
 			}
-			1103={
-				supply_node=1
-			}
-			1144={
-				supply_node=1
-			}
-			1190={
+			4237={
 				supply_node=1
 				naval_base=10
 			}
-			4064={
+			4513={
 				supply_node=1
 			}
-			4090={
+			7090={
+				supply_node=1
+			}
+			7372={
+				supply_node=1
+			}
+			7428={
+				supply_node=1
+			}
+			9946={
+				supply_node=1
+			}
+			10001={
 				supply_node=1
 				naval_base=10
 			}
-			4132={
+			10060={
+				supply_node=1
+			}
+			10088={
 				supply_node=1
 				naval_base=10
 			}
-			4187={
+			10116={
 				supply_node=1
 				naval_base=10
 			}
-			7020={
+			10255={
 				supply_node=1
 				naval_base=10
 			}
-			7150={
+			10428={
+				supply_node=1
+			}
+			11924={
+				supply_node=1
+			}
+			11978={
 				supply_node=1
 				naval_base=10
 			}
-			7165={
-				supply_node=1
-			}
-			7207={
+			12063={
 				supply_node=1
 				naval_base=10
 			}
-			9975={
+			12462={
 				supply_node=1
 				naval_base=10
-			}
-			10118={
-				supply_node=1
-				naval_base=10
-			}
-			11952={
-				supply_node=1
-				naval_base=10
-			}
-			12037={
-				supply_node=1
-				naval_base=10
-			}
-			12092={
-				supply_node=1
 			}
 		}
 	}
 
 	provinces={
-		1061 1103 1144 1190 4064 4090 4132 4187 7020 7150 7165 7207 9975 10118 11952 12037 12092 
+		1059 1101 1538 4104 4237 4513 7090 7372 7428  9946 10001 10060 10088 10116 10255 10428 11924 11978 12063 12462  
 	}
 
 	local_supplies=0.0 

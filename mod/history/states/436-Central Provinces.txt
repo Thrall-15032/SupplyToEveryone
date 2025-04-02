@@ -1,88 +1,90 @@
 
 state={
-	id=433
-	name="STATE_433" # Rajasthan
-	manpower = 11786000
+	id=436
+	name="STATE_436" # Central provinces, was Jabalpur
+	manpower = 17990937
 	
-	state_category = town
-	
+	state_category = rural
 	
 	resources={
-		# tungsten=32 # was: 42
+		chromium=4 # was: 6
 	}
 
 	history={
-		victory_points = {
-			2054 1
-		}
 		owner = RAJ
+		
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
+			infrastructure = 1
+		}
+		victory_points = {
+			4950 5
 		}
 
 		buildings={
 			infrastructure=5
-			1199={
+			1510={
 				supply_node=1
 			}
-			1908={
+			4883={
 				supply_node=1
 			}
-			2054={
+			4950={
 				supply_node=1
 			}
-			4149={
+			4953={
 				supply_node=1
 			}
-			4915={
+			7430={
 				supply_node=1
 			}
-			4971={
+			7497={
 				supply_node=1
 			}
-			4984={
+			7574={
 				supply_node=1
 			}
-			7905={
+			7619={
 				supply_node=1
 			}
-			7998={
+			8120={
 				supply_node=1
 			}
-			10847={
+			10030={
 				supply_node=1
 			}
-			10866={
+			10401={
 				supply_node=1
 			}
-			12041={
+			10801={
 				supply_node=1
 			}
-			12718={
+			10872={
 				supply_node=1
 			}
-			12743={
+			12375={
 				supply_node=1
 			}
-			12829={
+			12480={
 				supply_node=1
 			}
-			12844={
+			12781={
 				supply_node=1
 			}
-			12876={
+			12799={
 				supply_node=1
 			}
-			12886={
+			12854={
+				supply_node=1
+			}
+			10171={
 				supply_node=1
 			}
 		}
 	}
 
 	provinces={
-		1199 1908 2054 4149 4915 4971 4984 7905 7998 10847 10866 12041 12718 12743 12829 12844 12876 12886 
+		1510  4883 4950 4953 7430 7497 7574 7619 8120 10030 10401 10801 10872 12375  12480 12781 12799 12854 10171
 	}
 
-	local_supplies=9.0 
+	local_supplies=0.0 
 }

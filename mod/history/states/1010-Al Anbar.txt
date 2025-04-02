@@ -1,0 +1,37 @@
+state = {
+	id = 1010
+	name = "STATE_1010"
+	state_category = rural
+	manpower = 479801
+
+	resources = {
+		oil = 3
+	}
+
+	history = {
+		owner = IRQ
+		add_core_of = IRQ
+		victory_points = {
+			12413 1 # Rumadiyah
+		}
+		buildings={
+			infrastructure=5
+			1631={
+				supply_node=1
+			}
+			4951={
+				supply_node=1
+			}
+			12413={
+				supply_node=1
+			}
+		}
+	}
+
+	provinces = {
+		1631 4951 12413 
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}
