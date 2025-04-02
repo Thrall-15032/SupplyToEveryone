@@ -430,7 +430,7 @@ begin
   for i := 0 to AdjacencyList.Count - 1 do
   begin
     TmpList.Clear();
-    if (AdjacencyList[i].Trim() = '') then
+    if (AdjacencyList[i].Trim() = '') OR (AdjacencyList[i][1] = '#') then
       Continue;
     TmpList.Delimiter := ';';
     TmpList.DelimitedText := AdjacencyList[i];
@@ -520,19 +520,19 @@ end;
 procedure TForm1.Button1Click(Sender: TObject);
 var
   RegExp: TRegExpr;
-  ts, tre: string;
-  InsertIndex: Integer;
-begin
-  ts := '	}history={';
-  if (ts.Contains('history')) then
-  begin
-    Showmessage(ts);
-    InsertIndex := ts.IndexOf('history');
-    ShowMessage(IntToStr(InsertIndex));
-    ts := Copy(ts, InsertIndex + 1);
-  end;
+  InputString, CountryTag: string;
+  i, index: Integer;
+  ProvinceSet: TProvinceSet;
+  StringList: TStringList;
 
-  ShowMessage(ts);
+begin
+  ProvinceSet := TProvinceSet.Create();
+  ParseOneProvice(
+    'D:\SteamLibrary\steamapps\common\Hearts of Iron IV\history\states\436-Central Provinces.txt',
+    CountryTag,
+    index,
+    ProvinceSet
+  );
 end;
 
 procedure TForm1.ShowProgress(AText: string; AMax: Integer; APos: Integer);
@@ -597,11 +597,22 @@ begin
   StateDataList := TStringList.Create();
   StateDataList.LoadFromFile(AFileName);
   index := StateDataList.Text.IndexOf('provinces');
+  for i := index downto 0 do
+  begin
+    if (StateDataList.Text[i] = #10) OR (StateDataList.Text[i] = #13) then
+      Break;
+    if (StateDataList.Text[i] = '#') then
+    begin
+      index := StateDataList.Text.IndexOf('provinces', index + 9);
+      Break;
+    end;
+  end;
   TmpStr := Copy(StateDataList.Text, index, Length(StateDataList.Text));
   index := TmpStr.IndexOf('}');
   TmpStr := Copy(TmpStr, 1, index + 1);
   RegExp := TRegExpr.Create('\#.*?\r?\n');
   RegExp.Compile();
+  // RegExp.GetMatchPos(
   TmpStr := RegExp.Replace(TmpStr, ''); // Remove comments
   TmpStr := StringReplace(TmpStr, 'provinces', '', [rfReplaceAll]);
   TmpStr := StringReplace(TmpStr, '=', '', [rfReplaceAll]);
